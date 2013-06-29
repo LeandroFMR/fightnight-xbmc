@@ -1,0 +1,13 @@
+<advancedsettings>
+	<playlisttimeout>360</playlisttimeout>
+	<network>
+		<cachemembuffersize>20971520</cachemembuffersize>
+		<autodetectpingtime>500</autodetectpingtime>
+		<curlclienttimeout>500</curlclienttimeout>
+		<curllowspeedtime>500</curllowspeedtime>
+	</network>
+	<gui>
+		<algorithmdirtyregions>3</algorithmdirtyregions>
+		<nofliptimeout>0</nofliptimeout>
+	</gui>
+</advancedsettings>
