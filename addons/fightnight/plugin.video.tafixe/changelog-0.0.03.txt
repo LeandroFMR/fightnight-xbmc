@@ -1,0 +1,12 @@
+[B]v0.0.02 (30 de Junho de 2013):[/B]
+- Mudanca de servidor.
+- Actualizacao nas categorias.
+- Correccoes de alguns erros.
+
+[B]v0.0.02 (22 de Marco de 2013):[/B]
+- Logo adicionado.
+- Corrigido problema caso a pagina nao use video.
+- Corrigido problema do script falhou (nao permitia ver videos).
+
+[B]v0.0.01 (22 de Fevereiro de 2013):[/B]
+- Primeira release
