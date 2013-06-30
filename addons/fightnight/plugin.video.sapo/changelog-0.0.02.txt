@@ -1,0 +1,6 @@
+[B]v0.0.02 (30 de Junho de 2013):[/B]
+- Mudanca de servidor.
+- Outras alteracoes.
+
+[B]v0.0.01 (7 de Fevereiro de 2013):[/B]
+- Primeira release

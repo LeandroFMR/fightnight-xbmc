@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.fightnight" name="fightnight repo" version="1.3" provider-name="fightnight">
+	<extension point="xbmc.addon.repository" name="fightnight">
+		<info compressed="false">http://fightnight-xbmc.googlecode.com/svn/addons/fightnight/addons.xml</info>
+		<checksum>http://fightnight-xbmc.googlecode.com/svn/addons/fightnight/addons.xml.md5</checksum>
+		<datadir zip="true">http://fightnight-xbmc.googlecode.com/svn/addons/fightnight/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Os meus addons para o XBMC</summary>
+		<description>Os meus addons para o XBMC</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
