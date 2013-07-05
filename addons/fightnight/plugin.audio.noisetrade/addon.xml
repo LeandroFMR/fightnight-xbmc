@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.audio.noisetrade"
+       name="NoiseTrade"
+       version="0.0.03"
+       provider-name="fightnight">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+	<import addon="script.module.urlresolver"  version="1.0.5"/>
+
+        <import addon="script.common.plugin.cache" version="0.9.0"/> 
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>NoiseTrade</summary>
+        <description>Legal music.</description>
+        <platform>all</platform>
+	<broken>Uninstall this addon and install the replacement addon (Fightnight Music from repo)</broken>
+    </extension>
+</addon>
