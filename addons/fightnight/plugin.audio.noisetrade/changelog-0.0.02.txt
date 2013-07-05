@@ -1,6 +1,0 @@
-[B]v0.0.02 (30 de Junho de 2013):[/B]
-- Update on server.
-- Other fixes.
-
-[B]v0.0.01 (21 de Maio de 2013):[/B]
-- First Release
