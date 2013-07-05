@@ -1,0 +1,13 @@
+[B]v0.0.04 (5 de Junho de 2013):[/B]
+- Fim do addon. Marcar como substituto. Instalar o Fightnight Music como substituto.
+
+[B]v0.0.03 (30 de Junho de 2013):[/B]
+- Servidor Actualizado.
+- Outras correcções.
+
+[B]v0.0.02 (12 de Maio de 2013):[/B]
+- Logo adicionado.
+- Estatisticas adicionadas.
+
+[B]v0.0.01 (12 de Maio de 2013):[/B]
+- Primeira release
