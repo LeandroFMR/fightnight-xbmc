@@ -1,0 +1,10 @@
+[B]v0.0.03 (5 de Julho de 2013):[/B]
+- Mark this as broken.
+- Install new addon fightnight music.
+
+[B]v0.0.02 (30 de Junho de 2013):[/B]
+- Update on server.
+- Other fixes.
+
+[B]v0.0.01 (21 de Maio de 2013):[/B]
+- First Release
