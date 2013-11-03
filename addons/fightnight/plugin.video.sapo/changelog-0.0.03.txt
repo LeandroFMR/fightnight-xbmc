@@ -1,0 +1,13 @@
+[B]v0.0.03 (3 de Novembro de 2013):[/B]
+- Corrigido erro de script em alguns videos.
+- Adicionada area de categorias.
+- Adicionado suporte a pesquisa de videos.
+- Melhorias de performance.
+- Correccao de bug que impedia o uso em versoes gotham.
+
+[B]v0.0.02 (30 de Junho de 2013):[/B]
+- Mudanca de servidor.
+- Outras alteracoes.
+
+[B]v0.0.01 (7 de Fevereiro de 2013):[/B]
+- Primeira release
