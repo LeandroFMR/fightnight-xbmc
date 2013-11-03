@@ -1,4 +1,0 @@
-[B]v0.0.01 (5 de Julho de 2013):[/B]
-- Primeira release
-- Radios portuguesas (~200estacoes)
-- Integracao dos addons NoiseTrade e Optimus Discos.
