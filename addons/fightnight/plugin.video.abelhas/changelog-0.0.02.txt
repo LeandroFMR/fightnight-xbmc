@@ -1,0 +1,9 @@
+[B]v0.0.02 (13 de Novembro de 2013):[/B]
+- Corrigidos erros de script.
+- Corrigido bug na pesquisa.
+- Procura legendas na directoria caso esteja a reproduzir video.
+- Suporte a contas com password (diferente de pastas).
+- Traducao em ingles.
+
+[B]v0.0.01 (13 de Novembro de 2013):[/B]
+- Primeira release.
