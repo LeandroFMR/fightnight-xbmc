@@ -1,0 +1,5 @@
+[B]v0.0.02 (9 de Dezembro de 2013):[/B]
+- Pequeno Fix.
+
+[B]v0.0.01 (9 de Dezembro de 2013):[/B]
+- Primeira release.
