@@ -1,0 +1,5 @@
+[B]v0.0.02 (21 de Dezembro de 2013):[/B]
+- Logotipo adicionado.
+
+[B]v0.0.01 (5 de Dezembro de 2013):[/B]
+- Release inicial.

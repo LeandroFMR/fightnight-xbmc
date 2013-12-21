@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.autoruns"
+       name="Autoruns"
+       version="0.0.02"
+       provider-name="fightnight">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/> 
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Turn on/off xbmc services.</summary>
+        <description>Addon services.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
