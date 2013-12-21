@@ -1,5 +1,0 @@
-[B]v0.0.02 (19 de Setembro de 2013):[/B]
-- Pequenos melhoramentos. Lancamento.
-
-[B]v0.0.01 (19 de Setembro de 2013):[/B]
-- Release inicial (pt wifi)
