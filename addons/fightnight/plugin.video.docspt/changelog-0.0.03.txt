@@ -1,0 +1,8 @@
+[B]v0.0.03 (10 de Fevereiro de 2014):[/B]
+- Limpeza de codigo e outras correccoes.
+
+[B]v0.0.02 (31 de Dezembro de 2013):[/B]
+- Release Inicial.
+
+[B]v0.0.01 (30 de Dezembro de 2013):[/B]
+- Testes
