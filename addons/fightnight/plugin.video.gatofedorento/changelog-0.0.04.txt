@@ -1,0 +1,13 @@
+[B]v0.0.04 (10 de Fevereiro de 2014):[/B]
+- Limpeza de codigo.
+
+[B]v0.0.03 (21 de Dezembro de 2013):[/B]
+- Suporte a Gotham.
+- Logotipo adicionado.
+
+[B]v0.0.02 (30 de Junho de 2013):[/B]
+- Mudanca de servidor.
+- Outras correccoes.
+
+[B]v0.0.01 (28 de Abril de 2013):[/B]
+- Release Inicial
