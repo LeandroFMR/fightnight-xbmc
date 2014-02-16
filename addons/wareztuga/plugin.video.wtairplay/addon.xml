@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.wtairplay" name="wareztuga.tv AirPlay" version="1.0" provider-name="wareztuga">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Airplay do site para os seus aparelhos com XBMC.</summary>
+    <description>Visita o site oficial. www.wareztuga.tv</description>
+    <platform>all</platform>
+  </extension>
+</addon>
