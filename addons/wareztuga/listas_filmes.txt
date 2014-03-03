@@ -1,0 +1,1 @@
+listas={"titulo":"Oscares 2014","author":"eu mesmo","descricao":"ff","url":"http://blabla.com/rrr"}
