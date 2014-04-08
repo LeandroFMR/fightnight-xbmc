@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <category label="Geral">
+      <setting id="playertype" type="enum" values="Auto (recomendado)|MPlayer|DVDPlayer|PAPlayer" label="Tipo de Player" default="0"/>
+      <setting id="prog-lista3" type="bool" label="Programacao na lista de canais" default="true"/>
+      <setting id="prog-player3" type="bool" label="Programacao no player" default="true"/>
+      <setting id="mensagemlibrtmp2" type="bool" label="Desactivar aviso do libRTMP no arranque" default="false"/>
+      <setting id="listacanais" type="bool" label="Activar lista de canais no Player" default="true"/>
+      <setting id="verif-veetle3" type="bool" label="Tenho o Veetle v0.3.1 instalado no XBMC" default="false"/>
+      <setting id="abrirlogolista" type="bool" label="Entrar directamente na lista de canais" default="false"/>
+      <setting id="abrirlogolista-botao" type="bool" label="   Mostrar botao para voltar ao menu principal" default="true" enable="!eq(-1,false)"/>
+      <setting id="ga_time" type="text" label="GA Called" default="2000-01-01 00:00:00" visible="false"/>
+      <setting id="ga_visitor" type="text" label="GA visitor" default="" visible="false"/>
+      <setting id="mensagemfb2" type="bool" label="Mensagem FB" default="true" visible="false"/>
+      <setting id="mensagemrestart" type="bool" label="Mensagem Restart" default="true" visible="false"/>
+      <setting id="dailymotionfix" type="bool" label="Fix Dailymotion Restarttv" default="true" visible="false"/>
+      <setting id="termos" type="bool" label="Aceitar termos" default="true" visible="false"/>
+      <setting id="buggalofix" type="bool" label="Fix Buggalo" default="true" visible="false"/>
+   </category>
+   <category label="Fontes">
+      <setting id="fontes-desportogratis" type="bool" label="Desporto Grátis" default="true"/>
+      <setting id="fontes-livesoccerhd" type="bool" label="Livesoccer HD" default="true"/>
+      <setting id="fontes-rtpplay" type="bool" label="RTP Play" default="true"/>
+      <setting id="fontes-thesporttveu" type="bool" label="Thesporttv.eu" default="true"/>
+      <setting id="fontes-tugastream" type="bool" label="Tugastream" default="true"/>
+      <setting id="fontes-tvacores" type="bool" label="TV a Cores" default="true"/>
+      <setting id="fontes-tvdez" type="bool" label="TVDez" default="true"/>
+      <setting id="fontes-tvtuga" type="bool" label="TVTuga" default="true"/>
+      <setting id="fontes-tvzune" type="bool" label="TVZune" default="true"/>
+      <setting id="fontes-tvpthdorg" type="bool" label="TV Portugal HD" default="true"/>
+   </category>
+   <category label="Canais">
+      <setting id="restarttv" type="bool" label="[B]Restart TV[/B]" default="true"/>
+      <setting id="listas-pessoais" type="bool" label="[B]Listas Pessoais[/B]" default="true"/>
+      <setting id="alterarvista" type="bool" label="[B]Alterar Vista[/B]" default="true"/>
+      <setting id="gravacoes" type="bool" label="[B]Gravacoes[/B]" default="true"/>
+      <setting id="eventos" type="bool" label="[B]Eventos[/B]" default="true"/>
+      <setting id="canais-abolatv" type="bool" label="A Bola TV" default="true"/>
+      <setting id="canais-axn" type="bool" label="AXN" default="true"/>
+      <setting id="canais-axnblack" type="bool" label="AXN Black" default="true"/>
+      <setting id="canais-axnwhite" type="bool" label="AXN White" default="true"/>
+      <setting id="canais-benficatv" type="bool" label="Benfica TV" default="true"/>
+      <setting id="canais-cpanda" type="bool" label="Canal Panda" default="true"/>
+      <setting id="canais-cmtv" type="bool" label="CM TV" default="true"/>
+      <setting id="canais-discovery" type="bool" label="Discovery Channel" default="true"/>
+      <setting id="canais-disney" type="bool" label="Disney Channel" default="true"/>
+      <setting id="canais-espna" type="bool" label="ESPN America" default="true"/>
+      <setting id="canais-eurosport" type="bool" label="Eurosport" default="true"/>
+      <setting id="canais-fashion" type="bool" label="Fashion TV" default="true"/>
+      <setting id="canais-fox" type="bool" label="FOX" default="true"/>
+      <setting id="canais-foxcrime" type="bool" label="FOX Crime" default="true"/>
+      <setting id="canais-foxlife" type="bool" label="FOX Life" default="true"/>
+      <setting id="canais-foxmovies" type="bool" label="FOX Movies" default="true"/>
+      <setting id="canais-historia" type="bool" label="Historia" default="true"/>
+      <setting id="canais-hollywood" type="bool" label="Hollywood" default="true"/>
+      <setting id="canais-maistvi" type="bool" label="Mais TVI" default="true"/>
+      <setting id="canais-motors" type="bool" label="Motors TV" default="true"/>
+      <setting id="canais-mov" type="bool" label="MOV" default="true"/>
+      <setting id="canais-mtv" type="bool" label="MTV" default="true"/>
+      <setting id="canais-ngc" type="bool" label="National Geographic Channel" default="true"/>
+      <setting id="canais-odisseia" type="bool" label="Odisseia" default="true"/>
+      <setting id="canais-pbiggs" type="bool" label="Panda Biggs" default="true"/>
+      <setting id="canais-portocanal" type="bool" label="Porto Canal" default="true"/>
+      <setting id="canais-rtp1" type="bool" label="RTP1" default="true"/>
+      <setting id="canais-rtp2" type="bool" label="RTP2" default="true"/>
+      <setting id="canais-rtpac" type="bool" label="RTP Acores" default="true"/>
+      <setting id="canais-rtpaf" type="bool" label="RTP Africa" default="true"/>
+      <setting id="canais-rtpi" type="bool" label="RTP Informacao" default="true"/>
+      <setting id="canais-rtpint" type="bool" label="RTP Internacional" default="true"/>
+      <setting id="canais-rtpmad" type="bool" label="RTP Madeira" default="true"/>
+      <setting id="canais-rtpmem" type="bool" label="RTP Memoria" default="true"/>
+      <setting id="canais-sic" type="bool" label="SIC" default="true"/>
+      <setting id="canais-sick" type="bool" label="SIC K" default="true"/>
+      <setting id="canais-sicmulher" type="bool" label="SIC Mulher" default="true"/>
+      <setting id="canais-sicnoticias" type="bool" label="SIC Noticias" default="true"/>
+      <setting id="canais-sicradical" type="bool" label="SIC Radical" default="true"/>
+      <setting id="canais-sporttv1" type="bool" label="SPORTTV 1" default="true"/>
+      <setting id="canais-sporttv2" type="bool" label="SPORTTV 2" default="true"/>
+      <setting id="canais-sporttv3" type="bool" label="SPORTTV 3" default="true"/>
+      <setting id="canais-sporttvlive" type="bool" label="SPORTTV LIVE" default="true"/>
+      <setting id="canais-syfy" type="bool" label="Syfy" default="true"/>
+      <setting id="canais-tvi" type="bool" label="TVI" default="true"/>
+      <setting id="canais-tvi24" type="bool" label="TVI24" default="true"/>
+      <setting id="canais-tvificcao" type="bool" label="TVI Ficcao" default="true"/>
+      <setting id="canais-vh1" type="bool" label="VH1" default="true"/>
+   </category>
+   <category label="Gravador" visible="!System.Platform.Windows">
+      <setting label="[COLOR red][B]Nao compativel com este sistema.[/B][/COLOR]" visible="System.Platform.Ios" type="lsep" /> 
+      <setting label="[COLOR red][B]Nao compativel com este sistema.[/B][/COLOR]" visible="System.Platform.Android" type="lsep" /> 
+      <setting label="[COLOR red][B]Nao compativel com este sistema.[/B][/COLOR]" visible="System.Platform.Atv2" type="lsep" /> 
+      <setting id="pastagravador" type="folder" label="Pasta para Gravacoes" default=""/>
+      <setting id="acrescentogravacao" type="enum" values="No fim do Programa|2 min depois|5 min depois|10 min depois" label="Parar gravacao" default="1"/>
+      <setting id="rtmpdumpalternativo" type="file" label="Utilizar gravador alternativo (rtmpdump)" default=""/>
+   </category>
+</settings>
