@@ -1,0 +1,10 @@
+<advancedsettings>
+    <network>
+	<cachemembuffersize>0</cachemembuffersize>        
+	<autodetectpingtime>30</autodetectpingtime>
+	<curlclienttimeout>60</curlclienttimeout>
+	<curllowspeedtime>60</curllowspeedtime>
+	<curlretries>2</curlretries>
+	<disableipv6>true</disableipv6> 
+    </network>
+</advancedsettings>
