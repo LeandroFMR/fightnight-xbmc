@@ -1,0 +1,485 @@
+[B]v0.3.04 (20 de Junho de 2014):[/B]
+- Adicionada opcao nas definicoes do addon para melhorar o reconhecimento de scrobble (trakt.tv).
+- Outras correccoes.
+
+[B]v0.3.03 (28 de Maio de 2014):[/B]
+- Adicionado suporte a biblioteca do XBMC para series. (ver opcoes do addon para detalhes).
+- Corrigido Freeze de player em certas alturas.
+- Corrigidos problemas com funcao "Abrir emissao"
+- Outros bugs corrigidos e melhorias.
+
+[B]v0.3.02 (15 de Abril de 2014):[/B]
+- Corrigidos varios problemas relacionados com os comentarios.
+
+[B]v0.3.01 (26 de Marco de 2014):[/B]
+- Sistema de reports adaptado para o novo sistema.
+- Melhorias esteticas na nova funcionalidade sinto-me com sorte.
+
+[B]v0.3.00 (26 de Marco de 2014):[/B]
+- Listas removidas (falta de adesao).
+- Adicionada funcionalidade sinto-me com sorte.
+- Adicionado pasta de ano 2014.
+- Outros bugs corrigidos.
+
+[B]v0.2.46 (3 de Marco de 2014):[/B]
+- Novo modo de listas! Separador filmes para mais detalhes.
+
+[B]v0.2.45 (1 de Marco de 2014):[/B]
+- Proteccao de timeout nos servidores.
+
+[B]v0.2.44 (28 de Fevereiro de 2014):[/B]
+- Firedrive corrigido.
+
+[B]v0.2.43 (19 de Fevereiro de 2014):[/B]
+- Compatilidade total com novo servidor firedrive.
+- Outras correccoes.
+
+[B]v0.2.42 (12 de Fevereiro de 2014):[/B]
+- Corrigido servidor putlocker (novo firedrive)
+
+[B]v0.2.41 (7 de Fevereiro de 2014):[/B]
+- Fix novo episodio em algumas series.
+
+[B]v0.2.40 (5 de Fevereiro de 2014):[/B]
+- Fix versao anterior.
+
+[B]v0.2.39 (5 de Fevereiro de 2014):[/B]
+- Servidor preferencial em premium.
+- Real-debrid corrigido.
+- Outras alteracoes.
+
+[B]v0.2.38 (5 de Fevereiro de 2014):[/B]
+- Fix nas novas alteracoes do proximo episodio.
+
+[B]v0.2.37 (4 de Fevereiro de 2014):[/B]
+- Sistema de novo episodio alterado (inclui informacao do site).
+
+[B]v0.2.36 (2 de Fevereiro de 2014):[/B]
+- Fix no menu a conta.
+
+[B]v0.2.35 (1 de Fevereiro de 2014):[/B]
+- Fix aviso pagina sobrecarregada.
+- Fix notificacoes.
+
+[B]v0.2.34 (31 de Janeiro de 2014):[/B]
+- Correccao real-debrid.
+- Correccao servidor putlocker.
+
+[B]v0.2.33 (10 de Janeiro de 2014):[/B]
+- Fix de variavel.
+
+[B]v0.2.32 (10 de Janeiro de 2014):[/B]
+- Correccao "Sem servidores disponiveis" em alguns conteudos.
+- Correccao captcha no putlocker/sockshare.
+- Correccao na codificacao de alguns caracteres em nomes de episódios/filmes.
+
+[B]v0.2.31 (9 de Janeiro de 2014):[/B]
+- Corrigido "Erro ao obter link final" no servidor putlocker/sockshare.
+
+[B]v0.2.30 (31 de Dezembro de 2013):[/B]
+- Adicionado elenco ao menu informacao de filmes (apenas gotham +alpha11)
+
+[B]v0.2.29 (22 de Dezembro de 2013):[/B]
+- Correccao no menu "a minha conta".
+- Correccao na lista de episodios.
+- Melhorias em sistemas premium.
+- Outras correccoes.
+
+[B]v0.2.28 (22 de Dezembro de 2013):[/B]
+- Correccao de tag na opcao ver mais tarde.
+- Fix Real-Debrid.
+
+[B]v0.2.27 (22 de Dezembro de 2013):[/B]
+- Suporte a captcha no putlocker.
+- Lista de Servidores alterada.
+- Ver mais tarde/download encontra-se na lista de contexto.
+- Outras correccoes.
+
+[B]v0.2.26 (24 de Novembro de 2013):[/B]
+- Tags nas definicoes do addon.
+- Fix em unrestrict.li caso conta tenha SSL activo.
+- Corrigido bug em que o player entrava em loop caso servidor preferencial e premium estivessem activos.
+- Outras correccoes.
+
+[B]v0.2.25 (23 de Novembro de 2013):[/B]
+- Incompatibilidade com versao Eden e suporte a Gotham.
+- Corrigido erro de script no realdebrid.
+- Corrigido erro nos interrompidos relacionado com unrestrict.li.
+- Melhorias no unrestrict.li.
+- Outros erros corrigidos.
+
+[B]v0.2.24 (9 de Novembro de 2013):[/B]
+- Refix de actualizacão.
+
+[B]v0.2.23 (9 de Novembro de 2013):[/B]
+- Refix de actualizacão.
+
+[B]v0.2.22 (9 de Novembro de 2013):[/B]
+- Corrigido problema com a metadata nos filmes (sem capas e trailers) (ty paulo silva).
+
+[B]v0.2.21 (8 de Novembro de 2013):[/B]
+- Adicionado menu para filmes/series com melhor classificacao.
+- Comentarios corrigidos.
+- Servidor premium free "unrestrict.li" adicionado.
+
+[B]v0.2.20 (3 de Novembro de 2013):[/B]
+- Relancamento da actualizacao.
+
+[B]v0.2.19 (3 de Novembro de 2013):[/B]
+- Refix na lista de servidores.
+
+[B]v0.2.18 (3 de Novembro de 2013):[/B]
+- Correccao na funcionalidade premium (real-debrid).
+- Adicionados ambos os servidores a lista (premium e free).
+- Outras correccoes.
+
+[B]v0.2.17 (31 de Outubro de 2013):[/B]
+- Correccao na lista de episodios nas series.
+- Correccao no menu conta.
+- Adicionada referencia a legendas oficiais.
+- Outras correccoes.
+
+[B]v0.2.16 (13 de Outubro de 2013):[/B]
+- Adicionada proteccao nos servidores putlocker/sockshare.
+- Alterada formula de metadata nas series.
+- Adicionada fanart da serie aos menus de temporada/episodio.
+- Informacao automatica sobre o proximo episodio no menu das temporadas.
+- Outras correccoes.
+
+[B]v0.2.15 (8 de Outubro de 2013):[/B]
+- Correccao do erro de repositorio "broken".
+- Adicionada opcao de servidor preferencial.
+- Outras correccoes.
+
+[B]v0.2.14 (4 de Outubro de 2013):[/B]
+- Refix.
+
+[B]v0.2.13 (4 de Outubro de 2013):[/B]
+- Correccoes no addon. (notificacoes, filmes, etc.)
+
+[B]v0.2.12 (23 de Setembro de 2013):[/B]
+- Adicionada opcao para ocultar o numero de notificacoes.
+- Nova categoria animes adicionada.
+- Filmes, series e animes ja disponiveis.
+- Outras correccoes.
+
+[B]v0.2.11 (6 de Setembro de 2013):[/B]
+- Correccao nas legendas em alguns filmes.
+
+[B]v0.2.10 (5 de Setembro de 2013):[/B]
+- Correccao no servidor Upzin.
+
+[B]v0.2.09 (27 de Agosto de 2013):[/B]
+- Refix nas novas alteracoes do site.
+
+[B]v0.2.08 (26 de Agosto de 2013):[/B]
+- Correccao nas listas de servidores.
+
+[B]v0.2.07 (16 de Agosto de 2013):[/B]
+- Correccao nas series que ja terminaram.
+
+[B]v0.2.06 (16 de Agosto de 2013):[/B]
+- Suporte completo ao servico trakt/scrobbles (filmes e series)
+- Proteccao contra comentarios pequenos.
+- Outras correccoes.
+
+[B]v0.2.05 (6 de Agosto de 2013):[/B]
+- Resolvido problema no menu de contexto.
+- Resolvido problema a comentar no fim do video.
+- Adicionado suporte ao novo servidor.
+- Nova funcao para encerrar automaticamente o sistema.
+
+[B]v0.2.04 (4 de Agosto de 2013):[/B]
+- Correccao nas paginas.
+- Correccoes nos resolvers.
+- Correccoes no real-debrid.
+- Corrigido problema nas series em exibicao.
+- Corrigido problema que impedia de ver filmes na versao EDEN.
+- Corrigidos problemas de caracteres especiais.
+- Alterada forma como e efectuada o request no site. Causa melhorias no addon e poupa o server.
+- Adicionadas tags SD/HD.
+- Adicionadas mensagem de aviso caso o site esteja down.
+- Adicionada funcao para escolher um filme aleatoriamente.
+- Adicionada opcao para comentar filme/episodio.
+- Adicionada opcao para reportar erros no filme/episodio.
+- Funcao/modo de pesquisa alterada.
+
+[B]v0.2.03 (29 de Junho de 2013):[/B]
+- Alteracao do servidor do addon.
+- Outras correccoes.
+
+[B]v0.2.02 (28 de Junho de 2013):[/B]
+- Refix no resolver do putlocker.
+
+[B]v0.2.01 (27 de Junho de 2013):[/B]
+- Correccao no resolver do putlocker.
+- Melhorias no modo offline (voltar a reconectar, etc).
+- Correccoes no real-debrid.
+- Outras correccoes.
+
+[B]v0.2.00 (2 de Junho de 2013):[/B]
+- Adicionada opcao para remover os videos interrompidos (combolist).
+- Adicionado suporte para outros players (externos/mplayer,etc..)
+- Adicionada opcao para fazer download das legendas antes de iniciar o player (para players externos).
+- Correccao do resolver do bayfiles.
+- Correccao de login no real-debrid.
+- Corrigido problema a visualizar trailer.
+- Suporte a free premium download no bayfiles (quando disponivel).
+- Melhorada integracao com o trakt.
+- Sistema de notificacoes permite navegar para notificacoes (pedidos para o seu respectivo pedido, etc).
+- Adicionada Media info 3 as series.
+- Fanart adicionada aos menus.
+- Caso tenha 1 temporada, addon ira logo para a lista de episodios.
+- Outras correccoes.
+
+[B]v0.1.46 (8 de Abril de 2013):[/B]
+- Corrigidos vários problemas nas páginas dos agendados/favoritos.
+
+[B]v0.1.45 (7 de Abril de 2013):[/B]
+- Corrigido problemas que impediam de remover dos favoritos/agendados.
+
+[B]v0.1.44 (7 de Abril de 2013):[/B]
+- Corrigidos problemas do submenu.
+
+[B]v0.1.43 (7 de Abril de 2013):[/B]
+- Marcadores activados (continuar em certa parte).
+- Lista de filmes interrompidos no addon.
+- Codigo bastante simplificado e melhorado.
+- Codigo mais reutilizavel.
+
+[B]v0.1.42 (1 de Abril de 2013):[/B]
+- Problemas do submenu resolvidos.
+
+[B]v0.1.41 (28 de Marco de 2013):[/B]
+- Bastantes erros corrigidos devido a alteracoes no site.
+
+[B]v0.1.40 (25 de Marco de 2013):[/B]
+- Problemas com real-debrid corrigidos.
+- Outros problemas corrigidos.
+
+[B]v0.1.39 (15 de Marco de 2013):[/B]
+- Correccao nas series em exibicao.
+- Outras correccoes.
+
+[B]v0.1.38 (15 de Marco de 2013):[/B]
+- Algumas correccoes.
+
+[B]v0.1.37 (10 de Marco de 2013):[/B]
+- Fix de todos os erros relacionados com o dominio.
+- Correccao de problema no nr de notificacoes.
+- Pequenas correccoes.
+
+[B]v0.1.36 (9 de Marco de 2013):[/B]
+- Adicionada opcao para escolher player interno (dvdplayer) ou externo (mplayer). 
+- Vista das series em exibicao passa a ser a escolhida nas opcoes (como nos outros menus).
+- Pequenas correccoes.
+
+[B]v0.1.35 (21 de Fevereiro de 2013):[/B]
+- Suporte premium para Real-Debrid adicionado. (thx rflores2323/misa2610 pelas contas)
+- Correccoes nas alteracoes.
+- Pequenas alteracoes.
+
+[B]v0.1.34 (18 de Fevereiro de 2013):[/B]
+- Addon memoriza a ultima pesquisa.
+- Pequenas correccoes.
+- Passa a ser possivel procurar data de exibicao de novo episodio.
+
+[B]v0.1.33 (15 de Fevereiro de 2013):[/B]
+- Bastantes erros corrigidos para a versao EDEN.
+- Opcao para limitar o buffer a 5/10/20/30MB adicionada.
+
+[B]v0.1.32 (14 de Fevereiro de 2013):[/B]
+- Corrigido bug nas estatisticas.
+- Script de marcar automatico melhorado.
+- Corrigido bug que impedia de marcar como visto.
+- Adicionada opcao para activar/desactivar marcacao automatica.
+
+[B]v0.1.31 (13 de Fevereiro de 2013):[/B]
+- Ja e possivel aceder aos conteudos gravados atraves do plugin.
+- Ja estao disponiveis as funcoes da combolist (marcar como visto, favoritos, etc) para as series.
+- Metadata para as series ja disponivel.
+- Corrigido bug nos episodios agendados.
+- Passa a ser possivel ler e marcar como lidas as notificacoes no addon.
+- Pequena notificacao no menu inicial quando tem notificacoes por ler.
+- Actualizacao no script das estatisticas.
+- Marcar como visto automatico.
+
+[B]v0.1.30 (10 de Fevereiro de 2013):[/B]
+- Passa a ser possivel aceder ao plugin sem ligacao a internet.
+- Menu adicionado para aceder aos conteudos gravados.
+- Opcao "ver mais tarde" passa a estar na lista de servidores e guarda a escolha.
+- Algumas janelas de dialogo removidas.
+- Corrigido problema na versao EDEN.
+- Corrigido problema relacionado com o nr de views.
+- Corrigido problema no putlocker (erro de plugin)
+- Corrigidos varios problemas nas series em exibicao.
+
+[B]v0.1.29 (8 de Fevereiro de 2013):[/B]
+- Refix nas estatisticas
+
+[B]v0.1.28 (8 de Fevereiro de 2013):[/B]
+- Fix nas estatisticas
+
+[B]v0.1.27 (7 de Fevereiro de 2013):[/B]
+- Resolvido problema relacionado com os servidores em branco (login)
+
+[B]v0.1.26 (7 de Fevereiro de 2013):[/B]
+- Resolvido problema no putlocker
+- Removidos popups em excesso.
+- Google Analytics adicionado (estatisticas).
+- Pequenas correccoes.
+
+[B]v0.1.25 (4 de Fevereiro de 2013):[/B]
+- Series com caracteres especiais davam erro de sobrecarga.
+- Novo separador de definicoes.
+- E possivel definir pasta de download e se deseja legendas em ficheiro.
+- Passa a ser possivel o download de filmes/episodios para ver mais tarde.
+
+[B]v0.1.24 (4 de Fevereiro de 2013):[/B]
+- Codigo bastante simplificado (1500linhas->1000linhas)
+- Alterada a forma como o servidor é escolhido (bastantes vantagens)
+- Removido menu em branco (no fim de escolher o servidor)
+- Texto dos menus colocado em string (mais facil para traduzir e para manusear)
+- Opção para escolher metadata original adicionada.
+- Melhoria no tempo de espera a resolver links.
+- Series em exibicao nao mostravam a temporada no player
+- Corrigido problema no servidor putlocker.
+- Corrigido problema relacionado com "a minha conta".
+- Erro que impedia de fazer um pedido corrigido.
+- Corrigido erro em algumas series em exibicao.
+- Acentos corrigidos.
+
+[B]v0.1.23 (28 de Janeiro de 2013):[/B]
+- Resolver do putlocker passa a fazer grab do link mp4 final.
+- Maior tempo de socket.
+- Corrigido problema nas miniaturas.
+- Barra de progresso enquanto carrega a lista de filmes/series/episodios.
+- Tempo de buffering entre escolha de servidor/player muito menor.
+- Resolvido problema que impedia tablets com internet em 3G de aceder ao player.
+
+[B]v0.1.22 (25 de Janeiro de 2013):[/B]
+- Ja e possivel votar atraves do plugin
+- Trailers passam a estar disponiveis para filmes.
+- Fix nos resolvers.
+
+[B]v0.1.21 (25 de Janeiro de 2013):[/B]
+- Agendar e marcar como favoritos atraves do plugin (so filmes).
+- Remover favoritos da lista de favoritos.
+- Remover agendados da lista de agendados.
+- Remover episodios agendados da lista de episodios agendados.
+- Corrigidos bugs em marcar como visto.
+- Agendar para mais tarde episodios.
+- Logos actualizados.
+
+[B]v0.1.20 (22 de Janeiro de 2013):[/B]
+- Fanart adicionado e icon alterado (ty rukanito)
+- Ja e possivel marcar como visto nos episodios e filmes.
+- Os comentarios passam a estar na combolist.
+- Passa a ser possivel ver comentarios dos episodios.
+- Corrigidos bugs no login.
+- Vistos nao apareciam na versao FRODO.
+
+[B]v0.1.19 (20 de Janeiro de 2013):[/B]
+- Corrigido um bug que impedia usernames/passwords com espaços de entrar no plugin.
+
+[B]v0.1.18 (20 de Janeiro de 2013):[/B]
+- Forma como as paginas sao pedidas alterada (permite poupanças significativas dos servidor do wt).
+- Reforçada a protecçao de sobrecarga.
+- Alterações no login.
+- Pedidos atraves do plugin disponiveis (para pedir deve carregar sobre o nome do filme/serie).
+- "A minha conta" disponivel. Contem notificações, favoritos e agendados.
+
+[B]v0.1.17 (17 de Janeiro de 2013):[/B]
+- Se episodio ou filme marcados como visto, vai aparecer o certo junto ao thumbnail/nome.
+- Pequenas correcções.
+
+[B]v0.1.16 (17 de Janeiro de 2013):[/B]
+- Passa a ser obrigatorio o uso da conta do tv no plugin.
+- Informaçao da conta (foto e username) no menu principal.
+- Número de resultados encontrados junto à proxima pagina
+- Filmes favoritos e agendados da conta disponiveis no plugin (agendar no site para ja)
+- Series favoritas e episodios agendados disponiveis no plugin  (agendar no site para ja)
+- Codigo das paginas simplificado.
+
+[B]v0.1.15 (16 de Janeiro de 2013):[/B]
+- Corrigido bug que causava a mensagem de sobrecarga na versao em ingles.
+
+[B]v0.1.14 (16 de Janeiro de 2013):[/B]
+- Corrigido problema na versao eden.
+- Series com um episodio nao apareciam.
+
+[B]v0.1.13 (16 de Janeiro de 2013):[/B]
+- Lista de episodios corrigida devido a alterações no site.
+- Titulo, episodio e nome da serie dispostos nos parametros correctos.
+
+[B]v0.1.12 (15 de Janeiro de 2013):[/B]
+- Refix
+
+[B]v0.1.11 (15 de Janeiro de 2013):[/B]
+- Fix do t0mm0
+
+[B]v0.1.10 (15 de Janeiro de 2013):[/B]
+- Adicionada vista media info 3 às opções e como padrao.
+- Videomega retirado da lista dos servidores.
+- Sockshare adicionado à lista dos servidores.
+- Codigo do Bayfiles bastante simplificado.
+- Download PRO do sockshare e putlocker sem conta premium.
+- Novas opções adicionadas à combolist dos filmes (apenas funciona a info do filme)
+- Arranque da integraçao com TVDb (desactivada para ja).
+- Corrigido bug que existia entre a pagina 9 e 10.
+- Adicionada opçao para desactivar a metadata (+ rapido, nao e necessario o grab do TMDB/TVDb)
+- Adicionada referencia ao uploader e ao número de visualizações.
+- Adicionado titulo do episodio nas series em exibiçao.
+
+[B]v0.1.09 (2 de Janeiro de 2013):[/B]
+- Os filmes passam a conter a informaçao na pagina de informaçao do filme (premir i ou continuamente)
+- Fanart, cotaçao (TMDB), MPA e ano passam a estar disponiveis.
+- Se o idioma for o ingles, o nome do filme, sinopse e toda a informaçao passam para a lingua inglesa.
+- Pequenas alterações
+
+[B]v0.1.08 (28 de Dezembro de 2012):[/B]
+- BUG: Acentos nao apareciam nas pesquisas.
+- BUG: Ao ir da Pagina 9 para a pagina 10, voltava para a 1.
+
+[B]v0.1.07 (28 de Dezembro de 2012):[/B]
+- Maior variedade de opções de vista
+- Passa a ser possivel definir a vista padrao (nas definições).
+- Inicio da transiçao da informaçao para a pagina de info.
+- Se a pagina estiver sobrecarregada, aparece uma mensagem de aviso.
+- BUG: caracteres especiais ja aparecem na v12.
+- BUG: imagens nao apareciam na pesquisa.
+
+[B]v0.1.06 (26 de Dezembro de 2012):[/B]
+- Login desactivado temporariamente devido a problemas.
+
+[B]v0.1.05 (26 de Dezembro de 2012):[/B]
+- Corrigido um erro que impedia o login (refix)
+
+[B]v0.1.04 (26 de Dezembro de 2012):[/B]
+- Corrigido um erro que impedia o login
+
+[B]v0.1.03 (26 de Dezembro de 2012):[/B]
+- Adicionadas definições do addon
+- Plugin disponivel em Ingles
+- Adicionada opçao para desactivar legendas
+- Adicionada opçao para mostrar titulos originais
+- Adicionada opçao para importar definições recomendadas
+- Passa a ser obrigatorio o uso da conta do wareztuga.tv (para ja sem uso)
+- Melhorias na forma como as paginas sao chamadas
+- Cada filme passa a conter informaçao sobre ano/genero/realizador/elenco/sinopse/favoritos/imdb e comentarios do site
+- Bayfiles passa a estar disponivel (apesar de ser bastante instavel)
+- Corrigido um erro que fazia com que as capas das series nao aparecessem
+
+[B]v0.1.02 (16 de Dezembro de 2012):[/B]
+- Thumbs das categorias ja disponiveis (obrigado setup).
+- Alterada a forma como o filme e reproduzido.
+- Adicionado o ano às listas de filmes/series.
+- Estilo das listas alterado.
+- Informaçao do player ja corresponde ao que estamos a ver (necessita de ajustes).
+- Letras com acentos ja aparecem nos menus (ainda nao funciona nas listas de filmes/series).
+
+[B]v0.1.01 (13 de Dezembro de 2012):[/B]
+- Paginas passam a estar disponiveis.
+- Informaçao da última versao disponivel.
+- Melhorias de performance (cpu/gpu)
+- Pequenas correcções
