@@ -1,0 +1,21 @@
+[B]v0.0.06 (20 de Junho de 2014):[/B]
+- Adicionado suporte inicial basico para redes NOS Wifi (ex FON ZON).
+- Outras correccoes.
+
+[B]v0.0.05 (10 de Fevereiro de 2014):[/B]
+- Limpeza de codigo.
+
+[B]v0.0.04 (3 de Fevereiro de 2014):[/B]
+- Actualizacao para MEO WiFi.
+- Logotipos actualizados.
+- Outras alteracoes.
+
+[B]v0.0.03 (21 de Dezembro de 2013):[/B]
+- Suporte a Gotham.
+- Logotipo adicionado.
+
+[B]v0.0.02 (19 de Setembro de 2013):[/B]
+- Pequenos melhoramentos. Lancamento.
+
+[B]v0.0.01 (19 de Setembro de 2013):[/B]
+- Release inicial (pt wifi)
