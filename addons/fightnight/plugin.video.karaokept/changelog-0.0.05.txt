@@ -1,0 +1,18 @@
+[B]v0.0.05 (7 de Julho de 2014):[/B]
+- Adicionado TOP30.
+- Limpeza de codigo.
+- Outras correccoes e melhorias.
+
+[B]v0.0.04 (23 de Abril de 2014):[/B]
+- Diversos erros corrigidos.
+- 200 musicas adicionadas.
+- Logotipo adicionado.
+
+[B]v0.0.03 (9 de Dezembro de 2013):[/B]
+- Refix!
+
+[B]v0.0.02 (9 de Dezembro de 2013):[/B]
+- Pequeno Fix.
+
+[B]v0.0.01 (9 de Dezembro de 2013):[/B]
+- Primeira release.
