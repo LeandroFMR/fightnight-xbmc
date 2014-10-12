@@ -1,0 +1,26 @@
+﻿{"sid":"ldc","sname":"A Loja do Camilo","sdesc":"Nothing","sthumb":"Nothing"}
+
+{"epid":"ldc101","epext":"avi","epsea":"1","epnum":"1","epname":"A Máquina de Lavar Roupa"}
+{"epid":"ldc102","epext":"avi","epsea":"1","epnum":"2","epname":"O Funeral"}
+{"epid":"ldc103","epext":"avi","epsea":"1","epnum":"3","epname":"O Executivo"}
+{"epid":"ldc104","epext":"avi","epsea":"1","epnum":"4","epname":"Bolo da Jamaica"}
+{"epid":"ldc105","epext":"avi","epsea":"1","epnum":"5","epname":"Miss Loja do Camilo"}
+{"epid":"ldc106","epext":"avi","epsea":"1","epnum":"6","epname":"Uma Grande Noite"}
+{"epid":"ldc107","epext":"avi","epsea":"1","epnum":"7","epname":"A Loja do Jaquité"}
+{"epid":"ldc108","epext":"avi","epsea":"1","epnum":"8","epname":"O Cão de Guarda"}
+{"epid":"ldc109","epext":"avi","epsea":"1","epnum":"9","epname":"Os Fósforos do Camilo"}
+{"epid":"ldc110","epext":"avi","epsea":"1","epnum":"10","epname":"A Motorizada"}
+{"epid":"ldc111","epext":"avi","epsea":"1","epnum":"11","epname":"Empregada Precisa-se"}
+{"epid":"ldc112","epext":"avi","epsea":"1","epnum":"12","epname":"O Casamento"}
+{"epid":"ldc201","epext":"avi","epsea":"2","epnum":"1","epname":"A Carrinha Nova"}
+{"epid":"ldc202","epext":"avi","epsea":"2","epnum":"2","epname":"Self Service"}
+{"epid":"ldc203","epext":"avi","epsea":"2","epnum":"3","epname":"Há Ladrões no Bairro"}
+{"epid":"ldc204","epext":"avi","epsea":"2","epnum":"4","epname":"Feliz Aniversário"}
+{"epid":"ldc205","epext":"avi","epsea":"2","epnum":"5","epname":"O Apreendiz de Merceeiro"}
+{"epid":"ldc206","epext":"avi","epsea":"2","epnum":"6","epname":"O Emigrante"}
+{"epid":"ldc207","epext":"avi","epsea":"2","epnum":"7","epname":"O Anúncio"}
+{"epid":"ldc208","epext":"avi","epsea":"2","epnum":"8","epname":"A Doença"}
+{"epid":"ldc209","epext":"avi","epsea":"2","epnum":"9","epname":"Os Ciúmes do Camilo"}
+{"epid":"ldc210","epext":"avi","epsea":"2","epnum":"10","epname":"O Espírito do Merceeiro"}
+{"epid":"ldc211","epext":"avi","epsea":"2","epnum":"11","epname":"Fato Novo"}
+{"epid":"ldc212","epext":"avi","epsea":"2","epnum":"12","epname":"Negócio Sobre Rodas"}
