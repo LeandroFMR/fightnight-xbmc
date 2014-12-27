@@ -1,0 +1,9 @@
+[B]v0.1.00 (27 de Dezembro de 2014):[/B]
+- Icon adicionado.
+- Diversos bugs corrigidos.
+- Adicionado estado da serie.
+- Adicionada possibilidade de guardar episodios para modo offline.
+- Outras correccoes.
+
+[B]v0.0.01 (12 de Outubro de 2014):[/B]
+- Primeira release.
