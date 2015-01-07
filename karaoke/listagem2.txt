@@ -1,0 +1,2214 @@
+﻿{"update":"7/1/2015 21:32"}
+{"id":"ptk0001","artist":"4 Dance","song":"Modo De Ser"}
+{"id":"ktt0149t09","artist":"4 Taste","song":"Sempre Que Te Vejo (Sinto Um Desejo)"}
+{"id":"ktt0147t11","artist":"4 Taste","song":"Desta Vez Eu Não Te Vou Perder"}
+{"id":"ktt0504t06","artist":"Adamo","song":"Tombe La Neige"}
+{"id":"ktt0103t12","artist":"Adelaide Ferreira","song":"Alma Vazia"}
+{"id":"ktt0126t01","artist":"Adelaide Ferreira","song":"Dá-me o Teu Amor"}
+{"id":"ptk0002","artist":"Adelaide Ferreira","song":"Dava Tudo"}
+{"id":"ktt0101t04","artist":"Adelaide Ferreira","song":"Dava Tudo"}
+{"id":"ktt0127t02","artist":"Adelaide Ferreira","song":"Dou-Te O Mundo"}
+{"id":"ptk0003","artist":"Adelaide Ferreira","song":"Papel Principal"}
+{"id":"ktt0001t01","artist":"Adelaide Ferreira","song":"Papel Principal"}
+{"id":"ktt0001t10","artist":"Adelaide Ferreira","song":"Papel Principal"}
+{"id":"ktt0132t12","artist":"Adelaide Ferreira","song":"Para O Que Der E Vier"}
+{"id":"ptk0004","artist":"Adelaide Ferreira","song":"Vem No Meu Sonho"}
+{"id":"ptk0005","artist":"Adiafa","song":"As Meninas Da Ribeira Do Sado Dance"}
+{"id":"ptk0006","artist":"Adiafa","song":"As Meninas Da Ribeira Do Sado"}
+{"id":"ktt0111t09","artist":"Adiafa","song":"As Meninas Da Ribeira Do Sado"}
+{"id":"ktt0102t15","artist":"Adoniran Barbosa","song":"Tren das Onze"}
+{"id":"ptk0007","artist":"Adriana Calcanhoto","song":"Fico Assim Sem Você"}
+{"id":"ktt0506t04","artist":"Adriana Calcanhoto","song":"Fico Assim Sem Você"}
+{"id":"ktt0504t10","artist":"Adriana Calcanhoto","song":"Vambora"}
+{"id":"ktt0153t15","artist":"Adriano Correia de Oliveira","song":"Trova do vento q passa"}
+{"id":"ktt0123t07","artist":"Afonsinhos do Condado","song":"A Salsa Das Amoreiras"}
+{"id":"ktt0139t12","artist":"Ágata","song":"Abençoada (Virgem Maria)"}
+{"id":"ptk0706","artist":"Ágata","song":"Comunhão De Bens"}
+{"id":"ktt0008t07","artist":"Ágata","song":"Comunhão de Bens"}
+{"id":"ktt0008t17","artist":"Ágata","song":"Comunhão de Bens"}
+{"id":"ktt0126t15","artist":"Ágata","song":"Coração que Ama"}
+{"id":"ptk0707","artist":"Ágata","song":"De Mulher Pra Mulher (Com Romana)"}
+{"id":"ktt0127t03","artist":"Ágata","song":"De Mulher Para Mulher (Com Romana)"}
+{"id":"ktt0128t06","artist":"Ágata","song":"Mãe Solteira"}
+{"id":"ptk0708","artist":"Ágata","song":"Maldito Amor,Maldito"}
+{"id":"ktt0124t07","artist":"Ágata","song":"Maldito Amor"}
+{"id":"ktt0002t02","artist":"Ágata","song":"Perfume de Mulher"}
+{"id":"ktt0002t12","artist":"Ágata","song":"Perfume de Mulher"}
+{"id":"ptk0008","artist":"Agepê","song":"Me Leva"}
+{"id":"ptk0009","artist":"Aguita Salá","song":"Por Devajo De Tu Cintura"}
+{"id":"ptk0010","artist":"Ala Dos Namorados","song":"Caçador De Sóis"}
+{"id":"ktt0142t02","artist":"Ala dos Namorados","song":"Caçador de Sóis"}
+{"id":"ktt0112t06","artist":"Ala Dos Namorados","song":"Fim Do Mundo"}
+{"id":"ptk0011","artist":"Ala Dos Namorados","song":"O Fim Do Mundo"}
+{"id":"ptk0012","artist":"Ala Dos Namorados","song":"Solta se O Beijo"}
+{"id":"ktt0106t01","artist":"Ala dos Namorados","song":"Solta se o Beijo"}
+{"id":"ktt0110t03","artist":"Alcoolémia","song":"Não Sei Se Mereço"}
+{"id":"ktt0511t01","artist":"Alejandro Sanz","song":"A La Primera Persona"}
+{"id":"ktt0507t02","artist":"Alejandro Sanz","song":"Amiga Mía"}
+{"id":"ktt0501t07","artist":"Alejandro Sanz","song":"Corazón Partío"}
+{"id":"ktt0506t01","artist":"Alejandro Sanz","song":"Cuando Nadie Me Ve"}
+{"id":"ktt0508t02","artist":"Alejandro Sanz","song":"Y Se Fuera Ella"}
+{"id":"ptk0013","artist":"Além Mar","song":"Deixa me Olhar"}
+{"id":"ktt0106t03","artist":"Além Mar","song":"Deixa me Olhar"}
+{"id":"ktt0120t11","artist":"Além Mar","song":"Já Não Há Mais Baladas"}
+{"id":"ktt0118t12","artist":"Alex","song":"Mister Gay"}
+{"id":"ktt0115t15","artist":"Alexandra","song":"Zé Brasileiro"}
+{"id":"ktt0509t06","artist":"Alexandre Pires","song":"Es Por Amor"}
+{"id":"ktt0506t14","artist":"Alexandre Pires","song":"Voce Roubou A Minha Vida"}
+{"id":"ktt0146t14","artist":"Alfredo Marceneiro","song":"A Casa da Mariquinhas"}
+{"id":"ptk0014","artist":"Amália Hoje","song":"Gaivota"}
+{"id":"ktt0153t01","artist":"Amália Hoje","song":"Gaivota"}
+{"id":"ktt0104t13","artist":"Amália Rodrigues","song":"Barco Negro"}
+{"id":"ktt0145t06","artist":"Amália Rodrigues","song":"Fado Malhoa"}
+{"id":"ktt0147t06","artist":"Amália Rodrigues","song":"O Careca"}
+{"id":"ktt0151t08","artist":"Amália Rodrigues","song":"Timpanas"}
+{"id":"ktt0510t13","artist":"Amistades Peligrosas","song":"Me Haces Tanto Bien"}
+{"id":"ptk0857","artist":"Ana Duarte","song":"Agora Mata-me de Amor"}
+{"id":"ptk0889","artist":"Ana Duarte","song":"Minha Paixão Antiga"}
+{"id":"ptk0898","artist":"Ana Duarte","song":"Tua Namorada"}
+{"id":"ptk0015","artist":"Ana Malhoa","song":"Banho De Lua"}
+{"id":"ptk0016","artist":"Ana Malhoa","song":"Eu Sou Latina"}
+{"id":"ptk0017","artist":"Ana Malhoa","song":"Nada Me Pára"}
+{"id":"ptk0018","artist":"Ana Malhoa","song":"Nobre Coração"}
+{"id":"ptk0019","artist":"Ana Malhoa","song":"Por Amor"}
+{"id":"ptk0020","artist":"Ana Malhoa","song":"Se Deus Me Ajudar"}
+{"id":"ptk0021","artist":"Ana Malhoa","song":"Sinto - Me Sexy"}
+{"id":"ptk0022","artist":"Ana Malhoa","song":"Teu Corpo Ardente"}
+{"id":"ktt0140t05","artist":"Ana Malhoa","song":"Teu Corpo Ardente"}
+{"id":"ktt0151t03","artist":"Ana Moura","song":"Os Búzios"}
+{"id":"ptk0023","artist":"Anabela","song":"Cidade Até Ser Dia"}
+{"id":"ktt0001t02","artist":"Anabela","song":"Cidade Até Ser Dia"}
+{"id":"ktt0001t11","artist":"Anabela","song":"Cidade Até Ser Dia"}
+{"id":"ptk0024","artist":"Anabela","song":"Estou Aqui"}
+{"id":"ktt0149t13","artist":"André Indiana","song":"Alone With You"}
+{"id":"ptk0026","artist":"André Sardet","song":"Adivinha O Quanto Gosto De Ti"}
+{"id":"ktt0148t08","artist":"André Sardet","song":"Adivinha O Quanto Gosto de Ti"}
+{"id":"ptk0027","artist":"André Sardet","song":"Azul Do Ceu"}
+{"id":"ktt0111t11","artist":"André Sardet","song":"Azul Do Céu"}
+{"id":"ktt0142t12","artist":"André Sardet","song":"Balada da Estrada do Sol"}
+{"id":"ktt0400t87","artist":"André Sardet","song":"Canção do Assobio"}
+{"id":"ptk0028","artist":"André Sardet","song":"Foi Feitiço"}
+{"id":"ktt0113t12","artist":"André Sardet","song":"Foi Feitiço"}
+{"id":"ktt0131t04","artist":"André Sardet","song":"Hoje Vou Ficar (com Mafalda Veiga)"}
+{"id":"ktt0146t02","artist":"André Sardet","song":"Pura Imperfeição"}
+{"id":"ptk0709","artist":"André Sardet","song":"Quadro"}
+{"id":"ptk0025","artist":"André Sardet","song":"Quando Eu Te Falei Em Amor"}
+{"id":"ktt0140t08","artist":"André Sardet","song":"Quando eu te falei em Amor"}
+{"id":"ptk0710","artist":"André Sardet","song":"Roubo te Um Beijo"}
+{"id":"ktt0150t10","artist":"André Sardet","song":"Se Eu Disser (com Luís Represas)"}
+{"id":"ktt0135t07","artist":"André Sardet","song":"Um Amigo Um Lamento"}
+{"id":"ktt0511t08","artist":"Andrea Bocelli","song":"Ave Maria"}
+{"id":"ktt0509t08","artist":"Andrea Bocelli","song":"Vivo Por Ella (com Martha Sanchez)"}
+{"id":"ptk0711","artist":"Angélico","song":"Bailarina"}
+{"id":"ptk0872","artist":"Anjos","song":"A Noite Cai e Eu Aqui"}
+{"id":"ktt0133t14","artist":"Anjos","song":"A Vida Faz-Me Bem"}
+{"id":"ktt0116t11","artist":"Anjos","song":"Bem Longe Num Sonho Meu"}
+{"id":"ptk0029","artist":"Anjos","song":"Eu Estou Aqui"}
+{"id":"ktt0141t14","artist":"Anjos","song":"Eu Estou Aqui"}
+{"id":"ptk0030","artist":"Anjos","song":"Ficarei"}
+{"id":"ktt0007t09","artist":"Anjos","song":"Ficarei"}
+{"id":"ktt0007t18","artist":"Anjos","song":"Ficarei"}
+{"id":"ptk0031","artist":"Anjos","song":"Perdoa"}
+{"id":"ktt0148t13","artist":"Anjos","song":"Perdoa"}
+{"id":"ptk0032","artist":"Anjos","song":"Porquê"}
+{"id":"ktt0103t02","artist":"Anjos","song":"Quando Fores Grande"}
+{"id":"ptk0033","artist":"Anjos","song":"Sei Que Vou Mais Além"}
+{"id":"ktt0134t14","artist":"Anjos","song":"Sei Que Vou Mais Além"}
+{"id":"ptk0034","artist":"Anjos","song":"Tudo É Um Sonho"}
+{"id":"ktt0114t13","artist":"Anjos","song":"Tudo É Um Sonho"}
+{"id":"ptk0905","artist":"Anjos","song":"Virar a Página (com Sérgio Moah)"}
+{"id":"ptk0035","artist":"António Calvário","song":"Mocidade, Mocidade"}
+{"id":"ktt0122t11","artist":"António Calvário","song":"Mocidade, Mocidade"}
+{"id":"ktt0119t03","artist":"António Calvário","song":"Oração"}
+{"id":"oth0001","artist":"António Calvário","song":"Regresso"}
+{"id":"ptk0036","artist":"António Mafra","song":"Sete E Pico"}
+{"id":"ktt0108t13","artist":"António Mourão","song":"Ó Tempo Volta P’ra Trás"}
+{"id":"ptk0037","artist":"António Variações","song":"Canção De Engate"}
+{"id":"ktt0105t05","artist":"António Variações","song":"Canção De Engate"}
+{"id":"ktt0129t11","artist":"António Variações","song":"É Pra Amanhã"}
+{"id":"ktt0112t09","artist":"António Variações","song":"Estou Além"}
+{"id":"ptk0038","artist":"António Variações","song":"O Corpo É Que Paga"}
+{"id":"ktt0124t15","artist":"António Variações","song":"O Corpo É Que Paga"}
+{"id":"ptk0039","artist":"Araketu","song":"Mal Acostumado"}
+{"id":"ktt0003t06","artist":"Araketu","song":"Mal Acostumado"}
+{"id":"ktt0003t15","artist":"Araketu","song":"Mal Acostumado"}
+{"id":"ptk0040","artist":"Aramac","song":"Mágoa De Sal"}
+{"id":"ptk0041","artist":"Armando Gama","song":"Esta Balada Que Te Dou"}
+{"id":"ktt0136t04","artist":"Armando Gama","song":"Esta Balada Que Te Dou"}
+{"id":"ptk0043","artist":"As Doce","song":"Amanhã De Manhã"}
+{"id":"ktt0112t04","artist":"As Doce","song":"Amanhã De Manhã"}
+{"id":"ktt0109t15","artist":"As Doce","song":"Alibaba"}
+{"id":"ktt0117t02","artist":"As Doce","song":"Bem Bom"}
+{"id":"ptk0836","artist":"Atlantida","song":"Na Calma Dos Teus Olhos"}
+{"id":"ptk0712","artist":"Augusto Canário","song":"O Popó Da Namorada"}
+{"id":"ptk0044","artist":"Augusto Cesar","song":"Aguenta Coração"}
+{"id":"ptk0713","artist":"Aurea","song":"Busy (For Me)"}
+{"id":"ptk0714","artist":"Aurea","song":"No No No No (I Don't Want You To Fall In Love)"}
+{"id":"ptk0715","artist":"Aurea","song":"The Only Thing That I Wanted"}
+{"id":"ptk0895","artist":"Aviões Do Forró","song":"Beber Cair e Levantar"}
+{"id":"ptk0045","artist":"Aviões Do Forró","song":"Comendo Água Amor Tô Num Bar"}
+{"id":"ptk0046","artist":"Aviões Do Forró","song":"Chupa Que É De Uva"}
+{"id":"ptk0047","artist":"Aviões Do Forró","song":"Gostosão"}
+{"id":"ptk0048","artist":"Avô Cantigas","song":"Fantasminha Brincalhão"}
+{"id":"ktt0127t06","artist":"Axel","song":"Como É Que Eu Sei"}
+{"id":"ptk0825","artist":"Azeitonas","song":"Anda Comigo Ver Os Aviões"}
+{"id":"ptk0049","artist":"Azeitonas","song":"Quem És Tu Miuda"}
+{"id":"ktt0151t01","artist":"Azeitonas","song":"Quem És Tu Miúda"}
+{"id":"ptk0050","artist":"Azúcar Moreno","song":"Esclava De Tu Piel"}
+{"id":"ptk0051","artist":"Azúcar Moreno","song":"Olé"}
+{"id":"ktt0501t05","artist":"Azucar Moreno","song":"Sólo Se Vive Una Vez"}
+{"id":"ktt0138t15","artist":"Ban","song":"Dias Atlânticos"}
+{"id":"ptk0053","artist":"Banda Brasil","song":"A Dança Do Tubarão"}
+{"id":"ptk0054","artist":"Banda Calypso","song":"Acelerou"}
+{"id":"ptk0858","artist":"Banda Calypso","song":"Arrepiou"}
+{"id":"ptk0055","artist":"Banda Calypso","song":"Chiclete Com Calypso"}
+{"id":"ptk0056","artist":"Banda Calypso","song":"Cumbia Do Amor"}
+{"id":"ptk0057","artist":"Banda Calypso","song":"Merengue Sensual"}
+{"id":"ptk0058","artist":"Banda Calypso","song":"Xonou Xonou"}
+{"id":"ktt0006t07","artist":"Banda Eva","song":"Arerê"}
+{"id":"ktt0006t17","artist":"Banda Eva","song":"Arerê"}
+{"id":"ptk0059","artist":"Banda Eva","song":"Beleza Rara"}
+{"id":"ktt0003t08","artist":"Banda Eva","song":"Beleza Rara"}
+{"id":"ptk0060","artist":"Banda Eva","song":"Levada Louca"}
+{"id":"ptk0061","artist":"Banda Eva","song":"Vem Meu Amor"}
+{"id":"ptk0062","artist":"Bandalusa","song":"Bate, Bate, Bate"}
+{"id":"ktt0008t06","artist":"Bandalusa","song":"Bate, Bate, Bate"}
+{"id":"ktt0008t16","artist":"Bandalusa","song":"Bate, Bate, Bate"}
+{"id":"ptk0373","artist":"Bandalusa","song":"Morena Ai Ai"}
+{"id":"ptk0843","artist":"Bandalusa","song":"Pra Fazer A Marcação"}
+{"id":"ptk0848","artist":"Bandalusa","song":"São João É Bailarico"}
+{"id":"ptk0716","artist":"Bandalusa","song":"Se a casa caír"}
+{"id":"ptk0063","artist":"Bandalusa","song":"Tonto De Saudade"}
+{"id":"ptk0064","artist":"Bandalusa","song":"Ye Ye Ye"}
+{"id":"ktt0130t06","artist":"Beatriz Costa","song":"A Agulha E O Dedal"}
+{"id":"ktt0152t08","artist":"Beatriz Costa","song":"Aldeia da Roupa Branca"}
+{"id":"ptk0720","artist":"Bélito Campos","song":"Ficam Comigo (Kizomba)"}
+{"id":"ptk0065","artist":"Belito Campos","song":"Foi Feitiço"}
+{"id":"ktt0138t04","artist":"Bel Viana","song":"Foge-me o Tempo"}
+{"id":"ktt0133t12","artist":"Bel Viana","song":"I Wanna Make All Right"}
+{"id":"ktt0139t01","artist":"Bel Viana","song":"Nunca Me Esqueci"}
+{"id":"ptk0066","artist":"Benfica","song":"Somos Benfica"}
+{"id":"ktt0117t03","artist":"Beto","song":"Dois Corações"}
+{"id":"ptk0717","artist":"Beto","song":"Dois Corações Unidos"}
+{"id":"ktt0129t02","artist":"Beto","song":"Fugir Dos Meus Medos"}
+{"id":"ptk0067","artist":"Beto","song":"Memórias Esquecidas"}
+{"id":"ktt0118t06","artist":"Beto","song":"Memorias Esquecidas"}
+{"id":"ktt0153t02","artist":"Beto","song":"Para te abraçar"}
+{"id":"ktt0145t11","artist":"Beto","song":"Posso Jurar"}
+{"id":"ktt0125t06","artist":"Beto","song":"Tudo por Amor"}
+{"id":"ktt0141t13","artist":"Beto","song":"Vem daí (estou aqui para sentir)"}
+{"id":"ktt0143t02","artist":"Big Hit","song":"Por Ti Portugal"}
+{"id":"ktt0135t05","artist":"Blasted Mechanism","song":"Sun Goes Down"}
+{"id":"ktt0138t13","artist":"Blind Zero","song":"Cant Hold You Down"}
+{"id":"ktt0140t04","artist":"Blind Zero","song":"Shine On"}
+{"id":"ktt0152t01","artist":"Blind Zero","song":"Slow Time Love"}
+{"id":"ktt0510t02","artist":"Blue","song":"A Chi Mi Dice"}
+{"id":"ktt0510t14","artist":"Bobby Solo","song":"Una Lacrima Sul Viso"}
+{"id":"ptk0718","artist":"Bombocas","song":"Está O Caldo Entornado"}
+{"id":"ptk0719","artist":"Bombocas","song":"És Um Rico Homem"}
+{"id":"ptk0068","artist":"Bombocas","song":"Já Os Topamos"}
+{"id":"ptk0069","artist":"Bombocas","song":"Pimba Das Mulheres"}
+{"id":"ptk0070","artist":"Bombocas","song":"Salta - Me A Tampa"}
+{"id":"ptk0703","artist":"Bombocas","song":"Zubi Zubi"}
+{"id":"ptk0071","artist":"Bonga","song":"Currumba"}
+{"id":"ptk0072","artist":"Bonga","song":"Mariquinha"}
+{"id":"ptk0073","artist":"Bonga","song":"Olhos Molhados"}
+{"id":"ktt0153t11","artist":"Boss AC","song":"És mais que uma mulher"}
+{"id":"ptk0074","artist":"Boss AC","song":"Hip Hop"}
+{"id":"ktt0133t05","artist":"Boss AC","song":"Hip Hop(Sou Eu E ÉS Tu)"}
+{"id":"ktt0141t12","artist":"Boss AC","song":"Princesa (featuring Berg)"}
+{"id":"ptk0832","artist":"Boss AC","song":"Tu És Mais Forte"}
+{"id":"ptk0075","artist":"Brandi Carlile","song":"The Story"}
+{"id":"ptk0076","artist":"Broa De Mel","song":"Passear Contigo"}
+{"id":"ktt0513t06","artist":"Bruno & Marrone","song":"Quer Casar Comigo"}
+{"id":"ptk0077","artist":"Bruno & Marrone","song":"Quer Casar Comigo"}
+{"id":"ptk0078","artist":"Bruno & Marrone","song":"É Nisso Que Dá"}
+{"id":"ptk0855","artist":"Buraka Som Sistema","song":"Kalemba (Wegue Wegue)"}
+{"id":"ktt0118t04","artist":"Cabeças No Ar","song":"A Corrente Do Jogo"}
+{"id":"ptk0079","artist":"Cabeças No Ar","song":"A Seita Tem Um Radar"}
+{"id":"ktt0109t10","artist":"Cabeças No Ar","song":"A Seita Tem Um Radar"}
+{"id":"ktt0116t02","artist":"Cabeças No Ar","song":"Jesus No Secundario"}
+{"id":"ptk0080","artist":"Cabeças No Ar","song":"Primeiro Beijo"}
+{"id":"ktt0113t08","artist":"Cabeças No Ar","song":"Primeiro Beijo"}
+{"id":"ktt0504t03","artist":"Caetano Veloso","song":"Leaozinho"}
+{"id":"ktt0101t15","artist":"Caetano Veloso","song":"Menino Do Rio"}
+{"id":"ktt0111t12","artist":"Caetano Veloso","song":"Sózinho"}
+{"id":"ktt0505t02","artist":"Caetano Veloso","song":"Você É Linda"}
+{"id":"ptk0081","artist":"Calcinha Preta","song":"Tutti Frutti"}
+{"id":"ptk0885","artist":"Calcinha Preta","song":"Você Não Vale Nada"}
+{"id":"ptk0082","artist":"Calu","song":"Dois"}
+{"id":"ktt0513t09","artist":"Camilo Sesto","song":"Amor Mio Que Me Has Hecho"}
+{"id":"ktt0501t08","artist":"Camilo Sesto","song":"Quieres Ser Mi Amante"}
+{"id":"ktt0112t15","artist":"Cândida Branca Flor","song":"Maria Papoila"}
+{"id":"ptk0100","artist":"Cândida Branca Flor","song":"Trocas E Baldrocas"}
+{"id":"ktt0153t08","artist":"Cândida Branca Flor","song":"Trocas E Baldrocas"}
+{"id":"ptk0083","artist":"Canta Bahia","song":"Carla"}
+{"id":"ptk0084","artist":"Canta Bahia","song":"Festança"}
+{"id":"ptk0085","artist":"Canta Bahia","song":"Ilarie"}
+{"id":"ptk0086","artist":"Canta Bahia","song":"Morango Do Nordeste"}
+{"id":"ptk0087","artist":"Canta Bahia","song":"Paixão E Loucura"}
+{"id":"ptk0721","artist":"Carlos Alexandre","song":"Vinho Verde"}
+{"id":"ktt0117t01","artist":"Carlos Do Carmo","song":"Estrela Da Tarde"}
+{"id":"ktt0129t08","artist":"Carlos Do Carmo","song":"Flor De Verde Pinho"}
+{"id":"ktt0104t03","artist":"Carlos Do Carmo","song":"Lisboa Menina e Moça"}
+{"id":"ktt0148t03","artist":"Carlos Do Carmo","song":"O Cacilheiro"}
+{"id":"ktt0119t06","artist":"Carlos Do Carmo","song":"Um Homem Na Cidade"}
+{"id":"ktt0134t12","artist":"Carlos Guilherme","song":"Adeus"}
+{"id":"ktt0102t14","artist":"Carlos Guilherme","song":"Quando o Coração Chora"}
+{"id":"ktt0105t12","artist":"Carlos Mendes","song":"Amélia dos Olhos Doces"}
+{"id":"ktt0120t07","artist":"Carlos Mendes","song":"Festa Da Vida"}
+{"id":"ktt0152t10","artist":"Carlos Mendes","song":"Verão"}
+{"id":"ptk0088","artist":"Carlos Paião","song":"Cinderela"}
+{"id":"ktt0105t08","artist":"Carlos Paião","song":"Cinderela"}
+{"id":"ktt0135t13","artist":"Carlos Paião","song":"Discoteca"}
+{"id":"ktt0131t14","artist":"Carlos Paião","song":"Gagago"}
+{"id":"ktt0136t05","artist":"Carlos Paião","song":"Intervalo"}
+{"id":"ptk0089","artist":"Carlos Paião","song":"Lá Longe Senhora"}
+{"id":"ptk0090","artist":"Carlos Paião","song":"Marcha Do Pião Das Nicas"}
+{"id":"ktt0140t15","artist":"Carlos Paião","song":"Marcha do Pião das Nicas"}
+{"id":"ktt0145t15","artist":"Carlos Paião","song":"Meia Dúzia"}
+{"id":"ptk0091","artist":"Carlos Paião","song":"Playback"}
+{"id":"ktt0102t02","artist":"Carlos Paião","song":"Playback"}
+{"id":"ptk0092","artist":"Carlos Paião","song":"Pó De Arroz"}
+{"id":"ktt0108t10","artist":"Carlos Paião","song":"Pó De Arroz"}
+{"id":"ktt0128t10","artist":"Carlos Paião","song":"Quando As Nuvens Chorarem (com Dina)"}
+{"id":"ptk0093","artist":"Carlos Paião","song":"Versos De Amor"}
+{"id":"ktt0121t08","artist":"Carlos Paião","song":"Versos De Amor"}
+{"id":"ktt0502t02","artist":"Carlos Santana","song":"Corazon Espinado"}
+{"id":"ptk0094","artist":"Carmen Miranda","song":"Adeus Solidão"}
+{"id":"ktt0107t03","artist":"Carmen Miranda","song":"Que É Que A Baiana Tem"}
+{"id":"ktt0504t05","artist":"Carmen Miranda","song":"Tico Tico no Fuba"}
+{"id":"ktt0505t15","artist":"Cássia Eller","song":"Catedral"}
+{"id":"ptk0859","artist":"Cavaleiros de Forró","song":"Santa Que é de Menta"}
+{"id":"ktt0153t05","artist":"Cazino","song":"Lição de voar"}
+{"id":"ktt0151t09","artist":"Celina & Sérgio Rossi","song":"Dois Corações"}
+{"id":"ktt0501t09","artist":"Celine Dion","song":"Pour Que Tu M’Aimes Encore"}
+{"id":"ktt0507t08","artist":"Celine Dion","song":"Regarde Moi"}
+{"id":"ktt0507t07","artist":"Celine Dion","song":"S’il Suffisait D’aimer"}
+{"id":"ktt0508t07","artist":"Celine Dion","song":"Vole"}
+{"id":"ptk0095","artist":"Cesária Evora","song":"Sodade"}
+{"id":"ktt0506t03","artist":"Cesária Évora","song":"Sodade"}
+{"id":"ktt0507t13","artist":"Charles Aznavour","song":"For Me Formidable"}
+{"id":"ktt0505t07","artist":"Charles Aznavour","song":"La Bohème"}
+{"id":"oth0002","artist":"Chave D'Ouro","song":"Mãe da criança(Quem sera)"}
+{"id":"oth0003","artist":"Chave D'Ouro","song":"Pai da criança"}
+{"id":"ptk0669","artist":"Chayanne","song":"Torero"}
+{"id":"ktt0003t07","artist":"Cheiro De Amor","song":"Vai Sacudir, Vai Abalar"}
+{"id":"ktt0112t14","artist":"Chico Buarque","song":"Valsinha"}
+{"id":"ktt0002t07","artist":"Chiquita","song":"Balde de Água Fria"}
+{"id":"ktt0002t17","artist":"Chiquita","song":"Balde de Água Fria"}
+{"id":"ptk0096","artist":"Chiquita","song":"Os Homens Estão Cada Vez Mais Bonitos"}
+{"id":"ktt0512t04","artist":"Chitãozinho & Xororó","song":"No Rancho Fundo"}
+{"id":"ptk0097","artist":"Cidinho & Doca","song":"Rap Das Armas"}
+{"id":"ktt0133t09","artist":"Clã","song":"Competência Para Amar"}
+{"id":"ktt0149t04","artist":"Clã","song":"Dançar Na Corda Bamba"}
+{"id":"ktt0152t13","artist":"Clã","song":"Fahrenheit"}
+{"id":"ptk0723","artist":"Clã","song":"Os Embeiçados"}
+{"id":"ktt0121t02","artist":"Clã","song":"Problema De Expressão"}
+{"id":"ktt0150t02","artist":"Clã","song":"Sexto Andar"}
+{"id":"ktt0148t11","artist":"Clã","song":"Tira a Teima"}
+{"id":"ktt0147t15","artist":"Clã","song":"Vamos Esta Noite"}
+{"id":"ktt0155t09","artist":"Classificados","song":"No Teu Último Degrau"}
+{"id":"ktt0152t03","artist":"Classificados","song":"Rosa (do teu jeito de ser)"}
+{"id":"ptk0722","artist":"Classificados","song":"Só Em Ti (Me Reconheço)"}
+{"id":"ktt0147t03","artist":"Classificados","song":"Um Segredo Fechado"}
+{"id":"ptk0098","artist":"Claudia","song":"Não Posso De Ti Fugir"}
+{"id":"ptk0099","artist":"Claudisabel","song":"Preciso De Um Heroi"}
+{"id":"ktt0150t07","artist":"Conjunto Académico João Paulo","song":"Milena"}
+{"id":"ktt0154t07","artist":"Conjunto António Mafra","song":"O carrapito da D Aurora"}
+{"id":"ktt0146t11","artist":"Conjunto António Mafra","song":"Ora Vejam La"}
+{"id":"ktt0111t07","artist":"Conjunto António Mafra","song":"Sete E Pico"}
+{"id":"ktt0139t06","artist":"Cool Hipnoise","song":"Brother Joe"}
+{"id":"ktt0506t12","artist":"Cristina Branco","song":"O Meu Amor"}
+{"id":"ktt0148t14","artist":"D' Arrasar","song":"Eu Digo Que Sim"}
+{"id":"ptk0101","artist":"D' Arrasar","song":"Rainha da Noite"}
+{"id":"ktt0137t14","artist":"D' Arrasar","song":"Rainha da Noite"}
+{"id":"ptk0103","artist":"Da Vinci","song":"Conquistador"}
+{"id":"ktt0113t13","artist":"Da Vinci","song":"Conquistador"}
+{"id":"ptk0104","artist":"Da Weasel","song":"Casa"}
+{"id":"ktt0127t07","artist":"Da Weasel","song":"Casa (Vem Fazer De Conta)"}
+{"id":"ptk0105","artist":"Da Weasel","song":"Dialectos Da Ternura"}
+{"id":"ktt0139t02","artist":"Da Weasel","song":"Dialectos de Ternura"}
+{"id":"ktt0129t01","artist":"Da Weasel","song":"Força"}
+{"id":"ktt0141t03","artist":"Da Weasel","song":"Mundos Mudos"}
+{"id":"ptk0106","artist":"Da Weasel","song":"Re Tratamento"}
+{"id":"ktt0122t10","artist":"Da Weasel","song":"Re Tratamento"}
+{"id":"ptk0826","artist":"Da Weasel","song":"Tás Na Boa"}
+{"id":"ktt0117t11","artist":"Da Weasel","song":"Tás Na Boa"}
+{"id":"ktt0144t07","artist":"Da Weasel","song":"Toque Toque Remix"}
+{"id":"ktt0149t07","artist":"Dani Silva","song":"Branco, Tinto e Jeropiga"}
+{"id":"ptk0865","artist":"Dany Silva","song":"Branco Tinto e Jeropiga"}
+{"id":"ptk0107","artist":"Dani Silva","song":"Crioula De S. Bento"}
+{"id":"ptk0108","artist":"Dani Silva","song":"Dança Do Mexe Mexe"}
+{"id":"ktt0155t11","artist":"Daniel Carlini","song":"Ai Que Calor (Febre De Amor)"}
+{"id":"ktt0153t14","artist":"Daniel Carlini","song":"P'ra lá de Bagdá"}
+{"id":"ktt0154t14","artist":"Daniel Carlini","song":"Tou noutra"}
+{"id":"ktt0003t02","artist":"Daniela Mercury","song":"O Canto Da Cidade"}
+{"id":"ktt0003t11","artist":"Daniela Mercury","song":"O Canto Da Cidade"}
+{"id":"ktt0109t03","artist":"Daniela Mercury","song":"Nobre Vagabundo"}
+{"id":"ktt0105t10","artist":"Daniela Mercury","song":"Swing da Côr"}
+{"id":"ktt0509t05","artist":"David Bisbal","song":"Ave María"}
+{"id":"ktt0510t04","artist":"David Bisbal","song":"Bulería"}
+{"id":"ktt0511t14","artist":"David Bisbal","song":"Esta Ausencia"}
+{"id":"ktt0512t13","artist":"David Bustamante","song":"Asi Soy Yo"}
+{"id":"ktt0513t10","artist":"David Bustamente","song":"Dos Hombres y Un Destino (com Alex)"}
+{"id":"ktt0511t10","artist":"David Bustamante","song":"Mi Manera De Amarte"}
+{"id":"ktt0154t02","artist":"David Fonseca","song":"A Cry 4 Love"}
+{"id":"ptk0880","artist":"David Fonseca","song":"A Cry 4 Love"}
+{"id":"ktt0143t07","artist":"David Fonseca","song":"Kiss Me, Oh Kiss Me"}
+{"id":"ptk0109","artist":"David Fonseca","song":"Someone That Cannot Love"}
+{"id":"ktt0114t07","artist":"David Fonseca","song":"Someone That Cannot Love"}
+{"id":"ktt0141t04","artist":"David Fonseca","song":"Superstars"}
+{"id":"ktt0130t15","artist":"David Fonseca","song":"The 80s"}
+{"id":"ktt0155t05","artist":"David Fonseca","song":"This One's So Different"}
+{"id":"ptk0724","artist":"David Fonseca","song":"U Know Who I Am"}
+{"id":"ptk0110","artist":"David Fonseca","song":"Who Are U"}
+{"id":"ktt0148t15","artist":"David Fonseca","song":"Who Are U"}
+{"id":"ktt0144t13","artist":"Delfins","song":"A Cor Azul"}
+{"id":"ptk0725","artist":"Delfins","song":"A Queda De Um Anjo"}
+{"id":"ktt0106t05","artist":"Delfins","song":"Ao Passar um Navio"}
+{"id":"ktt0111t01","artist":"Delfins","song":"Aquele Inverno"}
+{"id":"ktt0113t10","artist":"Delfins","song":"Babilonia"}
+{"id":"ktt0120t04","artist":"Delfins","song":"Baía De Cascais"}
+{"id":"ktt0114t04","artist":"Delfins","song":"É Preciso"}
+{"id":"ktt0103t04","artist":"Delfins","song":"Não Vou Ficar"}
+{"id":"ktt0104t02","artist":"Delfins","song":"Num Sonho Teu"}
+{"id":"ktt0101t11","artist":"Delfins","song":"Queda De Um Anjo"}
+{"id":"ktt0106t14","artist":"Delfins","song":"Saber Amar"}
+{"id":"ktt0001t09","artist":"Delfins","song":"Sou Como um Rio"}
+{"id":"ktt0001t18","artist":"Delfins","song":"Sou Como um Rio"}
+{"id":"ptk0910","artist":"Delfins","song":"Sou Como um Rio"}
+{"id":"ktt0142t07","artist":"Delfins","song":"Um Lugar ao Sol"}
+{"id":"ptk0726","artist":"Delfins","song":"Um Lugar ao Sol"}
+{"id":"ktt0102t04","artist":"Delfins","song":"Vive"}
+{"id":"ktt0153t03","artist":"Deolinda","song":"Clandestino"}
+{"id":"ktt0154t05","artist":"Deolinda","song":"Fado Toninho"}
+{"id":"ptk0111","artist":"Deolinda","song":"Fado Toninho"}
+{"id":"ptk0112","artist":"Deolinda","song":"Fon Fon Fon"}
+{"id":"ptk0727","artist":"Deolinda","song":"Que Parva Que Sou"}
+{"id":"ptk0901","artist":"Deolinda","song":"Um Contra o Outro"}
+{"id":"ktt0120t08","artist":"Desgarrada","song":"Engatatão Das Dúzias"}
+{"id":"ptk0113","artist":"Despe & Siga","song":"Festa"}
+{"id":"ktt0115t13","artist":"Despe & Siga","song":"Festa"}
+{"id":"ktt0125t03","artist":"Despe & Siga","song":"Manual do Gelo"}
+{"id":"ptk0114","artist":"Despe & Siga","song":"Sol Da Caparica"}
+{"id":"ptk0839","artist":"Diabo Na Cruz","song":"Dona Ligeirinha"}
+{"id":"ktt0145t10","artist":"Diana","song":"Diz Byebye"}
+{"id":"ptk0115","artist":"Diana Basto","song":"Liberdade"}
+{"id":"ptk0116","artist":"Diana Bastos","song":"Grita Sente"}
+{"id":"ptk0117","artist":"Diapasão","song":"Bela Portuguesa"}
+{"id":"ptk0118","artist":"Diapasão","song":"Bonita Mas Mentirosa"}
+{"id":"ptk0119","artist":"Diapasão","song":"Canção Da Maria"}
+{"id":"ptk0120","artist":"Diapasão","song":"Casa Descasa E Volta A Casar"}
+{"id":"ptk0121","artist":"Diapasão","song":"Dá Cá,Dá Cá,Dá Cá"}
+{"id":"ptk0122","artist":"Diapasão","song":"Ela Não É Bonita"}
+{"id":"ktt0105t03","artist":"Diapasão","song":"Era Pouco e Acabouse"}
+{"id":"ptk0123","artist":"Diapasão","song":"Eu Vou Amá la"}
+{"id":"ptk0124","artist":"Diapasão","song":"Festa Dos Insectos"}
+{"id":"ptk0125","artist":"Diapasão","song":"Hino Das Loiras"}
+{"id":"ptk0126","artist":"Diapasão","song":"Há Festa, Festa Na Aldeia"}
+{"id":"oth0004","artist":"Diapasão","song":"Meio dia às 4 da tarde"}
+{"id":"ptk0127","artist":"Diapasão","song":"Mentiras Mentiras"}
+{"id":"ptk0894","artist":"Diapasão","song":"Obrigado Mãe Querida"}
+{"id":"ptk0728","artist":"Diapasão","song":"Quem Será Ela"}
+{"id":"ptk0128","artist":"Diapasão","song":"Uma Festa Á Portuguesa"}
+{"id":"ptk0851","artist":"Diapasão","song":"Uma Rosa Pra Ti"}
+{"id":"ptk0129","artist":"Diapasão","song":"Vai Sobrar Mulher"}
+{"id":"ptk0130","artist":"Diapasão","song":"Viagem De Postal"}
+{"id":"ptk0131","artist":"Dina","song":"Amor De Água Fresca"}
+{"id":"ktt0107t01","artist":"Dina","song":"Amor De Água Fresca"}
+{"id":"ktt0105t15","artist":"Dina","song":"Há Sempre Música Entre Nós"}
+{"id":"ktt0111t10","artist":"Dina","song":"Que É De Ti (Filha Do Mar)"}
+{"id":"ktt0131t11","artist":"Dina","song":"Voar Outra Vez"}
+{"id":"ptk0132","artist":"Dino Meira","song":"Meu Querido Mês De Agosto"}
+{"id":"ktt0109t08","artist":"Dino Meira","song":"Meu Querido Mês De Agosto"}
+{"id":"ptk0133","artist":"Dino Meira","song":"Sei Que Vais Voltar"}
+{"id":"ktt0512t06","artist":"Djavan","song":"Oceano"}
+{"id":"ptk0134","artist":"Djipson","song":"Mal Acostumado"}
+{"id":"ktt0509t03","artist":"Domenico Modugno","song":"Piove (Ciao Ciao Bambina)"}
+{"id":"ptk0135","artist":"Don Kikas","song":"Esperança Moribunda"}
+{"id":"ptk0731","artist":"Don Kikas","song":"Esperança Moribunda"}
+{"id":"ptk0732","artist":"Dr1ve,"song":"A Wish (Keep Fighting com Lúcia Moniz")"}
+{"id":"ktt0155t15","artist":"Dr1ve","song":"Sem Cor"}
+{"id":"ktt0152t12","artist":"Duarte Mendes","song":"Madrugada"}
+{"id":"ktt0126t03","artist":"Dulce Pontes","song":"Barco Abandonado"}
+{"id":"ptk0136","artist":"Dulce Pontes","song":"Canção Do Mar"}
+{"id":"ktt0101t01","artist":"Dulce Pontes","song":"Canção do Mar"}
+{"id":"ktt0118t14","artist":"Dulce Pontes","song":"Estranha Forma De Vida"}
+{"id":"ptk0137","artist":"Dulce Pontes","song":"Fado Português"}
+{"id":"ktt0122t04","artist":"Dulce Pontes","song":"Fado Português"}
+{"id":"ktt0132t07","artist":"Dulce Pontes","song":"Filho Azul"}
+{"id":"ktt0112t11","artist":"Dulce Pontes","song":"Lágrima"}
+{"id":"ptk0138","artist":"Dulce Pontes","song":"Lusitana Paixão"}
+{"id":"ktt0005t03","artist":"Dulce Pontes","song":"Lusitana Paixão"}
+{"id":"ktt0005t13","artist":"Dulce Pontes","song":"Lusitana Paixão"}
+{"id":"ktt0103t06","artist":"Dulce Pontes","song":"No Teu Poema"}
+{"id":"ptk0139","artist":"Dulce Pontes","song":"Novo Fado Da Severa"}
+{"id":"ptk0140","artist":"Dulce Pontes","song":"Os Índios Da Meia Praia"}
+{"id":"ktt0107t15","artist":"Dulce Pontes","song":"Os Índios Da Meia Praia"}
+{"id":"ptk0141","artist":"Dulce Pontes","song":"Povo Que Lavas No Rio"}
+{"id":"ktt0110t13","artist":"Dulce Pontes","song":"Povo Que Lavas no Rio"}
+{"id":"ktt0118t07","artist":"Dulce Pontes","song":"Que Amor Não Me Engana"}
+{"id":"ktt0128t14","artist":"Dulce Pontes","song":"Verdes Anos"}
+{"id":"ptk0142","artist":"Duo Ouro Negro","song":"Maria Rita"}
+{"id":"ktt0136t03","artist":"Duo Ouro Negro","song":"Maria Rita"}
+{"id":"ptk0143","artist":"Duo Ouro Negro","song":"Vou Levar-te Comigo"}
+{"id":"ktt0112t12","artist":"Duo Ouro Negro","song":"Vou Levar-te Comigo"}
+{"id":"ptk0102","artist":"D'ZRT","song":"Para Mim Tanto Me Faz"}
+{"id":"ktt0132t09","artist":"D'ZRT","song":"Para Mim Tanto Me Faz"}
+{"id":"ktt0143t10","artist":"D'ZRT","song":"Verão Azul"}
+{"id":"ktt0502t08","artist":"Edith Piaf","song":"La Vie En Rose"}
+{"id":"ktt0502t06","artist":"Edith Piaf","song":"Rien De Rien"}
+{"id":"ktt0108t14","artist":"Eduardo Nascimento","song":"O Vento Mudou"}
+{"id":"ptk0144","artist":"Eduardo Paim","song":"A Minha Vizinha"}
+{"id":"ptk0866","artist":"Edy Lemos","song":"Conceição Nome de Santa"}
+{"id":"ptk0886","artist":"Edward Maya & Vika J","song":"Stereo Love"}
+{"id":"ptk0145","artist":"El Símbolo","song":"Un, Dos, Tres"}
+{"id":"ktt0109t09","artist":"Elba Ramalho","song":"De Volta Pro Aconchego"}
+{"id":"ktt0503t14","artist":"Elis Regina","song":"Fascinacao"}
+{"id":"ktt0504t13","artist":"Elis Regina","song":"Madalena"}
+{"id":"ktt0509t04","artist":"Elis Regina","song":"Romaria"}
+{"id":"ptk0146","artist":"Emanuel","song":"Brinca Comigo Maria"}
+{"id":"ktt0142t04","artist":"Emanuel","song":"Brinca Comigo Maria"}
+{"id":"ptk0159","artist":"Emanuel","song":"É O Piripiri"}
+{"id":"ptk0734","artist":"Emanuel","song":"Eu E Tu (Dançando Kizomba)"}
+{"id":"ktt0129t15","artist":"Emanuel","song":"Felicidade (Quando O Telefone Toca)"}
+{"id":"ptk0147","artist":"Emanuel","song":"Meu Carro É Velho"}
+{"id":"ptk0148","artist":"Emanuel","song":"Minha Querida Noiva"}
+{"id":"ptk0149","artist":"Emanuel","song":"O Meu Coração Fez Bum Bum"}
+{"id":"ptk0735","artist":"Emanuel","song":"O Ritmo Do Amor"}
+{"id":"ptk0150","artist":"Emanuel","song":"Pimba Pimba"}
+{"id":"ktt0002t06","artist":"Emanuel","song":"Pimba Pimba"}
+{"id":"ktt0002t16","artist":"Emanuel","song":"Pimba Pimba"}
+{"id":"ptk0151","artist":"Emanuel","song":"Que Grande Bronca"}
+{"id":"ptk0152","artist":"Emanuel","song":"Quem Me Acode"}
+{"id":"ptk0153","artist":"Emanuel","song":"Rapaziada, Vamos Dançar"}
+{"id":"ptk0154","artist":"Emanuel","song":"Sou O Teu Escravo De Amor"}
+{"id":"ptk0155","artist":"Emanuel","song":"Sr. Guarda"}
+{"id":"ktt0126t09","artist":"Emanuel","song":"Sr. Guarda"}
+{"id":"ptk0156","artist":"Emanuel","song":"Vamos A Elas"}
+{"id":"ptk0157","artist":"Emanuel","song":"Vamos Ao Baile"}
+{"id":"ptk0158","artist":"Emanuel","song":"Vamos Ao Céu"}
+{"id":"ktt0131t12","artist":"Ena Pá 2000","song":"És Cruel"}
+{"id":"ptk0161","artist":"Enrique Iglesias","song":"Bailamos"}
+{"id":"ktt0504t08","artist":"Enrique Iglesias","song":"Experiencia Religiosa"}
+{"id":"ktt0507t12","artist":"Enrique Iglesias","song":"Héroe"}
+{"id":"ktt0503t12","artist":"Enrique Iglesias","song":"Inamorado por Primera Vez"}
+{"id":"ktt0508t12","artist":"Enrique Iglesias","song":"No Llores Por Mí"}
+{"id":"ptk0162","artist":"Enrique Iglesias","song":"Rhythm Divine"}
+{"id":"ktt0501t02","artist":"Enrique Iglesias","song":"Si Tú Te Vas"}
+{"id":"ptk0831","artist":"Entre Aspas","song":"Criatura Da Noite"}
+{"id":"ptk0163","artist":"Entre Aspas","song":"Esqueci O Nome Das Coisas"}
+{"id":"ptk0164","artist":"Entre Aspas","song":"Uma Pequena Flor"}
+{"id":"ktt0103t15","artist":"Entre Aspas","song":"Uma Pequena Flor"}
+{"id":"ktt0508t05","artist":"Eros Ramazzotti","song":"Adesso Tu"}
+{"id":"ktt0503t02","artist":"Eros Ramazzotti","song":"Cose della Vita (com Tina Turner)"}
+{"id":"ktt0513t12","artist":"Eros Ramazzotti","song":"La Noche Son Tus Ojos"}
+{"id":"ktt0501t14","artist":"Eros Ramazzotti","song":"Piu Bella Cosa"}
+{"id":"ktt0507t14","artist":"Eros Ramazzotti","song":"Terra Promessa"}
+{"id":"ktt0501t12","artist":"Eros Ramazzotti","song":"Un’Altra Te"}
+{"id":"ktt0113t03","artist":"Estudantina Universitaria De Lisboa","song":"Mulher Gorda"}
+{"id":"ptk0165","artist":"Euclides Da Lomba","song":"Caso De Amor E Ternura"}
+{"id":"ptk0166","artist":"Euclides Da Lomba","song":"Desejo Malandro"}
+{"id":"ktt0001t03","artist":"Excesso","song":"Eu Sou Aquele"}
+{"id":"ktt0001t12","artist":"Excesso","song":"Eu Sou Aquele"}
+{"id":"ktt0105t11","artist":"Excesso","song":"Não Sei Viver Sem Ti"}
+{"id":"ptk0167","artist":"Excesso","song":"Tudo Mudou"}
+{"id":"ktt0139t11","artist":"Expensive Soul","song":"13 Mulheres"}
+{"id":"ktt0137t08","artist":"Expensive Soul","song":"Eu Não Sei"}
+{"id":"ptk0737","artist":"Expensive Soul","song":"O Amor É Mágico"}
+{"id":"ktt0145t04","artist":"EZ Special","song":"Chama Por Mim (chama que eu vou)"}
+{"id":"ktt0138t02","artist":"EZ Special","song":"Daisy"}
+{"id":"ktt0137t01","artist":"EZ Special","song":"I Really Am Such A Fool"}
+{"id":"ptk0168","artist":"EZ Special","song":"Menina Bonita"}
+{"id":"ktt0143t13","artist":"EZ Special","song":"Menina Bonita"}
+{"id":"ptk0170","artist":"EZ Special","song":"My Explanation"}
+{"id":"ktt0136t02","artist":"EZ Special","song":"My Explanation"}
+{"id":"ptk0169","artist":"EZ Special","song":"Segredos (feat Paulo Gonzo)"}
+{"id":"ptk0171","artist":"EZ Special","song":"Sei Que Sabes Que Sim"}
+{"id":"ktt0146t04","artist":"EZ Special","song":"Sei Quem Sabes Que Sim"}
+{"id":"kam0001","artist":"Fado","song":"Abril em Portugal"}
+{"id":"ktt0115t10","artist":"Fado","song":"Ai Mouraria"}
+{"id":"ktt0133t06","artist":"Fado","song":"Amar"}
+{"id":"ktt0103t14","artist":"Fado","song":"A Rosinha dos Limões"}
+{"id":"ptk0738","artist":"Fado","song":"Até Que a Voz Me Doa"}
+{"id":"ktt0119t02","artist":"Fado","song":"Bairro Alto"}
+{"id":"ptk0739","artist":"Fado","song":"Bairro Alto"}
+{"id":"ptk0740","artist":"Fado","song":"Balada da Despedida"}
+{"id":"ptk0741","artist":"Fado","song":"Boa Noite Solidão"}
+{"id":"ptk0742","artist":"Fado","song":"Boa Nova"}
+{"id":"ptk0743","artist":"Fado","song":"Bocas do Fado"}
+{"id":"ptk0744","artist":"Fado","song":"Cais do Sodré"}
+{"id":"ptk0745","artist":"Fado","song":"Canção de Lisboa"}
+{"id":"ktt0104t06","artist":"Fado","song":"Canoas do Tejo"}
+{"id":"oth0005","artist":"Fado","song":"Caracois"}
+{"id":"ktt0143t11","artist":"Fado","song":"Carmencita"}
+{"id":"kam0002","artist":"Fado","song":"Casa da Mariquinhas"}
+{"id":"ktt0121t07","artist":"Fado","song":"Cavalo Ruço"}
+{"id":"ptk0746","artist":"Fado","song":"Cheira a Lisboa"}
+{"id":"kam0003","artist":"Fado","song":"Coimbra"}
+{"id":"oth0006","artist":"Fado","song":"Coimbra do Choupal"}
+{"id":"ptk0747","artist":"Fado","song":"Confesso"}
+{"id":"oth0007","artist":"Fado","song":"Covilhã Cidade Neve"}
+{"id":"ktt0121t13","artist":"Fado","song":"Duas Lágrimas De Orvalho"}
+{"id":"ktt0122t14","artist":"Fado","song":"É Ou Não É"}
+{"id":"ktt0142t03","artist":"Fado","song":"E Pa Canta La O Fado"}
+{"id":"ptk0778","artist":"Fado","song":"É Tão Bom Ser Pequenino"}
+{"id":"ptk0748","artist":"Fado","song":"Estranha Forma de Vida"}
+{"id":"ptk0749","artist":"Fado","song":"Eterna Amizade"}
+{"id":"ptk0750","artist":"Fado","song":"Fadinho Serrano"}
+{"id":"ktt0122t08","artist":"Fado","song":"Fado Da Sina"}
+{"id":"ptk0751","artist":"Fado","song":"Fado de Cada Um"}
+{"id":"ktt0120t06","artist":"Fado","song":"Fado Do 31"}
+{"id":"ptk0752","artist":"Fado","song":"Fado do Ciúme"}
+{"id":"kam0004","artist":"Fado","song":"Fado do Embuçado"}
+{"id":"ktt0119t08","artist":"Fado","song":"Fado Do Estudante"}
+{"id":"ktt0122t15","artist":"Fado","song":"Fado Do Marialva"}
+{"id":"ktt0120t13","artist":"Fado","song":"Fado Dos Cheirinhos"}
+{"id":"ptk0753","artist":"Fado","song":"Fado dos Passarinhos"}
+{"id":"ktt0121t14","artist":"Fado","song":"Foi Deus"}
+{"id":"kam0005","artist":"Fado","song":"Foi Deus"}
+{"id":"ptk0754","artist":"Fado","song":"Fado Errado"}
+{"id":"ktt0116t08","artist":"Fado","song":"Gaivota"}
+{"id":"ktt0134t06","artist":"Fado","song":"Há Festa Na Mouraria"}
+{"id":"ptk0755","artist":"Fado","song":"Havemos de Ir a Viana"}
+{"id":"ktt0116t14","artist":"Fado","song":"Homem Das Castanhas"}
+{"id":"ktt0119t09","artist":"Fado","song":"Igreja De Santo Estevão"}
+{"id":"ktt0115t06","artist":"Fado","song":"Lenda Da Fonte"}
+{"id":"ktt0103t11","artist":"Fado","song":"Lisboa À Noite"}
+{"id":"ktt0103t03","artist":"Fado","song":"Lisboa Antiga"}
+{"id":"ptk0756","artist":"Fado","song":"Lisboa Não Sejas Francesa"}
+{"id":"ktt0134t13","artist":"Fado","song":"Lugar Vazio"}
+{"id":"kam0006","artist":"Fado","song":"Mãe Preta"}
+{"id":"ptk0757","artist":"Fado","song":"Marcha de Alfama"}
+{"id":"ptk0758","artist":"Fado","song":"Margarida Vai á Fonte"}
+{"id":"ptk0759","artist":"Fado","song":"Menina das Tranças Pretas"}
+{"id":"ktt0104t11","artist":"Fado","song":"Não Venhas Tarde"}
+{"id":"ktt0133t13","artist":"Fado","song":"Novo Fado Da Severa"}
+{"id":"ktt0103t01","artist":"Fado","song":"O Embuçado"}
+{"id":"ptk0760","artist":"Fado","song":"O Amor É Louco"}
+{"id":"ptk0761","artist":"Fado","song":"O Espaço e o Tempo"}
+{"id":"ptk0779","artist":"Fado","song":"Ó Portela"}
+{"id":"kam0007","artist":"Fado","song":"Ó Tempo Volta P'ra Trás"}
+{"id":"ktt0141t05","artist":"Fado","song":"O Xaile De Minha Mãe"}
+{"id":"ptk0762","artist":"Fado","song":"Olhos Castanhos"}
+{"id":"ktt0116t06","artist":"Fado","song":"Os Meninos De Huambo"}
+{"id":"ktt0108t01","artist":"Fado","song":"Os Putos"}
+{"id":"ptk0763","artist":"Fado","song":"Pode Ser Mentira"}
+{"id":"ktt0120t12","artist":"Fado","song":"Por Morrer Uma Andorinha"}
+{"id":"ptk0764","artist":"Fado","song":"Povo que Lavas No Rio"}
+{"id":"ktt0133t10","artist":"Fado","song":"Procuro E Nao Te Encontro"}
+{"id":"ptk0765","artist":"Fado","song":"Que Deus Me Perdoe"}
+{"id":"ptk0766","artist":"Fado","song":"Rosinha dos Limões"}
+{"id":"ptk0767","artist":"Fado","song":"Rua do Capelão"}
+{"id":"ptk0768","artist":"Fado","song":"Saudades de Coimbra"}
+{"id":"ptk0769","artist":"Fado","song":"Saudades Peregrinas"}
+{"id":"ptk0770","artist":"Fado","song":"Se Ao Menos Houvesse Um Dia"}
+{"id":"ptk0771","artist":"Fado","song":"Ti Maria Benta"}
+{"id":"ptk0772","artist":"Fado","song":"Trigueirinha"}
+{"id":"ptk0773","artist":"Fado","song":"Triste Sina"}
+{"id":"ktt0134t08","artist":"Fado","song":"Tudo Isto É Fado"}
+{"id":"ptk0172","artist":"Fado","song":"Uma Casa Portuguesa"}
+{"id":"ktt0115t14","artist":"Fado","song":"Uma Casa Portuguesa"}
+{"id":"ptk0774","artist":"Fado","song":"Valeu a Pena"}
+{"id":"ptk0775","artist":"Fado","song":"Velho Friagem"}
+{"id":"ptk0776","artist":"Fado","song":"Viseu Senhora da Beira"}
+{"id":"ktt0133t08","artist":"Fado","song":"Vou Dar De Beber Á Dor"}
+{"id":"ptk0777","artist":"Fado","song":"Zanguei me Com Meu Amor"}
+{"id":"ktt0116t12","artist":"Fado","song":"Zé Cacilheiro"}
+{"id":"ktt0509t07","artist":"Fafa De Belem","song":"Abandonada"}
+{"id":"ktt0110t15","artist":"Fafa De Belem","song":"Pirilampo"}
+{"id":"ktt0003t01","artist":"Fafa De Belem","song":"Vermelho"}
+{"id":"ktt0003t10","artist":"Fafa De Belem","song":"Vermelho"}
+{"id":"ktt0006t05","artist":"Fagner","song":"Borbulhas de Amor"}
+{"id":"ktt0006t15","artist":"Fagner","song":"Borbulhas de Amor"}
+{"id":"ktt0119t05","artist":"Fausto","song":"Foi Por Ela"}
+{"id":"ptk0173","artist":"Fausto","song":"Navegar,Navegar"}
+{"id":"ktt0117t10","artist":"Fausto","song":"Navegar Navegar"}
+{"id":"ktt0106t06","artist":"Fausto","song":"O Barco Vai de Saida"}
+{"id":"ktt0151t14","artist":"Fausto","song":"Rosalinda"}
+{"id":"ptk0174","artist":"Fernando Correia Marques","song":"Agarra Que É Bom"}
+{"id":"ptk0175","artist":"Fernando Correia Marques","song":"Ai Se O Meu Carro Falasse"}
+{"id":"ptk0181","artist":"Fernando Correia Marques","song":"À Portuguesa"}
+{"id":"ptk0176","artist":"Fernando Correia Marques","song":"Brinca Com O Fogo Brinca"}
+{"id":"ptk0841","artist":"Fernando Correia Marques","song":"Coco Louco"}
+{"id":"ptk0177","artist":"Fernando Correia Marques","song":"O Burrito"}
+{"id":"ktt0008t02","artist":"Fernando Correia Marques","song":"O Burrito"}
+{"id":"ktt0008t12","artist":"Fernando Correia Marques","song":"O Burrito"}
+{"id":"ptk0178","artist":"Fernando Correia Marques","song":"O Carocha do Amor"}
+{"id":"ktt0002t10","artist":"Fernando Correia Marques","song":"O Carocha do Amor"}
+{"id":"ktt0002t20","artist":"Fernando Correia Marques","song":"O Carocha do Amor"}
+{"id":"ptk0179","artist":"Fernando Correia Marques","song":"So Quero Namorar"}
+{"id":"ptk0180","artist":"Fernando Correia Marques","song":"Uma Pedra No Meu Sapato"}
+{"id":"ktt0104t04","artist":"Fernando Tordo","song":"Adeus Tristeza"}
+{"id":"ktt0118t03","artist":"Fernando Tordo","song":"Cavalo à Solta"}
+{"id":"ktt0125t02","artist":"Fernando Tordo","song":"Lisboa de Feira"}
+{"id":"ktt0108t08","artist":"Fernando Tordo","song":"Tourada"}
+{"id":"ptk0183","artist":"Fevers","song":"A Menina Dos Meus Sonhos"}
+{"id":"ptk0184","artist":"Fevers","song":"Boa Sorte"}
+{"id":"ptk0185","artist":"Fevers","song":"Mar De Rosas"}
+{"id":"ptk0186","artist":"Fevers","song":"Onde Estão Teus Olhos Negros"}
+{"id":"ktt0136t14","artist":"FF","song":"Aqui Sem Ti"}
+{"id":"ptk0187","artist":"Filarmónica Gil","song":"Deixa-te Ficar Na Minha Casa"}
+{"id":"ktt0128t09","artist":"Filarmónica Gil","song":"Deixa-te Ficar Na Minha Casa"}
+{"id":"ktt0140t03","artist":"Filarmónica Gil","song":"Ponto de Rebuçado"}
+{"id":"ptk0188","artist":"Filarmónica Gil","song":"Um Homem Como Eu"}
+{"id":"ktt0144t10","artist":"Filarmónica Gil","song":"Vontade De Te Matar"}
+{"id":"ktt0155t02","artist":"Filipa Azevedo","song":"Há Dias Assim"}
+{"id":"oth0008","artist":"Filipa Azevedo","song":"Há Dias Assim"}
+{"id":"ptk0903","artist":"Filipa Azevedo","song":"Há Dias Assim"}
+{"id":"ktt0120t03","artist":"Filipa Pais","song":"Bom Prazer (com Sérgio Godinho)"}
+{"id":"ptk0189","artist":"Filipe Neves","song":"Amoromania"}
+{"id":"ktt0116t10","artist":"Filipe Neves","song":"Coisinha Estupida"}
+{"id":"ktt0117t12","artist":"Filipe Neves","song":"Espera Por Ti, Espera Por Mim"}
+{"id":"ktt0114t02","artist":"Filipe Neves","song":"Vocês Sabem Lá"}
+{"id":"ptk0190","artist":"Fingertips","song":"Melancholic Balad"}
+{"id":"ptk0191","artist":"Floribella","song":"Pobres Dos Ricos"}
+{"id":"ktt0135t01","artist":"Floribella","song":"Pobres Dos Ricos"}
+{"id":"ptk0192","artist":"Flôr De Lis","song":"Todas As Ruas Do Amor"}
+{"id":"ptk0193","artist":"Forro Brasil","song":"Dormi Na Praça"}
+{"id":"ptk0194","artist":"Francisco José","song":"Guitarra Toca Baixinho"}
+{"id":"ktt0102t09","artist":"Francisco José","song":"Guitarra Toca Baixinho"}
+{"id":"ktt0114t08","artist":"Francisco José","song":"Olhos Castanhos"}
+{"id":"ktt0132t15","artist":"Francisco José","song":"Recado A Lisboa"}
+{"id":"ktt0501t10","artist":"Françoise Hardy","song":"Tous Les Garçons Et Les Filles"}
+{"id":"ptk0195","artist":"Fúria do Açucar","song":"Buraca"}
+{"id":"ktt0147t12","artist":"Fúria do Açucar","song":"Buraca"}
+{"id":"ptk0196","artist":"Fúria do Açucar","song":"Eu Gosto é do Verão"}
+{"id":"ktt0007t04","artist":"Fúria do Açucar","song":"Eu Gosto é do Verão"}
+{"id":"ktt0007t13","artist":"Fúria do Açucar","song":"Eu Gosto é do Verão"}
+{"id":"ktt0112t05","artist":"Fúria do Açucar","song":"Na Marinha"}
+{"id":"ptk0197","artist":"Fúria do Açucar","song":"O Rei Dos Matraquilhos"}
+{"id":"ktt0115t12","artist":"Fúria do Açucar","song":"O Rei Dos Matraquilhos"}
+{"id":"ktt0148t12","artist":"Gabriela Schaaf","song":"Homem Muito Brasa"}
+{"id":"ptk0842","artist":"Gabriell","song":"É Só Kuduro"}
+{"id":"ktt0508t15","artist":"Gal Costa","song":"Índia"}
+{"id":"ktt0510t12","artist":"Gal Costa","song":"Sonho Meu (com Maria Bethânia)"}
+{"id":"ptk0198","artist":"Gal Costa","song":"Um Dia De Domingo"}
+{"id":"ktt0109t11","artist":"Gal Costa","song":"Um Dia De Domingo"}
+{"id":"ktt0508t09","artist":"Gal Costa","song":"Wave"}
+{"id":"ktt0508t08","artist":"Garou","song":"Seul"}
+{"id":"ktt0506t08","artist":"Garou","song":"Sous Le Vent (com Celine Dion)"}
+{"id":"ktt0151t11","artist":"Gemini","song":"Dai Li Dou"}
+{"id":"ktt0501t11","artist":"Gianni Morandi","song":"Non So Degno Di Te"}
+{"id":"ptk0199","artist":"Gianna Nannini","song":"Meravigliosa Creatura"}
+{"id":"ptk0200","artist":"Gil","song":"Nha Namorada"}
+{"id":"ptk0201","artist":"Gil Semedo","song":"Nos Lider"}
+{"id":"ktt0508t13","artist":"Gilbert Becaud","song":"C’est En Septembre"}
+{"id":"ktt0506t13","artist":"Gilbert Becaud","song":"Et Maintenant"}
+{"id":"ktt0503t08","artist":"Gilbert Becaud","song":"Limportatnt Cest la Rose"}
+{"id":"ktt0111t03","artist":"Gilberto Gil","song":"Esperando Na Janela"}
+{"id":"ktt0503t04","artist":"Gilberto Gil","song":"Não Chore Mais"}
+{"id":"ktt0509t13","artist":"Gino Paoli","song":"Sapore Di Sale"}
+{"id":"ktt0503t06","artist":"Gipsy Kings","song":"A Mi Manera"}
+{"id":"ktt0501t13","artist":"Gipsy Kings","song":"Bamboleo"}
+{"id":"ktt0504t01","artist":"Gipsy Kings","song":"Caminando por la Calle"}
+{"id":"ktt0502t01","artist":"Gipsy Kings","song":"Volare"}
+{"id":"ktt0513t04","artist":"Gisela","song":"Un Mundo Ideal (com Bustamante)"}
+{"id":"ktt0511t04","artist":"Gloria Estefan","song":"Ay, Ay, Ay, Amor"}
+{"id":"ktt0512t02","artist":"Gloria Estefan","song":"Hoy"}
+{"id":"ktt0513t15","artist":"Gloria Estefan","song":"Me Voy"}
+{"id":"ktt0505t09","artist":"Gloria Estefan","song":"Mi Tierra"}
+{"id":"ktt0113t14","artist":"GNR","song":"Ana Lee"}
+{"id":"ptk0202","artist":"GNR","song":"Asas"}
+{"id":"ktt0141t15","artist":"GNR","song":"Asas"}
+{"id":"ptk0203","artist":"GNR","song":"Dunas"}
+{"id":"ktt0005t07","artist":"GNR","song":"Dunas"}
+{"id":"ktt0005t17","artist":"GNR","song":"Dunas"}
+{"id":"ptk0204","artist":"GNR","song":"Efectivamente"}
+{"id":"ktt0114t15","artist":"GNR","song":"Efectivamente"}
+{"id":"ktt0132t04","artist":"GNR","song":"Mais Vale Nunca"}
+{"id":"ktt0139t10","artist":"GNR","song":"Popless"}
+{"id":"ptk0780","artist":"GNR","song":"Portugal Na CEE"}
+{"id":"ptk0205","artist":"GNR","song":"Pronúncia Do Norte"}
+{"id":"ktt0113t09","artist":"GNR","song":"Pronúncia Do Norte"}
+{"id":"ptk0206","artist":"GNR","song":"Quero Que Vá Tudo Pro Inferno"}
+{"id":"ktt0111t13","artist":"GNR","song":"Sangue Oculto"}
+{"id":"ptk0878","artist":"GNR","song":"Sangue Oculto"}
+{"id":"ktt0130t12","artist":"GNR","song":"Sexta Feira (Um Seu Criado)"}
+{"id":"ktt0119t04","artist":"GNR","song":"Sub16"}
+{"id":"ptk0207","artist":"GNR","song":"Tirana"}
+{"id":"ktt0123t02","artist":"GNR","song":"Tirania"}
+{"id":"ktt0103t08","artist":"GNR","song":"Vídeo Maria"}
+{"id":"ptk0208","artist":"Gomo","song":"Feeling Alive"}
+{"id":"ktt0124t04","artist":"Gomo","song":"Feeling Alive"}
+{"id":"ptk0781","artist":"Graciano Saga","song":"Vem Devagar Emigrante"}
+{"id":"ptk0209","artist":"Grupo De Baile","song":"Patchouly"}
+{"id":"ktt0109t14","artist":"Grupo De Baile","song":"Patchouly"}
+{"id":"ptk0210","artist":"Gutto","song":"Quem Seria Eu"}
+{"id":"ktt0145t07","artist":"Gutto","song":"Deixa Ferver (com Liliana)"}
+{"id":"ktt0145t13","artist":"Hands On Approach","song":"A Chance"}
+{"id":"ptk0782","artist":"Hands On Approach","song":"Days Of Our Own"}
+{"id":"ptk0211","artist":"Hands On Approach","song":"If You Give Up"}
+{"id":"ktt0146t05","artist":"Hands On Approach","song":"Let´s Be In Love"}
+{"id":"ptk0213","artist":"Hands On Approach","song":"My Wonder Moon"}
+{"id":"ktt0102t06","artist":"Hands On Approach","song":"My Wonder Moon"}
+{"id":"ptk0212","artist":"Hands On Approach","song":"Tão Perto E Tão Longe"}
+{"id":"ktt0150t09","artist":"Hands On Approach","song":"Tão Perto e Tão Longe"}
+{"id":"ptk0214","artist":"Helena","song":"Dino Meira"}
+{"id":"ktt0107t02","artist":"Herman José","song":"Bamos Lá Cambada"}
+{"id":"ptk0890","artist":"Herman José","song":"Cambada"}
+{"id":"ktt0112t08","artist":"Herman José","song":"Canção do Beijinho"}
+{"id":"ptk0861","artist":"Herman José","song":"Canção do Beijinho"}
+{"id":"ptk0217","artist":"Herman José","song":"És Tão Boa"}
+{"id":"ktt0127t01","artist":"Herman José","song":"És Tão Boa"}
+{"id":"ptk0215","artist":"Herman José","song":"Saca O Saca Rolhas"}
+{"id":"ptk0216","artist":"Herman José","song":"Serafim Saudade"}
+{"id":"ktt0133t03","artist":"Herman José","song":"Serafim Saudade"}
+{"id":"ktt0134t11","artist":"Hernani & Gabriel","song":"Amante Errante"}
+{"id":"ktt0137t05","artist":"Hernani & Gabriel","song":"Após o Fim"}
+{"id":"ktt0118t10","artist":"Hernani & Gabriel","song":"Forte Ilusão"}
+{"id":"ktt0121t06","artist":"Hernani & Gabriel","song":"Todo O Meu Crer"}
+{"id":"ktt0501t03","artist":"Heroes Del Silencio","song":"Entre Dos Tierras"}
+{"id":"ktt0508t11","artist":"Heroes Del Silencio","song":"Fuente Esperanza"}
+{"id":"ktt0507t11","artist":"Heroes Del Silencio","song":"Maldito Duende"}
+{"id":"ktt0108t12","artist":"Heróis Do Mar","song":"Amor"}
+{"id":"ktt0132t13","artist":"Heróis Do Mar","song":"Fado"}
+{"id":"ktt0125t01","artist":"Heróis Do Mar","song":"Paixão"}
+{"id":"ktt0114t11","artist":"Heróis Do Mar","song":"Só Gosto De Ti"}
+{"id":"ktt0125t11","artist":"Hino Galp","song":"Será Demais Pedir a Taça"}
+{"id":"ptk0218","artist":"Hino Nacional","song":"A Portuguesa"}
+{"id":"ktt0120t01","artist":"Hino Nacional","song":"A Portuguesa"}
+{"id":"ptk0219","artist":"Hinos","song":"Marcha Sporting"}
+{"id":"ptk0830","artist":"Homem Dos 7 Instrumentos","song":"Tu Vais Querer"}
+{"id":"ptk0220","artist":"Humanos","song":"Maria Albertina"}
+{"id":"ktt0130t01","artist":"Humanos","song":"Maria Albertina"}
+{"id":"ptk0221","artist":"Humanos","song":"Muda De Vida"}
+{"id":"ktt0125t04","artist":"Humanos","song":"Muda de Vida"}
+{"id":"ptk0222","artist":"Humanos","song":"Quero É Viver"}
+{"id":"ktt0134t05","artist":"Humanos","song":"Rugas"}
+{"id":"ptk0223","artist":"Hélvio","song":"Borbujas De Amor"}
+{"id":"ktt0513t02","artist":"Il Divo","song":"Hoy Que Ya No Estas Aqui"}
+{"id":"ktt0509t12","artist":"Il Divo","song":"Regresa A Mí"}
+{"id":"ptk0224","artist":"Império dos Sentados","song":"Longe De Ti"}
+{"id":"ktt0007t02","artist":"Império dos Sentados","song":"Longe de Ti"}
+{"id":"ktt0007t11","artist":"Império dos Sentados","song":"Longe de Ti"}
+{"id":"ktt0111t14","artist":"Império dos Sentados","song":"Sempre Para Te Amar"}
+{"id":"ktt0121t04","artist":"Império dos Sentados","song":"Só Por Ti"}
+{"id":"jdi0001","artist":"Infantil","song":"A Barata diz que tem"}
+{"id":"jdi0002","artist":"Infantil","song":"A Boneca"}
+{"id":"jdi0003","artist":"Infantil","song":"A caminho de Viseu"}
+{"id":"jdi0004","artist":"Infantil","song":"A Cantiga do Avô Cantigas"}
+{"id":"jdi0005","artist":"Infantil","song":"A Machadinha"}
+{"id":"jdi0006","artist":"Infantil","song":"A moda da Rita"}
+{"id":"jdi0007","artist":"Infantil","song":"A saia da Carolina"}
+{"id":"jdi0008","artist":"Infantil","song":"A todos um bom Natal"}
+{"id":"jdi0009","artist":"Infantil","song":"Abelha Maia"}
+{"id":"jdi0010","artist":"Infantil","song":"Alecrim"}
+{"id":"jdi0011","artist":"Infantil","song":"Amiguinhos Assim"}
+{"id":"jdi0012","artist":"Infantil","song":"Aprender a brincar"}
+{"id":"jdi0013","artist":"Infantil","song":"Arco íris de cores"}
+{"id":"jdi0014","artist":"Infantil","song":"As mulheres do monte"}
+{"id":"jdi0015","artist":"Infantil","song":"As pombinhas da Catrina"}
+{"id":"jdi0016","artist":"Infantil","song":"As sete cores do arco-íris"}
+{"id":"jdi0017","artist":"Infantil","song":"Atirei o pau ao gato"}
+{"id":"jdi0018","artist":"Infantil","song":"Ba Bata Batatoon"}
+{"id":"jdi0019","artist":"Infantil","song":"Bai Bai Binha"}
+{"id":"jdi0020","artist":"Infantil","song":"Baile dos passarinhos"}
+{"id":"jdi0021","artist":"Infantil","song":"Boa noite Vitinho"}
+{"id":"jdi0022","artist":"Infantil","song":"Bom Barqueiro"}
+{"id":"jdi0023","artist":"Infantil","song":"Bom dia, vou p'ra escola"}
+{"id":"jdi0024","artist":"Infantil","song":"Branca de neve"}
+{"id":"jdi0025","artist":"Infantil","song":"Brincar a contar"}
+{"id":"jdi0026","artist":"Infantil","song":"Canguru"}
+{"id":"jdi0027","artist":"Infantil","song":"Canção do ovo"}
+{"id":"jdi0028","artist":"Infantil","song":"Capuchinho vermelho"}
+{"id":"jdi0029","artist":"Infantil","song":"Caranguejo"}
+{"id":"jdi0030","artist":"Infantil","song":"Ciranda"}
+{"id":"jdi0031","artist":"Infantil","song":"Começar no A"}
+{"id":"jdi0032","artist":"Infantil","song":"Cuá Cuá"}
+{"id":"jdi0033","artist":"Infantil","song":"Doidas andam as galinhas"}
+{"id":"jdi0034","artist":"Infantil","song":"Dona aranha"}
+{"id":"jdi0035","artist":"Infantil","song":"Dubadoira"}
+{"id":"jdi0036","artist":"Infantil","song":"Dó, Ré, Mi"}
+{"id":"jdi0037","artist":"Infantil","song":"Era uma velhinha"}
+{"id":"jdi0038","artist":"Infantil","song":"Era uma vez um cavalo"}
+{"id":"jdi0039","artist":"Infantil","song":"Era uma vez um rei"}
+{"id":"jdi0040","artist":"Infantil","song":"Eu mexo um dedo"}
+{"id":"jdi0041","artist":"Infantil","song":"Eu perdi o Dó da minha viola"}
+{"id":"jdi0042","artist":"Infantil","song":"Eu vi um sapo"}
+{"id":"jdi0043","artist":"Infantil","song":"Fui de visita à minha tia a Marrocos"}
+{"id":"jdi0044","artist":"Infantil","song":"Gafanhoto"}
+{"id":"oth0009","artist":"Infantil","song":"Jacky E Jill"}
+{"id":"jdi0045","artist":"Infantil","song":"Jardim da Celeste"}
+{"id":"jdi0046","artist":"Infantil","song":"Joana come a papa"}
+{"id":"jdi0047","artist":"Infantil","song":"Josézito"}
+{"id":"jdi0048","artist":"Infantil","song":"Kria e brinca"}
+{"id":"jdi0049","artist":"Infantil","song":"Laranjas e bananas"}
+{"id":"jdi0050","artist":"Infantil","song":"Lavar os dentes"}
+{"id":"jdi0051","artist":"Infantil","song":"Loja do Mestre André"}
+{"id":"jdi0052","artist":"Infantil","song":"Macaquinho"}
+{"id":"jdi0053","artist":"Infantil","song":"Marcha Soldado"}
+{"id":"jdi0054","artist":"Infantil","song":"Mariana, meu amor"}
+{"id":"jdi0055","artist":"Infantil","song":"Na quinta do Tio Manel"}
+{"id":"jdi0056","artist":"Infantil","song":"No Alto Daquela Serra"}
+{"id":"jdi0057","artist":"Infantil","song":"O Areias é Um Camelo"}
+{"id":"jdi0058","artist":"Infantil","song":"O balão do João"}
+{"id":"jdi0059","artist":"Infantil","song":"O Coelhinho"}
+{"id":"jdi0060","artist":"Infantil","song":"O cuco"}
+{"id":"jdi0061","artist":"Infantil","song":"O Cucu na floresta"}
+{"id":"jdi0062","artist":"Infantil","song":"O meu chapéu tem três bicos"}
+{"id":"jdi0063","artist":"Infantil","song":"O Nosso Galo"}
+{"id":"jdi0064","artist":"Infantil","song":"O Pretinho Barnabé"}
+{"id":"jdi0065","artist":"Infantil","song":"Olha a bola Manel"}
+{"id":"jdi0066","artist":"Infantil","song":"Oliveirinha da Serra"}
+{"id":"jdi0067","artist":"Infantil","song":"Ora, ponha aqui o seu pezinho"}
+{"id":"jdi0068","artist":"Infantil","song":"Os barcos"}
+{"id":"jdi0069","artist":"Infantil","song":"Os meus amigos"}
+{"id":"jdi0070","artist":"Infantil","song":"Os Olhos da Marianita"}
+{"id":"jdi0094","artist":"Infantil","song":"Ó Rosa arredonda a saia"}
+{"id":"jdi0071","artist":"Infantil","song":"Papagaio Loiro"}
+{"id":"ptk0225","artist":"Infantil","song":"Parabéns"}
+{"id":"jdi0072","artist":"Infantil","song":"Parabéns a Você"}
+{"id":"jdi0073","artist":"Infantil","song":"Pastorinho"}
+{"id":"jdi0074","artist":"Infantil","song":"Peão que dança"}
+{"id":"jdi0075","artist":"Infantil","song":"Pimpão"}
+{"id":"jdi0076","artist":"Infantil","song":"Profissões"}
+{"id":"jdi0077","artist":"Infantil","song":"Qual é coisa (qual é ela)"}
+{"id":"jdi0078","artist":"Infantil","song":"Que linda falua"}
+{"id":"jdi0079","artist":"Infantil","song":"Rosa Branca ao Peito"}
+{"id":"jdi0080","artist":"Infantil","song":"Sapo"}
+{"id":"jdi0081","artist":"Infantil","song":"Se tu estás contente"}
+{"id":"jdi0082","artist":"Infantil","song":"Se tu visses o que eu vi"}
+{"id":"jdi0083","artist":"Infantil","song":"Sebastião Come Tudo"}
+{"id":"jdi0084","artist":"Infantil","song":"Senhora Dona Anica"}
+{"id":"jdi0085","artist":"Infantil","song":"Tenho cinco reis"}
+{"id":"jdi0086","artist":"Infantil","song":"Tia Anica"}
+{"id":"jdi0087","artist":"Infantil","song":"Todos os patinhos"}
+{"id":"jdi0088","artist":"Infantil","song":"Trai trai"}
+{"id":"jdi0089","artist":"Infantil","song":"Três Galinhas"}
+{"id":"jdi0090","artist":"Infantil","song":"Três Pombinhas a voar"}
+{"id":"jdi0091","artist":"Infantil","song":"Um ovo, dois ovos, três ovos"}
+{"id":"jdi0092","artist":"Infantil","song":"Um peixe no mar"}
+{"id":"jdi0093","artist":"Infantil","song":"Vermelho e Verde"}
+{"id":"ptk0226","artist":"Iran Costa","song":"Agora O Bicho Vai Pegar"}
+{"id":"ptk0227","artist":"Iran Costa","song":"Balanço Do Trem"}
+{"id":"ptk0897","artist":"Iran Costa","song":"Ela é uma Bomba"}
+{"id":"ptk0228","artist":"Iran Costa","song":"O Bicho"}
+{"id":"ptk0229","artist":"Íris","song":"Atira-te ao Mar"}
+{"id":"ktt0007t05","artist":"Íris","song":"Atira-te ao Mar"}
+{"id":"ktt0007t14","artist":"Íris","song":"Atira-te ao Mar"}
+{"id":"ktt0105t14","artist":"Íris","song":"Oh Mãe"}
+{"id":"ptk0892","artist":"Irmãos Leais","song":"Eras Tu ó Madalena"}
+{"id":"ptk0231","artist":"Irmãos Verdade","song":"Amar-e Assim"}
+{"id":"ktt0142t13","artist":"Irmãos Verdade","song":"Amar-te assim"}
+{"id":"ktt0143t15","artist":"Irmãos Verdade","song":"Deixa-me Entrar No Seu Coração"}
+{"id":"ptk0232","artist":"Irmãos Verdade","song":"Desejo Meu"}
+{"id":"ktt0144t11","artist":"Irmãos Verdade","song":"Estrelas No Céu"}
+{"id":"ptk0233","artist":"Irmãos Verdade","song":"Eu Quero Te Assim Tanto"}
+{"id":"ptk0244","artist":"Irmãos Verdade","song":"Garota Atrevida"}
+{"id":"ptk0234","artist":"Irmãos Verdade","song":"Isabella"}
+{"id":"ptk0235","artist":"Irmãos Verdade","song":"Je T'aime"}
+{"id":"ptk0783","artist":"Irmãos Verdade","song":"Kuduro Caliente"}
+{"id":"ptk0236","artist":"Irmãos Verdade","song":"O Tempo Passa"}
+{"id":"ptk0230","artist":"Irmãos Verdade","song":"Oh Linda"}
+{"id":"ptk0237","artist":"Irmãos Verdade","song":"Oh Yara"}
+{"id":"ptk0238","artist":"Irmãos Verdade","song":"Saudades De Luanda"}
+{"id":"ptk0239","artist":"Irmãos Verdade","song":"Sonho Lindo"}
+{"id":"ktt0145t08","artist":"Irmãos Verdade","song":"So Mais Um Beijo"}
+{"id":"ptk0240","artist":"Irmãos Verdade","song":"Tão Apaixonado"}
+{"id":"ktt0141t07","artist":"Irmãos Verdade","song":"Tão Apaixonado"}
+{"id":"ptk0241","artist":"Irmãos Verdade","song":"Tão Sozinho"}
+{"id":"ktt0149t06","artist":"Irmãos Verdade","song":"Tão Sozinho"}
+{"id":"ptk0242","artist":"Irmãos Verdade","song":"Um Carinho Sheila"}
+{"id":"ptk0243","artist":"Irmãos Verdade","song":"Yolanda"}
+{"id":"ktt0150t12","artist":"Irmãos Verdade","song":"Yolanda"}
+{"id":"ktt0113t07","artist":"Isabel Campelo","song":"Nunca Digas Adeus"}
+{"id":"ktt0513t07","artist":"Ivete Sangalo","song":"Quando a Chuva Passar"}
+{"id":"ktt0510t10","artist":"Ivete Sangalo","song":"Se Eu Não Te Amasse Tanto Assim"}
+{"id":"ptk0245","artist":"Ivete Sangalo","song":"Sorte Grande"}
+{"id":"ktt0102t12","artist":"Jàfumega","song":"Latina América"}
+{"id":"ktt0138t05","artist":"Jàfumega","song":"Nó Cego"}
+{"id":"ktt0129t12","artist":"Jàfumega","song":"Ribeira"}
+{"id":"ktt0118t15","artist":"Janita Salome","song":"Senhora Do Almortão"}
+{"id":"ptk0246","artist":"J.C.","song":"Você Roubou A Minha Vida"}
+{"id":"ktt0513t14","artist":"Jennifer Lopez","song":"No Me Ames (com Marc Anthony)"}
+{"id":"ktt0507t09","artist":"Joana","song":"Amanhã Talvez"}
+{"id":"ptk0247","artist":"Joana","song":"Eu Fui Á Tropa"}
+{"id":"ptk0248","artist":"Joana","song":"O Cacetete"}
+{"id":"ptk0249","artist":"Joana","song":"Vem Cá Jantar"}
+{"id":"ptk0788","artist":"João Pedro Pais","song":"Ciúmes Da Lua"}
+{"id":"ktt0126t05","artist":"João Pedro Pais","song":"Espera Por Mim"}
+{"id":"ptk0290","artist":"João Pedro Pais","song":"Lembra-te De Mim"}
+{"id":"ktt0132t05","artist":"João Pedro Pais","song":"Lembra-te De Mim"}
+{"id":"ktt0005t01","artist":"João Pedro Pais","song":"Louco Por Ti"}
+{"id":"ktt0005t11","artist":"João Pedro Pais","song":"Louco Por Ti"}
+{"id":"ptk0291","artist":"João Pedro Pais","song":"Mais Que Uma Vez"}
+{"id":"ktt0124t08","artist":"João Pedro Pais","song":"Mais Que Uma Vez"}
+{"id":"ktt0143t14","artist":"João Pedro Pais","song":"Maneiras D'agradar (com Susana Felix)"}
+{"id":"ptk0292","artist":"João Pedro Pais","song":"Mentira"}
+{"id":"ktt0007t07","artist":"João Pedro Pais","song":"Mentira"}
+{"id":"ktt0007t16","artist":"João Pedro Pais","song":"Mentira"}
+{"id":"ptk0293","artist":"João Pedro Pais","song":"Nada De Nada"}
+{"id":"ktt0102t13","artist":"João Pedro Pais","song":"Nada De Nada"}
+{"id":"ptk0789","artist":"João Pedro Pais","song":"Ninguém É De Ninguém"}
+{"id":"ptk0294","artist":"João Pedro Pais","song":"Não Há"}
+{"id":"ktt0109t13","artist":"João Pedro Pais","song":"Não Há"}
+{"id":"ktt0116t03","artist":"João Pedro Pais","song":"Ninguém é De Ninguém"}
+{"id":"ptk0909","artist":"João Pedro Pais","song":"Sempre Hoje"}
+{"id":"ktt0133t07","artist":"João Pedro Pais","song":"Tudo Bem"}
+{"id":"ktt0137t04","artist":"João Pedro Pais","song":"Um Pouco de Ti"}
+{"id":"ktt0113t04","artist":"João Pedro Pais","song":"Um Resto de Tudo"}
+{"id":"ptk0913","artist":"João Pedro Pais","song":"Um Resto de Tudo"}
+{"id":"ptk0295","artist":"João Pedro Pais","song":"Um Volto Já"}
+{"id":"ktt0148t02","artist":"João Pedro Pais","song":"Um Volto Já"}
+{"id":"ptk0250","artist":"João Portugal","song":"Foste Tu Meu Amor"}
+{"id":"ktt0110t12","artist":"João Portugal","song":"Quero-te Abraçar"}
+{"id":"ktt0115t08","artist":"João Portugal","song":"Tudo Pode Acontecer"}
+{"id":"ptk0827","artist":"João Só","song":"Sorte Grande (Feat. Lúcia Moniz)"}
+{"id":"ktt0155t08","artist":"João Villaret","song":"Fado Falado"}
+{"id":"ktt0509t09","artist":"Joe Dassin","song":"Ça Va Pas Changer Le Monde"}
+{"id":"ktt0501t06","artist":"Joe Dassin","song":"Champs Elisées"}
+{"id":"ktt0501t04","artist":"Jon Secada","song":"Otro Día Más Sin Verte"}
+{"id":"ktt0511t11","artist":"Jon Secada","song":"Por Amor (com Gloria Estefan)"}
+{"id":"ptk0251","artist":"Jorge Fernando","song":"Lua Feiticeira Nua"}
+{"id":"ktt0154t10","artist":"Jorge Fernando","song":"Umbadá"}
+{"id":"ptk0252","artist":"Jorge Ferreira","song":"A Chupeta"}
+{"id":"ptk0253","artist":"Jorge Ferreira","song":"A Lixa"}
+{"id":"ptk0254","artist":"Jorge Ferreira","song":"A Portuguesa Mais Linda"}
+{"id":"ptk0042","artist":"Jorge Ferreira","song":"As Beatas"}
+{"id":"ptk0255","artist":"Jorge Ferreira","song":"Bendito Seja Agosto"}
+{"id":"ptk0256","artist":"Jorge Ferreira","song":"Era Pouco E AcabouSe"}
+{"id":"ptk0257","artist":"Jorge Ferreira","song":"Manel Aperta O Cinto"}
+{"id":"ptk0337","artist":"Jorge Ferreira","song":"Marcha Do Mandrião"}
+{"id":"ktt0112t07","artist":"Jorge Palma","song":"Bairro Do Amor"}
+{"id":"ptk0784","artist":"Jorge Palma","song":"Cara De Anjo Mau"}
+{"id":"ktt0126t04","artist":"Jorge Palma","song":"Dá-me Lume"}
+{"id":"ptk0258","artist":"Jorge Palma","song":"Deixa-me Rir"}
+{"id":"ktt0110t08","artist":"Jorge Palma","song":"Deixa-me Rir"}
+{"id":"ptk0259","artist":"Jorge Palma","song":"Dá-Me Lume"}
+{"id":"ptk0260","artist":"Jorge Palma","song":"Encosta-te A Mim"}
+{"id":"ktt0140t07","artist":"Jorge Palma","song":"Encosta-te a Mim"}
+{"id":"ptk0261","artist":"Jorge Palma","song":"Escuridão"}
+{"id":"ktt0144t03","artist":"Jorge Palma","song":"Espécie De Vampiro"}
+{"id":"ktt0118t11","artist":"Jorge Palma","song":"Estrela Do Mar"}
+{"id":"ktt0131t02","artist":"Jorge Palma","song":"Frágil"}
+{"id":"ktt0124t03","artist":"Jorge Palma","song":"Jeremias o Fora da Lei"}
+{"id":"ktt0134t01","artist":"Jorge Palma","song":"Norte (O Meu)"}
+{"id":"ktt0123t10","artist":"Jorge Palma","song":"Os Demitidos"}
+{"id":"ktt0154t01","artist":"Jorge Palma","song":"Tudo por um beijo"}
+{"id":"ptk0902","artist":"Jorge Palma","song":"Tudo por um beijo"}
+{"id":"ktt0155t13","artist":"Jorge Palma","song":"Voo Nocturno"}
+{"id":"ptk0896","artist":"José Alberto Reis","song":"Setembro"}
+{"id":"ktt0006t08","artist":"José Augusto","song":"Aguenta Coração"}
+{"id":"ktt0006t18","artist":"José Augusto","song":"Aguenta Coração"}
+{"id":"ktt0502t03","artist":"José Carreras","song":"Granada"}
+{"id":"ptk0265","artist":"José Cid","song":"20 Anos"}
+{"id":"ktt0101t14","artist":"José Cid","song":"20 Anos"}
+{"id":"ktt0143t06","artist":"José Cid","song":"A Pouco e Pouco"}
+{"id":"ptk0262","artist":"José Cid","song":"Amar Como Jesus Amou"}
+{"id":"ktt0142t11","artist":"José Cid","song":"Cai Neve Em Nova York"}
+{"id":"ptk0266","artist":"José Cid","song":"Grande Amor"}
+{"id":"ptk0267","artist":"José Cid","song":"Junto à Lareira"}
+{"id":"ktt0121t11","artist":"José Cid","song":"Junto à Lareira"}
+{"id":"ktt0141t11","artist":"José Cid","song":"Lenda de El Rei D. Sebastião"}
+{"id":"ktt0147t14","artist":"José Cid","song":"Macaco Gosta de Banana"}
+{"id":"ptk0876","artist":"José Cid","song":"Mais Um Dia"}
+{"id":"ptk0268","artist":"José Cid","song":"Minha Musica"}
+{"id":"ktt0108t04","artist":"José Cid","song":"Minha Música"}
+{"id":"ptk0269","artist":"José Cid","song":"Na Cabana Junto à Praia"}
+{"id":"ktt0114t09","artist":"José Cid","song":"Na Cabana Junto à Praia"}
+{"id":"ktt0137t13","artist":"José Cid","song":"O melhor Tempo de Minha Vida"}
+{"id":"ptk0270","artist":"José Cid","song":"Ontem, Hoje E Amanhã"}
+{"id":"ktt0122t13","artist":"José Cid","song":"Ontem, Hoje E Amanhã"}
+{"id":"ptk0271","artist":"José Cid","song":"Portugal,Portugal"}
+{"id":"ptk0272","artist":"José Cid","song":"Portuguesa Bonita"}
+{"id":"ktt0109t12","artist":"José Cid","song":"Rosa Que Te Dei"}
+{"id":"ktt0128t08","artist":"José Cid","song":"Um Grande, Grande Amor"}
+{"id":"ptk0893","artist":"José Cid","song":"Verdes Trigais em Flor"}
+{"id":"ktt0152t14","artist":"José da Câmara","song":"Canto o Fado"}
+{"id":"ptk0263","artist":"José Figueiras","song":"A Cantar O Tirolês"}
+{"id":"ktt0004t03","artist":"José Gonçalves","song":"Apita o Comboio"}
+{"id":"ktt0004t13","artist":"José Gonçalves","song":"Apita o Comboio"}
+{"id":"ktt0008t03","artist":"José Malhoa","song":"24 Rosas"}
+{"id":"ktt0008t13","artist":"José Malhoa","song":"24 Rosas"}
+{"id":"ptk0273","artist":"José Malhoa","song":"A Dança Do Bailão"}
+{"id":"ptk0274","artist":"José Malhoa","song":"A Mulher Do Outro"}
+{"id":"ptk0275","artist":"José Malhoa","song":"Ai Mexe Mexe Que É Bom"}
+{"id":"ptk0276","artist":"José Malhoa","song":"Amor Africano"}
+{"id":"ptk0277","artist":"José Malhoa","song":"Até A Barraca Abana"}
+{"id":"ptk0278","artist":"José Malhoa","song":"Baile De Verão"}
+{"id":"ktt0128t01","artist":"José Malhoa","song":"Baile De Verão"}
+{"id":"ptk0844","artist":"José Malhoa","song":"Dança Do Esfrega Esfrega"}
+{"id":"ptk0279","artist":"José Malhoa","song":"Duas Rosas"}
+{"id":"ptk0280","artist":"José Malhoa","song":"Eu Vou A Todas"}
+{"id":"ktt0129t05","artist":"José Malhoa","song":"Eu Vou A Todas"}
+{"id":"ptk0785","artist":"José Malhoa","song":"Meta Meta No Forró"}
+{"id":"ptk0281","artist":"José Malhoa","song":"No Fundo Do Salão"}
+{"id":"ptk0786","artist":"José Malhoa","song":"O Bailinho Do Zé"}
+{"id":"ptk0787","artist":"José Malhoa","song":"O Filho Não É Meu"}
+{"id":"ptk0282","artist":"José Malhoa","song":"O Segredo Do Sucesso"}
+{"id":"ptk0283","artist":"José Malhoa","song":"Pecado De Verão"}
+{"id":"ptk0284","artist":"José Malhoa","song":"Quarto De Hotel"}
+{"id":"ptk0285","artist":"José Malhoa","song":"Roça Roça Amor"}
+{"id":"ktt0148t10","artist":"José Malhoa","song":"Roça Roça Amor"}
+{"id":"ptk0286","artist":"José Malhoa","song":"Solteiras E Casadas"}
+{"id":"ptk0287","artist":"José Malhoa","song":"Solteirão"}
+{"id":"ptk0899","artist":"José Malhoa","song":"Tá Bom Assim"}
+{"id":"ptk0288","artist":"José Malhoa","song":"Toca A Todos"}
+{"id":"ptk0264","artist":"José Malhoa","song":"Tudo O Que Peço A Deus"}
+{"id":"ptk0289","artist":"José Malhoa","song":"Vai Ter Que Rezar"}
+{"id":"ktt0140t14","artist":"José Malhoa","song":"Vai Ter Que Rezar"}
+{"id":"ktt0101t09","artist":"José Afonso","song":"Venham Mais Cinco"}
+{"id":"ktt0512t01","artist":"Juanes","song":"A Dios Le Pido"}
+{"id":"ktt0513t01","artist":"Juanes","song":"Es Por Ti"}
+{"id":"ptk0296","artist":"Juanes","song":"Lá Camisa Negra"}
+{"id":"ktt0509t01","artist":"Juanes","song":"La Camisa Negra"}
+{"id":"ptk0297","artist":"Juanes","song":"Me Enamora"}
+{"id":"ptk0298","artist":"Juka","song":"Allô Cherry"}
+{"id":"ktt0502t09","artist":"Julio Iglesias","song":"A Media Luz"}
+{"id":"ktt0511t12","artist":"Julio Iglesias","song":"Como Han Pasado Los Años"}
+{"id":"ktt0505t01","artist":"Julio Iglesias","song":"Corazón De Papel"}
+{"id":"ktt0507t01","artist":"Julio Iglesias","song":"Divorcio"}
+{"id":"ktt0508t01","artist":"Julio Iglesias","song":"El Bacalao"}
+{"id":"ktt0512t15","artist":"Julio Iglesias","song":"Gozar La Vida"}
+{"id":"ktt0511t06","artist":"Julio Iglesias","song":"Hey"}
+{"id":"ktt0513t11","artist":"Julio Iglesias","song":"Me Olvide De Vivir"}
+{"id":"ktt0509t15","artist":"Julio Iglesias","song":"Pobre Diablo"}
+{"id":"ktt0512t05","artist":"Julio Iglesias","song":"Qué Ganaste"}
+{"id":"ktt0502t13","artist":"Julio Iglesias","song":"Quijote"}
+{"id":"ktt0504t12","artist":"Julio Iglesias","song":"Solamente Una Vez"}
+{"id":"ptk0299","artist":"Just Girls","song":"Amarguinhas"}
+{"id":"ptk0300","artist":"Just Girls","song":"Não Te Deixes Vencer"}
+{"id":"ktt0143t03","artist":"Just Girls","song":"Não Te Deixes Vencer"}
+{"id":"ptk0301","artist":"Juve Leo","song":"Só Eu Sei"}
+{"id":"ktt0105t01","artist":"Karametade","song":"Morango do Nordeste"}
+{"id":"ktt0137t10","artist":"Katia Guerreiro","song":"Minha Senhora das Dores"}
+{"id":"ptk0302","artist":"King Africa","song":"Bomba"}
+{"id":"ptk0303","artist":"King Caribe","song":"Onda Onda, Olha A Onda"}
+{"id":"ptk0790","artist":"Kizomba","song":"Voce Roubou A Minha Vida"}
+{"id":"ktt0149t05","artist":"Klepht","song":"Antes & Depois"}
+{"id":"ktt0150t01","artist":"Klepht","song":"Embora Doa"}
+{"id":"ktt0148t01","artist":"Klepht","song":"Por Uma Noite"}
+{"id":"ptk0304","artist":"La Mosca","song":"Para No Verte Mas"}
+{"id":"ktt0510t01","artist":"La Mosca","song":"Para No Verte Más"}
+{"id":"ktt0513t08","artist":"Lara Fabian","song":"Quedate"}
+{"id":"ptk0305","artist":"Lara Lee","song":"Telepatia"}
+{"id":"ktt0114t12","artist":"Lara Lee","song":"Telepatia"}
+{"id":"ptk0306","artist":"Las Ketchup","song":"Asereje"}
+{"id":"ktt0507t06","artist":"Laura Pausini","song":"Gente"}
+{"id":"ktt0511t05","artist":"Laura Pausini","song":"Inolvidable"}
+{"id":"ktt0502t11","artist":"Laura Pausini","song":"La Solitudine"}
+{"id":"ktt0508t06","artist":"Laura Pausini","song":"Lui Non Sta Con Te"}
+{"id":"ktt0502t07","artist":"Laura Pausini","song":"Non C’È"}
+{"id":"ktt0508t14","artist":"Laura Pausini","song":"Ragazze Che"}
+{"id":"ktt0502t05","artist":"Laura Pausini","song":"Strani Amori"}
+{"id":"ktt0512t09","artist":"Laura Pausini","song":"Yo Canto"}
+{"id":"ptk0307","artist":"Latinos","song":"Me Gustas Tu"}
+{"id":"ptk0308","artist":"Leandro & Leonardo","song":"Paz Na Cama"}
+{"id":"ktt0508t10","artist":"Leandro & Leonardo","song":"Pense Em Mim"}
+{"id":"ktt0504t14","artist":"Leandro & Leonardo","song":"Sonho por Sonho"}
+{"id":"ptk0309","artist":"Leandro & Leonardo","song":"Temporal De Amor"}
+{"id":"ktt0112t01","artist":"Leandro & Leonardo","song":"Temporal De Amor"}
+{"id":"ptk0310","artist":"Leandro","song":"Que Mal Te Fiz Eu"}
+{"id":"ktt0145t12","artist":"Leandro","song":"Quem Sabe (O meu amor)"}
+{"id":"ptk0862","artist":"Leandro","song":"Quem Sabe (O meu amor)"}
+{"id":"ktt0155t14","artist":"Leandro","song":"Também Eu"}
+{"id":"ptk0856","artist":"Leandro","song":"Também Eu"}
+{"id":"ptk0888","artist":"Leandro","song":"Tens Que Dizer-lhe Esta Noite"}
+{"id":"ktt0154t15","artist":"Lena D' Água","song":"Dou-te um doce"}
+{"id":"ptk0311","artist":"Lena D' Água","song":"Sempre Que O Amor Me Quiser"}
+{"id":"ktt0120t14","artist":"Lena D' Água","song":"Sempre Que O Amor Me Quiser"}
+{"id":"ktt0154t03","artist":"Lobo","song":"Agora, Aqui"}
+{"id":"ktt0502t04","artist":"Los Centellas","song":"La Luna E El Toro"}
+{"id":"ptk0313","artist":"Los Locos","song":"Tum Tum"}
+{"id":"ptk0314","artist":"Los Morenos","song":"Que La Detengan"}
+{"id":"ktt0504t15","artist":"Los Paraguayos","song":"Guantanamera"}
+{"id":"ktt0502t15","artist":"Los Payos","song":"La Cucaracha"}
+{"id":"ptk0791","artist":"Lucenzo","song":"Vem Dançar Kuduro"}
+{"id":"ktt0140t13","artist":"Lúcia Moniz","song":"Chuva"}
+{"id":"ktt0117t06","artist":"Lúcia Moniz","song":"Dizer Que Não"}
+{"id":"ktt0142t15","artist":"Lúcia Moniz","song":"Leva-me para casa"}
+{"id":"ktt0112t02","artist":"Lúcia Moniz","song":"Try Again"}
+{"id":"ktt0155t01","artist":"Lucky Duckies","song":"Ai É Tão Bom"}
+{"id":"ptk0315","artist":"Luis Filipe Reis","song":"Não Te Ouvi Dizer Adeus"}
+{"id":"ptk0316","artist":"Luis Filipe Reis","song":"O Que É Meu É Meu"}
+{"id":"ptk0317","artist":"Luis Filipe Reis","song":"Pede Mais"}
+{"id":"ptk0182","artist":"Luis Manuel","song":"Festa Na Aldeia"}
+{"id":"ptk0318","artist":"Luis Manuel","song":"Oh Madalena"}
+{"id":"ktt0506t11","artist":"Luis Miguel","song":"Cuando Calienta El Sol"}
+{"id":"ktt0511t07","artist":"Luis Miguel","song":"La Media Vuelta"}
+{"id":"ktt0510t06","artist":"Luis Miguel","song":"Hasta Que Vuelvas"}
+{"id":"ktt0512t07","artist":"Luis Miguel","song":"Misterios Del Amor"}
+{"id":"ktt0504t11","artist":"Luis Miguel","song":"No me Platiques Mas"}
+{"id":"ktt0116t04","artist":"Luis Portela","song":"Anda, Anda No Ar"}
+{"id":"ktt0511t09","artist":"Luis Portela","song":"Cavalgada"}
+{"id":"ktt0123t04","artist":"Luís Represas","song":"Acontece (as vezes)"}
+{"id":"ktt0126t14","artist":"Luís Represas","song":"Ando em Busca das Palavras"}
+{"id":"ktt0117t08","artist":"Luís Represas","song":"Ao Canto Da Noite"}
+{"id":"ktt0136t01","artist":"Luís Represas","song":"Colibri (Pureza E Desejo)"}
+{"id":"ptk0319","artist":"Luís Represas","song":"Da Próxima Vez"}
+{"id":"ktt0117t14","artist":"Luís Represas","song":"Da Próxima Vez"}
+{"id":"ktt0148t05","artist":"Luís Represas","song":"Entre Mim e Eu"}
+{"id":"ptk0320","artist":"Luís Represas","song":"Feiticeira"}
+{"id":"ktt0001t07","artist":"Luís Represas","song":"Feiticeira"}
+{"id":"ktt0001t16","artist":"Luís Represas","song":"Feiticeira"}
+{"id":"ptk0321","artist":"Luís Represas","song":"Foi Como Foi"}
+{"id":"ktt0152t09","artist":"Luís Represas","song":"Fora de Tempo"}
+{"id":"ktt0150t11","artist":"Luís Represas","song":"Mar I Ana"}
+{"id":"ktt0146t09","artist":"Luís Represas","song":"Não Ponhas o Vestido"}
+{"id":"ktt0109t02","artist":"Luís Represas","song":"Neva Sobre A Marginal"}
+{"id":"ktt0149t08","artist":"Luís Represas","song":"Quando Me Perco (Ao vivo)"}
+{"id":"ptk0322","artist":"Luís Represas","song":"Sagres"}
+{"id":"ktt0145t02","artist":"Luís Represas","song":"Sagres"}
+{"id":"ptk0835","artist":"Luisa Sobral","song":"Xico"}
+{"id":"ktt0506t09","artist":"Luka","song":"Tou Nem Aí"}
+{"id":"ktt0149t03","artist":"Lulla Bye","song":"A Bigger Plan"}
+{"id":"ptk0323","artist":"Lunáticos","song":"Estou Na Lua"}
+{"id":"ptk0887","artist":"Lura","song":"Fitiço Di Funana"}
+{"id":"ptk0324","artist":"Lura","song":"Na Ri Na"}
+{"id":"ktt0505t13","artist":"Luz Casal","song":"Entre Mis Recuerdos"}
+{"id":"ktt0511t13","artist":"Luz Casal","song":"Te Dejé Marchar"}
+{"id":"ktt0503t11","artist":"Luz Casal","song":"Un ano de Amor"}
+{"id":"ptk0325","artist":"Madalena Iglésias","song":"Ele E Ela"}
+{"id":"ktt0107t09","artist":"Madalena Iglésias","song":"Ele E Ela"}
+{"id":"ktt0108t07","artist":"Madredeus","song":"A Vaca De Fogo"}
+{"id":"ktt0150t04","artist":"Madredeus","song":"Faluas do Tejo"}
+{"id":"ktt0103t05","artist":"Madredeus","song":"Haja O Que Houver"}
+{"id":"ktt0124t13","artist":"Madredeus","song":"Moro em Lisboa"}
+{"id":"ktt0127t13","artist":"Madredeus","song":"Ó Luz Da Alegria"}
+{"id":"ptk0326","artist":"Madredeus","song":"O Pastor"}
+{"id":"ktt0101t12","artist":"Madredeus","song":"O Pastor"}
+{"id":"ktt0129t14","artist":"Madredeus","song":"O Tejo"}
+{"id":"ktt0111t06","artist":"Madredeus","song":"Vem"}
+{"id":"ptk0907","artist":"Mafalda Veiga","song":"Balançar (com Tiago Bettencourt)"}
+{"id":"ptk0327","artist":"Mafalda Veiga","song":"Cada Lugar Teu"}
+{"id":"ktt0123t11","artist":"Mafalda Veiga","song":"Cada Lugar Teu"}
+{"id":"ktt0147t09","artist":"Mafalda Veiga","song":"Entre Achados e Perdidos"}
+{"id":"ktt0146t08","artist":"Mafalda Veiga","song":"Estrada"}
+{"id":"ktt0139t13","artist":"Mafalda Veiga","song":"Fragilidade (com Luís Represas)"}
+{"id":"ptk0328","artist":"Mafalda Veiga","song":"Ilha"}
+{"id":"ktt0128t03","artist":"Mafalda Veiga","song":"Ilha"}
+{"id":"ktt0150t05","artist":"Mafalda Veiga","song":"Imortais"}
+{"id":"ktt0124t14","artist":"Mafalda Veiga","song":"O Lume"}
+{"id":"ktt0125t05","artist":"Mafalda Veiga","song":"Planicie"}
+{"id":"ktt0145t09","artist":"Mafalga Veiga","song":"Por Outras Palavras (com Susana Felix)"}
+{"id":"ptk0829","artist":"Mafalda Veiga","song":"Restolho"}
+{"id":"ktt0106t02","artist":"Mafalda Veiga","song":"Restolho"}
+{"id":"ktt0102t08","artist":"Mafalda Veiga","song":"Tatuagens (feat Jorge Palma)"}
+{"id":"ktt0114t06","artist":"Mafalda Veiga","song":"Uma Gota"}
+{"id":"ktt0149t12","artist":"Mafalda Veiga","song":"Velho"}
+{"id":"ktt0512t08","artist":"Mamonas Assassinas","song":"Pelados Em Santos"}
+{"id":"ktt0006t04","artist":"Mamonas Assassinas","song":"Vira Vira"}
+{"id":"ktt0006t14","artist":"Mamonas Assassinas","song":"Vira Vira"}
+{"id":"ktt0505t03","artist":"Manu Chao","song":"Me Gustas Tú"}
+{"id":"ptk0792","artist":"Manuel Carrapiço","song":"Beijinho Maroto"}
+{"id":"ptk0329","artist":"Manuel Freire","song":"Pedra Filosofal"}
+{"id":"ktt0115t02","artist":"Manuel Freire","song":"Pedra Filosofal"}
+{"id":"ptk0330","artist":"Manuela Bravo","song":"Sobe Sobe Balão Sobe"}
+{"id":"ktt0107t12","artist":"Manuela Bravo","song":"Sobe Sobe Balão Sobe"}
+{"id":"ktt0123t14","artist":"Mão Morta","song":"Budapeste"}
+{"id":"ptk0911","artist":"Mão Morta","song":"Novelos da Paixão"}
+{"id":"oth0010","artist":"Mar Alte","song":"Ai mes menines"}
+{"id":"ptk0331","artist":"Marante","song":"A Transmontana"}
+{"id":"ktt0142t09","artist":"Marante","song":"Bela Portuguesa"}
+{"id":"ptk0332","artist":"Marante","song":"Canela E Mel"}
+{"id":"ptk0333","artist":"Marante","song":"Cigana Cigana Linda"}
+{"id":"ktt0150t15","artist":"Marante","song":"Dá Cá, Dá Cá, Dá Cá"}
+{"id":"ptk0334","artist":"Marante","song":"Eu Quero Dar Um Beijo"}
+{"id":"ptk0335","artist":"Marante","song":"Garçon"}
+{"id":"ptk0336","artist":"Marante","song":"Som De Cristal"}
+{"id":"ptk0594","artist":"Marante","song":"Sozinho Não Estou"}
+{"id":"ptk0793","artist":"Marante","song":"Traidora (Foste)"}
+{"id":"ktt0512t03","artist":"Marc Anthony","song":"Y Hubo Alguien"}
+{"id":"ptk0338","artist":"Marcha Popular","song":"Cantiga Da Rua"}
+{"id":"ktt0119t14","artist":"Marcha Popular","song":"Cantiga Da Rua"}
+{"id":"ktt0104t01","artist":"Marcha Popular","song":"Cheira a Lisboa"}
+{"id":"ktt0151t15","artist":"Marcha Popular","song":"Lá Vai Lisboa"}
+{"id":"ktt0121t10","artist":"Marcha Popular","song":"Lisboa Não Sejas Francesa"}
+{"id":"ktt0153t09","artist":"Marcha Popular","song":"Páteo das cantigas"}
+{"id":"ktt0122t03","artist":"Marcha Popular","song":"O Cochicho"}
+{"id":"ktt0122t05","artist":"Marcha Popular","song":"Ó Zé Aperta O Laço"}
+{"id":"ptk0339","artist":"Marcha Popular","song":"S.João Bonito Dá Cá Um Balão"}
+{"id":"ktt0145t14","artist":"Marco Paulo","song":"Cantor Latino"}
+{"id":"ptk0340","artist":"Marco Paulo","song":"De Corpo E Alma"}
+{"id":"ptk0341","artist":"Marco Paulo","song":"Estrela Da Minha Vida"}
+{"id":"ktt0002t01","artist":"Marco Paulo","song":"Eu Tenho Dois Amores"}
+{"id":"ktt0002t11","artist":"Marco Paulo","song":"Eu Tenho Dois Amores"}
+{"id":"ktt0143t12","artist":"Marco Paulo","song":"Joana"}
+{"id":"ptk0891","artist":"Marco Paulo","song":"Joana"}
+{"id":"ktt0008t08","artist":"Marco Paulo","song":"Má"}
+{"id":"ktt0008t18","artist":"Marco Paulo","song":"Má"}
+{"id":"ptk0342","artist":"Marco Paulo","song":"Maravilhoso Coração"}
+{"id":"ptk0343","artist":"Marco Paulo","song":"Morena, Morenita"}
+{"id":"ktt0134t03","artist":"Marco Paulo","song":"Morena, Morenita"}
+{"id":"ptk0794","artist":"Marco Paulo","song":"Não Venhas Tarde"}
+{"id":"ptk0344","artist":"Marco Paulo","song":"Ninguém Ninguém"}
+{"id":"ptk0345","artist":"Marco Paulo","song":"Nossa Senhora"}
+{"id":"ktt0125t12","artist":"Marco Paulo","song":"O Amor é Louco"}
+{"id":"ptk0795","artist":"Marco Paulo","song":"Sempre Que Brilha O Sol"}
+{"id":"ktt0121t12","artist":"Marco Paulo","song":"Só Nós Dois"}
+{"id":"ptk0346","artist":"Marco Paulo","song":"Taras E Manias"}
+{"id":"ktt0108t03","artist":"Marco Paulo","song":"Taras E Manias"}
+{"id":"ktt0123t09","artist":"Marco Paulo","song":"Vendaval"}
+{"id":"ktt0108t05","artist":"Maria Armanda","song":"Eu Vi Um Sapo"}
+{"id":"ktt0107t04","artist":"Maria Bethânia","song":"Coração Ateu"}
+{"id":"ktt0136t09","artist":"Maria Guinot","song":"Silêncio E Tanta Gente"}
+{"id":"ktt0154t13","artist":"Maria José Valério","song":"As carvoeiras"}
+{"id":"ktt0138t08","artist":"Maria José Valério","song":"Menina dos Telefones"}
+{"id":"ktt0507t10","artist":"Maria Bethânia","song":"Negue"}
+{"id":"ktt0112t13","artist":"Maria León","song":"Caminhando Até Ti (com Rui Veloso)"}
+{"id":"ptk0347","artist":"Maria Lisboa","song":"Tira A Mãozinha"}
+{"id":"ktt0510t05","artist":"Marie Myriam","song":"L'oiseau Et L'enfant"}
+{"id":"ptk0348","artist":"Mário Gil","song":"Caminhos de Portugal"}
+{"id":"ktt0137t12","artist":"Mário Gil","song":"Caminhos de Portugal"}
+{"id":"ktt0501t01","artist":"Mário Lanza","song":"Bésame Mucho"}
+{"id":"ktt0153t12","artist":"Mário Mata","song":"Não há nada p'ra ninguém"}
+{"id":"ktt0154t11","artist":"Mário Mata","song":"Não te cures não"}
+{"id":"ktt0120t10","artist":"Mariza","song":"Cavaleiro Monge"}
+{"id":"ktt0152t05","artist":"Mariza","song":"Chuva"}
+{"id":"ktt0125t13","artist":"Mariza","song":"Fado Curvo"}
+{"id":"ktt0136t10","artist":"Mariza","song":"Fado Português De Nós"}
+{"id":"ktt0132t02","artist":"Mariza","song":"Fado Tordo"}
+{"id":"ktt0138t09","artist":"Mariza","song":"Feira de Castro"}
+{"id":"ktt0144t09","artist":"Mariza","song":"Maria Lisboa"}
+{"id":"ktt0140t02","artist":"Mariza","song":"Medo"}
+{"id":"ktt0131t03","artist":"Mariza","song":"Meu Fado Meu"}
+{"id":"ktt0117t09","artist":"Mariza","song":"Oh Gente Da Minha Terra"}
+{"id":"ktt0119t10","artist":"Mariza","song":"Oiça lá Sr. Vinho"}
+{"id":"ktt0146t03","artist":"Mariza","song":"Rosa Branca"}
+{"id":"ktt0111t15","artist":"Marta Plantier","song":"Remedio Santo"}
+{"id":"ktt0510t08","artist":"Martinho Da Vila","song":"Dar E Receber (com Katia Guerreiro)"}
+{"id":"ktt0506t15","artist":"Martinho Da Vila","song":"Devagar, Devagarinho"}
+{"id":"ptk0349","artist":"Martinho Da Vila","song":"Mulheres"}
+{"id":"ktt0003t09","artist":"Martinho Da Vila","song":"Mulheres"}
+{"id":"ktt0508t03","artist":"Maurício Mattar","song":"Avalanche De Neve"}
+{"id":"ktt0507t04","artist":"Maurício Mattar","song":"Tonteia"}
+{"id":"ptk0350","artist":"Max","song":"A Mula Da Cooperativa"}
+{"id":"ktt0124t06","artist":"Max","song":"A Mula da Cooperativa"}
+{"id":"ktt0004t07","artist":"Max","song":"Bailinho da Madeira"}
+{"id":"ktt0004t17","artist":"Max","song":"Bailinho da Madeira"}
+{"id":"ptk0796","artist":"Max","song":"Casei Com Uma Velha"}
+{"id":"ktt0108t11","artist":"Max","song":"Pomba Branca"}
+{"id":"ktt0135t03","artist":"Max","song":"Porto Santo"}
+{"id":"ptk0351","artist":"Maxi","song":"Anjo Selvagem"}
+{"id":"ktt0120t02","artist":"Maxi","song":"Anjo Selvagem"}
+{"id":"ktt0105t09","artist":"MDA","song":"Por Quem Não Esqueci"}
+{"id":"ktt0502t10","artist":"Mecano","song":"Una Rosa Es Una Rosa"}
+{"id":"ptk0352","artist":"Menito Ramos","song":"A Noite Grita Por Mim"}
+{"id":"ktt0150t06","artist":"Menito Ramos","song":"Descobrir Horizontes"}
+{"id":"ktt0124t11","artist":"Menito Ramos","song":"O Mundo Não Acaba Aqui"}
+{"id":"ktt0146t10","artist":"Menito Ramos","song":"Quero Adormecer (com Beto)"}
+{"id":"ptk0312","artist":"Mercado Negro","song":"Leoa Tigresa"}
+{"id":"ptk0353","artist":"Mercado Negro","song":"Oh Lua"}
+{"id":"ptk0354","artist":"Micaela","song":"Astral"}
+{"id":"ptk0355","artist":"Micaela","song":"Chupa No Dedo"}
+{"id":"ktt0005t09","artist":"Micaela","song":"Chupa No Dedo"}
+{"id":"ktt0008t09","artist":"Micaela","song":"Chupa No Dedo"}
+{"id":"ktt0008t19","artist":"Micaela","song":"Chupa No Dedo"}
+{"id":"ktt0002t04","artist":"Micaela","song":"Desliga a Televisão"}
+{"id":"ktt0002t14","artist":"Micaela","song":"Desliga a Televisão"}
+{"id":"ptk0356","artist":"Micaela","song":"Gugu Dada"}
+{"id":"ktt0510t11","artist":"Michael Bublé","song":"Oh Marie"}
+{"id":"ptk0357","artist":"Mickael Carreira","song":"Baila Pra Mim"}
+{"id":"ktt0139t03","artist":"Mickael Carreira","song":"Baila para Mim"}
+{"id":"ptk0358","artist":"Mickael Carreira","song":"Chama Por Mim"}
+{"id":"ptk0359","artist":"Mickael Carreira","song":"Depois Dessa Noite"}
+{"id":"ktt0137t03","artist":"Mickael Carreira","song":"Depois Dessa Noite"}
+{"id":"ptk0360","artist":"Mickael Carreira","song":"Ela Mexe Bem Demais"}
+{"id":"ptk0361","artist":"Mickael Carreira","song":"Não Me Esqueço De Ti"}
+{"id":"ptk0362","artist":"Mickael Carreira","song":"O Amor Pode Esperar"}
+{"id":"ktt0149t10","artist":"Mickael Carreira","song":"Outra Noite Contigo"}
+{"id":"ptk0363","artist":"Mickael Carreira","song":"Por Amor Vou Até Ao Fim"}
+{"id":"ktt0149t11","artist":"Miguel & André","song":"Cabelos Longos"}
+{"id":"ptk0364","artist":"Miguel & André","song":"Eu Sempre Te Amei"}
+{"id":"ptk0365","artist":"Miguel & André","song":"Falar De Amor"}
+{"id":"ktt0142t14","artist":"Miguel & André","song":"Falar de Amor"}
+{"id":"ktt0116t05","artist":"Miguel & André","song":"Mar Deserto"}
+{"id":"ktt0152t15","artist":"Miguel & André","song":"Quando Estás Ausente"}
+{"id":"ptk0366","artist":"Miguel & André","song":"Toda A Razão Do Meu Viver"}
+{"id":"ktt0115t09","artist":"Miguel & André","song":"Toda A Razão Do Meu Viver"}
+{"id":"ptk0367","artist":"Miguel & André","song":"Ultima Dança"}
+{"id":"ptk0900","artist":"Miguel Gameiro","song":"Dá-me um Abraço"}
+{"id":"ptk0797","artist":"Miguel Gameiro","song":"O Teu Nome"}
+{"id":"ptk0368","artist":"Miguel Saez","song":"Que Loucura"}
+{"id":"ptk0369","artist":"Mikas Cabral","song":"Hey"}
+{"id":"ktt0501t15","artist":"Mikel Erentxun","song":"A Un Minuto De Ti"}
+{"id":"ptk0798","artist":"Mikkel Solnado","song":"We Can Do Anything"}
+{"id":"ktt0132t08","artist":"Milénio","song":"Estás Onde Não Estás"}
+{"id":"ptk0370","artist":"Milénio","song":"Meu Universo És Tu"}
+{"id":"ktt0137t11","artist":"Mind da Gap","song":"Bazamos ou Ficamos"}
+{"id":"ktt0142t10","artist":"Mind da Gap","song":"Es Como Um Don"}
+{"id":"ktt0138t14","artist":"Mind da Gap","song":"Todos Gordos"}
+{"id":"ktt0502t12","artist":"Mireille Mathieu","song":"Chanter"}
+{"id":"ptk0828","artist":"Mónica Ferraz","song":"Go Go Go"}
+{"id":"ptk0375","artist":"Mónica Sintra","song":"Afinal Havia Outra"}
+{"id":"ktt0002t08","artist":"Mónica Sintra","song":"Afinal Havia Outra"}
+{"id":"ktt0002t18","artist":"Mónica Sintra","song":"Afinal Havia Outra"}
+{"id":"ptk0376","artist":"Mónica Sintra","song":"Anjo Da Guarda"}
+{"id":"ktt0118t08","artist":"Mónica Sintra","song":"Condenada A Sofrer Por Ti"}
+{"id":"ptk0377","artist":"Mónica Sintra","song":"Dava-te Tudo"}
+{"id":"ktt0123t08","artist":"Mónica Sintra","song":"Dava-te Tudo"}
+{"id":"ptk0380","artist":"Mónica Sintra","song":"És O Doce Que Eu Mais Quero"}
+{"id":"ptk0371","artist":"Mónica Sintra","song":"Eu Esqueci De Lembrar De Mim"}
+{"id":"ktt0150t13","artist":"Mónica Sintra","song":"Eu Esqueci De Lembrar de Mim"}
+{"id":"ktt0130t05","artist":"Mónica Sintra","song":"Eu Já Sofri Demais"}
+{"id":"ptk0372","artist":"Mónica Sintra","song":"Há Quanto Tempo"}
+{"id":"ptk0378","artist":"Mónica Sintra","song":"Na Minha Cama Com Ela"}
+{"id":"ktt0008t01","artist":"Mónica Sintra","song":"Na Minha Cama Com Ela"}
+{"id":"ktt0008t11","artist":"Mónica Sintra","song":"Na Minha Cama Com Ela"}
+{"id":"ktt0135t14","artist":"Mónica Sintra","song":"Porque Não Me Dizes Sim"}
+{"id":"ktt0129t06","artist":"Mónica Sintra","song":"Pra Sempre Tua"}
+{"id":"ptk0379","artist":"Mónica Sintra","song":"Salsa"}
+{"id":"ktt0119t13","artist":"Mónica Sintra","song":"Vem Dançar Esta Salsa"}
+{"id":"ktt0151t04","artist":"Moonspell","song":"Alma Mater"}
+{"id":"ktt0143t09","artist":"Moonspell","song":"Opium"}
+{"id":"ktt0147t04","artist":"Mundo Secreto","song":"Põe Aquele Som"}
+{"id":"oth0011","artist":"Natal","song":"Bate O SIno (Jingle Bells)"}
+{"id":"oth0012","artist":"Natal","song":"Bate O Sino"}
+{"id":"oth0013","artist":"Natal","song":"Então É Natal (And So It Is Christmas)"}
+{"id":"oth0014","artist":"Natal","song":"Então É Natal"}
+{"id":"oth0015","artist":"Natal","song":"Noite Feliz (Silent Night)"}
+{"id":"oth0016","artist":"Natal","song":"Noite feliz"}
+{"id":"ptk0381","artist":"Natal","song":"Toca O Sino"}
+{"id":"ktt0511t02","artist":"Nat King Cole","song":"Noche De Ronda"}
+{"id":"ktt0513t05","artist":"Nat King Cole","song":"Perfidia"}
+{"id":"ktt0108t15","artist":"Natércia Barreto","song":"Óculos De Sol"}
+{"id":"ktt0502t14","artist":"Nek","song":"Laura Non C’È"}
+{"id":"ktt0507t05","artist":"Nek","song":"Restiamo Qui"}
+{"id":"ktt0107t11","artist":"Né Ladeiras","song":"Sonho Azul"}
+{"id":"ptk0382","artist":"Nel Monteiro","song":"Azar Na Praia"}
+{"id":"ktt0110t04","artist":"Nel Monteiro","song":"Azar Na Praia"}
+{"id":"ptk0383","artist":"Nelly Furtado","song":"Força"}
+{"id":"ktt0138t10","artist":"Nelly Furtado","song":"Força"}
+{"id":"ptk0384","artist":"Nelly Furtado","song":"I'm Like A Bird"}
+{"id":"oth0026","artist":"Nelson Freitas","song":"Bo Tem Mel (com C4 Pedro)"}
+{"id":"ptk0385","artist":"Nélson Ned","song":"Domingo Á Tarde"}
+{"id":"ptk0391","artist":"Nélson Ned","song":"Tudo Passará"}
+{"id":"ktt0108t06","artist":"Nélson Ned","song":"Tudo Passará"}
+{"id":"ptk0392","artist":"Némanus","song":"Dançando Kisomba"}
+{"id":"ptk0867","artist":"Némanus","song":"Escravo de Ti"}
+{"id":"ptk0393","artist":"Némanus","song":"Funaná Contigo"}
+{"id":"ptk0860","artist":"Némanus","song":"Kizomba de Amor"}
+{"id":"ptk0394","artist":"Némanus","song":"Luana Kisomba"}
+{"id":"ptk0395","artist":"Némanus","song":"Miúda"}
+{"id":"ktt0122t12","artist":"Némanus","song":"Não Quero Ninguém"}
+{"id":"ptk0396","artist":"Némanus","song":"Sinto Falta Dela"}
+{"id":"ktt0120t09","artist":"Némanus","song":"Sonho De Aventura"}
+{"id":"ktt0151t06","artist":"Neruda","song":"O Vinho do Teu Corpo"}
+{"id":"ktt0006t06","artist":"Netinho","song":"Beijo na Boca"}
+{"id":"ktt0006t16","artist":"Netinho","song":"Beijo na Boca"}
+{"id":"ptk0386","artist":"Netinho","song":"Menina Linda"}
+{"id":"ktt0003t03","artist":"Netinho","song":"Milla"}
+{"id":"ktt0003t12","artist":"Netinho","song":"Milla"}
+{"id":"ptk0387","artist":"Netinho","song":"Música Baiana"}
+{"id":"ktt0006t02","artist":"Netinho","song":"Preciso de Você"}
+{"id":"ktt0006t12","artist":"Netinho","song":"Preciso de Você"}
+{"id":"ktt0107t05","artist":"Ney Matogrosso","song":"Bandolero"}
+{"id":"ktt0505t06","artist":"Nicola Di Bari","song":"I Giorni Dell’arcobaleno"}
+{"id":"ktt0125t14","artist":"Nikita","song":"Só Deus"}
+{"id":"ptk0388","artist":"Nilton Cesar","song":"A Namorada Que Sonhei"}
+{"id":"ktt0505t08","artist":"Nilton Cesar","song":"A Namorada Que Sonhei"}
+{"id":"ktt0503t10","artist":"Nilton Cesar","song":"Espera um Pouco um Pouquinho Mais"}
+{"id":"ktt0510t03","artist":"Nino Bravo","song":"Te Quiero Te Quiero"}
+{"id":"ptk0389","artist":"Non Stop","song":"Ao Limite Eu Vou"}
+{"id":"ptk0390","artist":"Non Stop","song":"Basta Um Sorriso"}
+{"id":"ktt0130t09","artist":"Non Stop","song":"Olhar Pra Ti"}
+{"id":"ktt0152t06","artist":"Nuno da Câmara Pereira","song":"Olhos Negros"}
+{"id":"ktt0154t12","artist":"Nuno e Fábia","song":"Pensando em ti"}
+{"id":"ptk0799","artist":"Nuno Guerreiro","song":"Tento Saber"}
+{"id":"ptk0397","artist":"Obsesion","song":"Aventura"}
+{"id":"oth0017","artist":"O Mundo de Patty","song":"As Divinas"}
+{"id":"oth0018","artist":"O Mundo de Patty","song":"Esperança bem no Coração"}
+{"id":"ktt0505t04","artist":"O-Zone","song":"Dragostea Din Tei"}
+{"id":"ktt0131t07","artist":"Ornatos Violeta","song":"Coisas"}
+{"id":"ktt0135t12","artist":"Ornatos Violeta","song":"Ouvi Dizer"}
+{"id":"ptk0398","artist":"Orquestra Chave D'ouro","song":"O Pai Da Criança"}
+{"id":"ptk0863","artist":"Os Africa","song":"Ó Gente da Minha Terra"}
+{"id":"ktt0151t10","artist":"Os Amigos","song":"Portugal no Coração"}
+{"id":"ktt0005t08","artist":"Os Lunáticos","song":"Estou Na Lua"}
+{"id":"ktt0005t18","artist":"Os Lunáticos","song":"Estou Na Lua"}
+{"id":"ktt0110t14","artist":"Paco Bandeira","song":"A Minha Cidade"}
+{"id":"ktt0117t07","artist":"Paco Bandeira","song":"Chula Da Livração"}
+{"id":"ktt0127t11","artist":"Paco Bandeira","song":"É Por Isso Que Eu Vivo"}
+{"id":"ktt0129t10","artist":"Paco Bandeira","song":"João Saramago"}
+{"id":"ktt0107t08","artist":"Paco Bandeira","song":"Minha 5ª Sinfonia"}
+{"id":"ktt0139t14","artist":"Paco Bandeira","song":"Sol Mendigo"}
+{"id":"ptk0399","artist":"Paco Bandeira","song":"Ternura Dos 40"}
+{"id":"ktt0115t04","artist":"Paco Bandeira","song":"Ternura Dos 40"}
+{"id":"ptk0400","artist":"Papas Na Lingua","song":"Eu Sei"}
+{"id":"ktt0148t07","artist":"Papas Na Lingua","song":"Eu Sei"}
+{"id":"ptk0401","artist":"Pato","song":"Amor Inesquecivel"}
+{"id":"ptk0402","artist":"Patricia Cardozo","song":"Ainda Acredito"}
+{"id":"ktt0146t13","artist":"Patrícia Cardozo","song":"Todo o Teu Tempo"}
+{"id":"ptk0849","artist":"Paula Soares","song":"Esta Dança De Amor"}
+{"id":"ptk0403","artist":"Paula Teixeira","song":"Acreditar Em Mim"}
+{"id":"ktt0146t07","artist":"Paula Teixeira","song":"Ilha Dos Amores (entre o fogo e o ar)"}
+{"id":"ptk0404","artist":"Paula Teixeira","song":"Sonha Comigo"}
+{"id":"ptk0405","artist":"Paulo Alexandre","song":"Verde Vinho"}
+{"id":"ktt0127t05","artist":"Paulo Alexandre","song":"Verde Vinho"}
+{"id":"ktt0135t04","artist":"Paulo de Carvalho","song":"10 Anos"}
+{"id":"ktt0136t12","artist":"Paulo de Carvalho","song":"Amor Sem Palavras"}
+{"id":"ktt0137t09","artist":"Paulo de Carvalho","song":"Desculpem Qualquer Coisa"}
+{"id":"ktt0101t13","artist":"Paulo de Carvalho","song":"E Depois Do Adeus"}
+{"id":"ktt0125t09","artist":"Paulo de Carvalho","song":"Flor sem tempo"}
+{"id":"ktt0126t07","artist":"Paulo de Carvalho","song":"Gostava de Vos Ver Aqui"}
+{"id":"ktt0138t11","artist":"Paulo de Carvalho","song":"Invenção do Amor"}
+{"id":"ktt0106t10","artist":"Paulo de Carvalho","song":"Maria Vida Fria"}
+{"id":"ptk0406","artist":"Paulo de Carvalho","song":"Nini Dos Meus 15 Anos"}
+{"id":"ktt0102t05","artist":"Paulo de Carvalho","song":"Nini dos Meus 15 Anos"}
+{"id":"ktt0133t11","artist":"Paulo de Carvalho","song":"Quando Um Homem Quiser"}
+{"id":"ptk0407","artist":"Paulo Flores","song":"Cherry"}
+{"id":"ktt0109t04","artist":"Paulo Gonzo","song":"Acordar"}
+{"id":"ptk0409","artist":"Paulo Gonzo","song":"Dei-te Quase Tudo"}
+{"id":"ktt0005t04","artist":"Paulo Gonzo","song":"Dei-Te Quase Tudo"}
+{"id":"ktt0005t14","artist":"Paulo Gonzo","song":"Dei-Te Quase Tudo"}
+{"id":"ptk0801","artist":"Paulo Gonzo","song":"Desta Margem"}
+{"id":"ktt0153t10","artist":"Paulo Gonzo","song":"Diz-me tu (Pra onde vão)"}
+{"id":"ptk0877","artist":"Paulo Gonzo","song":"Diz-me tu (Pra onde vão)"}
+{"id":"ptk0410","artist":"Paulo Gonzo","song":"Espelho D'água"}
+{"id":"ktt0155t03","artist":"Paulo Gonzo","song":"Espelho (De Outra Água)"}
+{"id":"ptk0411","artist":"Paulo Gonzo","song":"Falámos Depois"}
+{"id":"ktt0132t01","artist":"Paulo Gonzo","song":"Falamos Depois"}
+{"id":"ktt0134t02","artist":"Paulo Gonzo","song":"Faz-Me Bem"}
+{"id":"ptk0838","artist":"Paulo Gonzo","song":"Frágil Como O Amor"}
+{"id":"ptk0412","artist":"Paulo Gonzo","song":"Jardins Proibidos"}
+{"id":"ktt0001t06","artist":"Paulo Gonzo","song":"Jardins Proibidos"}
+{"id":"ktt0001t15","artist":"Paulo Gonzo","song":"Jardins Proibidos"}
+{"id":"ptk0408","artist":"Paulo Gonzo","song":"Leve Beijo Triste (feat Lúcia Moniz)"}
+{"id":"ktt0138t12","artist":"Paulo Gonzo","song":"Noite das Sete Colinas"}
+{"id":"ptk0413","artist":"Paulo Gonzo","song":"Pagava Pra Ver"}
+{"id":"ktt0135t15","artist":"Paulo Gonzo","song":"Pagava Pra Ver"}
+{"id":"ptk0908","artist":"Paulo Gonzo","song":"Pedras da Calçada"}
+{"id":"ptk0414","artist":"Paulo Gonzo","song":"Sei-te De Cor"}
+{"id":"ktt0133t01","artist":"Paulo Gonzo","song":"Sei-te De Cor"}
+{"id":"ktt0131t06","artist":"Paulo Gonzo","song":"Sem Pressa (Este Lugar)"}
+{"id":"ktt0136t11","artist":"Paulo Gonzo","song":"Ser Suspeito"}
+{"id":"ptk0415","artist":"Paulo Gonzo","song":"So Do I"}
+{"id":"ktt0116t07","artist":"Paulo Gonzo","song":"So Doi"}
+{"id":"ktt0145t05","artist":"Paulo Praça","song":"Diz a Verdade"}
+{"id":"ptk0416","artist":"Paulo Ricardo","song":"Dois"}
+{"id":"ktt0111t08","artist":"Paulo Ricardo","song":"Dois"}
+{"id":"ktt0507t15","artist":"Paulo Ricardo","song":"Tudo Por Nada"}
+{"id":"oth0020","artist":"Pé Cagado Som Sistema","song":"Ca Ganda Pêxe"}
+{"id":"ptk0417","artist":"Pedro Abrunhosa","song":"Eu Estou Aqui"}
+{"id":"ptk0418","artist":"Pedro Abrunhosa","song":"Eu Não Sei Quem Te Perdeu"}
+{"id":"ktt0114t10","artist":"Pedro Abrunhosa","song":"Eu Não Sei Quem Te Perdeu"}
+{"id":"ktt0109t05","artist":"Pedro Abrunhosa","song":"Lua"}
+{"id":"ptk0419","artist":"Pedro Abrunhosa","song":"Momento"}
+{"id":"ktt0110t10","artist":"Pedro Abrunhosa","song":"Momento"}
+{"id":"ktt0113t16","artist":"Pedro Abrunhosa","song":"Momento"}
+{"id":"ktt0005t06","artist":"Pedro Abrunhosa","song":"Não Posso Mais"}
+{"id":"ktt0005t16","artist":"Pedro Abrunhosa","song":"Não Posso Mais"}
+{"id":"ktt0007t01","artist":"Pedro Abrunhosa","song":"Se Eu Fosse um dia o teu olhar"}
+{"id":"ktt0007t10","artist":"Pedro Abrunhosa","song":"Se Eu Fosse um dia o teu olhar"}
+{"id":"ktt0107t13","artist":"Pedro Abrunhosa","song":"Socorro"}
+{"id":"ktt0104t07","artist":"Pedro Abrunhosa","song":"Tudo o Que Eu Te Dou"}
+{"id":"ktt0127t09","artist":"Pedro Barroso","song":"Menina Dos Olhos De Água"}
+{"id":"ktt0127t08","artist":"Pedro E Os Apóstolos","song":"Faz Figas"}
+{"id":"ptk0420","artist":"Pedro Khima","song":"Esfera"}
+{"id":"ktt0142t01","artist":"Pedro Khima","song":"Esfera"}
+{"id":"ktt0145t01","artist":"Pedro Khima","song":"O Gesto Que é Mau"}
+{"id":"ktt0110t01","artist":"Pedro Migueis","song":"Coisas Que Não Esqueço"}
+{"id":"ktt0154t06","artist":"Pedro Migueis","song":"Horas ao luar"}
+{"id":"ptk0421","artist":"Pedro Migueis","song":"Será Sempre Um Olhar"}
+{"id":"ktt0116t09","artist":"Pedro Migueis","song":"Sera Sempre Um Olhar"}
+{"id":"ptk0422","artist":"Pedro Vaz","song":"O Meu Ponto Final"}
+{"id":"ktt0152t04","artist":"Pedro Vaz","song":"Preso em Mim"}
+{"id":"ptk0424","artist":"Per7ume","song":"Assim Azul"}
+{"id":"ptk0423","artist":"Per7ume","song":"Intervalo (feat Rui Veloso)"}
+{"id":"ktt0147t01","artist":"Per7ume","song":"Intervalo (feat Rui Veloso)"}
+{"id":"ktt0155t07","artist":"Per7ume","song":"Mudo (Eu)"}
+{"id":"ktt0137t06","artist":"Peste & Sida","song":"Quem Me Dera"}
+{"id":"ktt0118t09","artist":"Peste & Sida","song":"Sol Da Caparica"}
+{"id":"ktt0144t15","artist":"Peste & Sida","song":"Ter Algum (que alegria)"}
+{"id":"ktt0509t14","artist":"Placido Domingo","song":"Aquellos Ojos Verdes"}
+{"id":"ktt0512t11","artist":"Placido Domingo","song":"La Malagueña (com Mariachi)"}
+{"id":"ktt0104t08","artist":"Polo Norte","song":"Aprender a Ser Feliz"}
+{"id":"ptk0802","artist":"Pólo Norte","song":"Aprender A Ser Feliz"}
+{"id":"ptk0438","artist":"Polo Norte","song":"Asa Livre"}
+{"id":"ptk0425","artist":"Polo Norte","song":"Deixa O Mundo Girar"}
+{"id":"ktt0101t08","artist":"Polo Norte","song":"Grito"}
+{"id":"ptk0426","artist":"Polo Norte","song":"Lisboa"}
+{"id":"ktt0107t10","artist":"Polo Norte","song":"Lisboa"}
+{"id":"ptk0427","artist":"Polo Norte","song":"Pura Inocência"}
+{"id":"ktt0124t01","artist":"Polo Norte","song":"Pura Inocencia"}
+{"id":"ptk0428","artist":"Polo Norte","song":"Uma Questão De Palavras"}
+{"id":"ktt0122t07","artist":"Polo Norte","song":"Um Dia"}
+{"id":"ktt0004t05","artist":"Popular","song":"Alecrim Aos Molhos"}
+{"id":"ktt0004t15","artist":"Popular","song":"Alecrim Aos Molhos"}
+{"id":"ktt0004t02","artist":"Popular","song":"Ao Passar A Ribeira"}
+{"id":"ktt0004t12","artist":"Popular","song":"Ao Passar A Ribeira"}
+{"id":"ktt0104t10","artist":"Popular","song":"Aquela Janela Virada Pro Mar"}
+{"id":"ptk0052","artist":"Popular","song":"Baile Dos Passarinhos"}
+{"id":"ptk0429","artist":"Popular","song":"Chibinha"}
+{"id":"ptk0430","artist":"Popular","song":"La Bamba"}
+{"id":"ktt0004t10","artist":"Popular","song":"Laurindinha"}
+{"id":"ktt0004t20","artist":"Popular","song":"Laurindinha"}
+{"id":"ptk0864","artist":"Popular","song":"Lisboa Menina e Moça"}
+{"id":"ptk0431","artist":"Popular","song":"Malhão"}
+{"id":"ktt0004t01","artist":"Popular","song":"Malhão"}
+{"id":"ktt0004t11","artist":"Popular","song":"Malhão"}
+{"id":"oth0019","artist":"Popular","song":"Mulher Alentejana"}
+{"id":"ptk0432","artist":"Popular","song":"Nós Os Carecas"}
+{"id":"ktt0004t04","artist":"Popular","song":"Oliveira Da Serra"}
+{"id":"ktt0004t14","artist":"Popular","song":"Oliveira Da Serra"}
+{"id":"ktt0004t08","artist":"Popular","song":"O Rama O Que Linda Rama"}
+{"id":"ktt0004t18","artist":"Popular","song":"O Rama O Que Linda Rama"}
+{"id":"ktt0004t06","artist":"Popular","song":"Ouvi O Passarinho"}
+{"id":"ktt0004t16","artist":"Popular","song":"Ouvi O Passarinho"}
+{"id":"ktt0004t09","artist":"Popular","song":"Pezinho Da Vila"}
+{"id":"ktt0004t19","artist":"Popular","song":"Pezinho Da Vila"}
+{"id":"ptk0845","artist":"Popular","song":"Pezinho Da Vila"}
+{"id":"ptk0433","artist":"Popular Brasil","song":"Cabecinha No Ombro"}
+{"id":"ptk0434","artist":"Popular Brasil","song":"Espera Um Pouco"}
+{"id":"ptk0435","artist":"Popular Brasil","song":"Trem Das Onze"}
+{"id":"ptk0436","artist":"Porto","song":"Filhos Do Dragão"}
+{"id":"ptk0437","artist":"Punta Este","song":"Cachete, Pechito Y Ombligo"}
+{"id":"ptk0439","artist":"Quim Barreiros","song":"A Cabritinha"}
+{"id":"ktt0127t12","artist":"Quim Barreiros","song":"A Cabritinha"}
+{"id":"ptk0440","artist":"Quim Barreiros","song":"A Coisa"}
+{"id":"ptk0441","artist":"Quim Barreiros","song":"A Empregeda"}
+{"id":"ptk0442","artist":"Quim Barreiros","song":"A Garagem Da Vizinha"}
+{"id":"ktt0103t09","artist":"Quim Barreiros","song":"A Garagem da Vizinha"}
+{"id":"ptk0443","artist":"Quim Barreiros","song":"A Padaria"}
+{"id":"ktt0139t05","artist":"Quim Barreiros","song":"A Padaria"}
+{"id":"ptk0444","artist":"Quim Barreiros","song":"A Rabada Da Manuela"}
+{"id":"ptk0445","artist":"Quim Barreiros","song":"A Vida Do Manel"}
+{"id":"ptk0446","artist":"Quim Barreiros","song":"Aeroporto Do Mosquito"}
+{"id":"ptk0447","artist":"Quim Barreiros","song":"Agua De Côco"}
+{"id":"ptk0448","artist":"Quim Barreiros","song":"Arre Burra"}
+{"id":"ktt0008t10","artist":"Quim Barreiros","song":"Bacalhau à Portuguesa"}
+{"id":"ktt0008t20","artist":"Quim Barreiros","song":"Bacalhau à Portuguesa"}
+{"id":"ptk0850","artist":"Quim Barreiros","song":"Bacalhau à Portuguesa (Nova Versão)"}
+{"id":"ptk0803","artist":"Quim Barreiros","song":"Bota Creme"}
+{"id":"ptk0449","artist":"Quim Barreiros","song":"Casado Também Namora"}
+{"id":"ptk0450","artist":"Quim Barreiros","song":"Comer Comer"}
+{"id":"ptk0451","artist":"Quim Barreiros","song":"Depois Da Uma"}
+{"id":"ktt0113t06","artist":"Quim Barreiros","song":"Depois Da Uma"}
+{"id":"ptk0869","artist":"Quim Barreiros","song":"É Proibido Fumar"}
+{"id":"ptk0452","artist":"Quim Barreiros","song":"Eu Tou Maluco"}
+{"id":"ptk0453","artist":"Quim Barreiros","song":"Fui Acudir"}
+{"id":"ptk0454","artist":"Quim Barreiros","song":"Grande Confusão"}
+{"id":"ptk0455","artist":"Quim Barreiros","song":"Marcha Da Malta Do Carvalho"}
+{"id":"ptk0456","artist":"Quim Barreiros","song":"Meias De Renda"}
+{"id":"ptk0457","artist":"Quim Barreiros","song":"Melhor Dia P'ra Casar"}
+{"id":"ptk0458","artist":"Quim Barreiros","song":"Mestre De Culinária"}
+{"id":"ktt0002t03","artist":"Quim Barreiros","song":"Mestre De Culinária"}
+{"id":"ktt0002t13","artist":"Quim Barreiros","song":"Mestre De Culinária"}
+{"id":"ptk0459","artist":"Quim Barreiros","song":"Meu Dinossauro"}
+{"id":"ptk0460","artist":"Quim Barreiros","song":"Meu Passarinho"}
+{"id":"ptk0461","artist":"Quim Barreiros","song":"Minha Sogra"}
+{"id":"ptk0462","artist":"Quim Barreiros","song":"Na Tua Casa Tá Entrando Outro Macho"}
+{"id":"ktt0119t15","artist":"Quim Barreiros","song":"Na Tua Casa Tá Entrando Outro Macho"}
+{"id":"ktt0130t04","artist":"Quim Barreiros","song":"Nunca Gastes Tudo"}
+{"id":"ptk0804","artist":"Quim Barreiros","song":"Nunca Gastes Tudo"}
+{"id":"ptk0463","artist":"Quim Barreiros","song":"O Bichinho Da Mulher"}
+{"id":"ptk0464","artist":"Quim Barreiros","song":"O Macaco"}
+{"id":"ptk0465","artist":"Quim Barreiros","song":"O Peixe"}
+{"id":"ptk0466","artist":"Quim Barreiros","song":"O S. João Tripeiro"}
+{"id":"ptk0467","artist":"Quim Barreiros","song":"O Ténis"}
+{"id":"ktt0140t11","artist":"Quim Barreiros","song":"O Ténis"}
+{"id":"ptk0468","artist":"Quim Barreiros","song":"O Zé Do Pau"}
+{"id":"ptk0469","artist":"Quim Barreiros","song":"Olha O Cheiro Que A Rosa Dá"}
+{"id":"ptk0470","artist":"Quim Barreiros","song":"Os Bichos Da Fazenda"}
+{"id":"ptk0471","artist":"Quim Barreiros","song":"Tira A Roupa"}
+{"id":"ptk0472","artist":"Quim Barreiros","song":"Tá Fugido"}
+{"id":"ptk0473","artist":"Quim Barreiros","song":"Uma Virgem"}
+{"id":"ptk0474","artist":"Quim Barreiros","song":"Use Alcool"}
+{"id":"ptk0475","artist":"Quim Barreiros","song":"Vontade De Comer"}
+{"id":"ptk0846","artist":"Quim Barreiros","song":"Vou Comer C Os Velhos"}
+{"id":"ktt0002t05","artist":"Quim Gouveia","song":"Biagra"}
+{"id":"ktt0002t15","artist":"Quim Gouveia","song":"Biagra"}
+{"id":"ptk0884","artist":"Quinta Do Bill","song":"Menino"}
+{"id":"ktt0139t04","artist":"Quinta Do Bill","song":"O Mundo Para Ti"}
+{"id":"ptk0476","artist":"Quinta Do Bill","song":"Os Filhos Da Nação"}
+{"id":"ktt0005t10","artist":"Quinta Do Bill","song":"Os Filhos Da Nação"}
+{"id":"ktt0005t19","artist":"Quinta Do Bill","song":"Os Filhos Da Nação"}
+{"id":"ptk0805","artist":"Quinta Do Bill","song":"Onde Sei Viver"}
+{"id":"ktt0111t02","artist":"Quinta Do Bill","song":"Se Te Amo"}
+{"id":"ptk0806","artist":"Quinta Do Bill","song":"Se Te Amo"}
+{"id":"ktt0136t13","artist":"Quinta Do Bill","song":"Voa (Voa)"}
+{"id":"ptk0807","artist":"Radar Kadafi","song":"40 Graus À Sombra"}
+{"id":"ktt0126t06","artist":"Rádio Macau","song":"Acordar"}
+{"id":"ktt0104t14","artist":"Rádio Macau","song":"A Vida Num Só Dia"}
+{"id":"ptk0562","artist":"Rádio Macau","song":"Cantigas D'amor"}
+{"id":"ktt0144t01","artist":"Rádio Macau","song":"Cantigas D' Amor (mesmo assim)"}
+{"id":"ktt0149t15","artist":"Rádio Macau","song":"Entre As Memórias E O Sonho"}
+{"id":"ptk0563","artist":"Rádio Macau","song":"O Anzol"}
+{"id":"ktt0106t07","artist":"Rádio Macau","song":"O Anzol"}
+{"id":"ktt0151t12","artist":"Rádio Macau","song":"O Elevador da Glória"}
+{"id":"ptk0477","artist":"Rainha Das Tentações","song":"Bandalusa"}
+{"id":"ptk0478","artist":"Rapsodia","song":"Dos Clubes"}
+{"id":"ptk0479","artist":"Raúl","song":"Maldito Corazón"}
+{"id":"ptk0480","artist":"Raúl","song":"Sueño Su Boca"}
+{"id":"ptk0808","artist":"Rebeca","song":"Anda Dançar (Kuduro)"}
+{"id":"ptk0481","artist":"Rebeca","song":"Não Há Crise"}
+{"id":"ptk0482","artist":"Rebeca","song":"O Que Tu Queres Sei Eu"}
+{"id":"ptk0483","artist":"Rebeca","song":"Vai Ver Se Chove"}
+{"id":"ktt0003t05","artist":"Reginaldo Rossi","song":"Garçon"}
+{"id":"ktt0003t14","artist":"Reginaldo Rossi","song":"Garçon"}
+{"id":"ktt0119t11","artist":"Resistência","song":"Amanhã É Sempre Longe Demais"}
+{"id":"ktt0007t08","artist":"Resistência","song":"A Noite"}
+{"id":"ktt0007t17","artist":"Resistência","song":"A Noite"}
+{"id":"ktt0101t03","artist":"Resistência","song":"Nasce Selvagem"}
+{"id":"ptk0484","artist":"Ricardo Azevedo","song":"Entre O Sol E A Lua"}
+{"id":"ktt0143t01","artist":"Ricardo Azevedo","song":"Entre O Sol E A Lua"}
+{"id":"ktt0155t06","artist":"Ricardo Azevedo","song":"O Beijo (O Lado Mais Puro)"}
+{"id":"ptk0485","artist":"Ricardo Azevedo","song":"Pequeno T2"}
+{"id":"ktt0141t01","artist":"Ricardo Azevedo","song":"Pequeno T2"}
+{"id":"ptk0879","artist":"Ricardo Azevedo","song":"Somos Dois Espaços"}
+{"id":"ptk0486","artist":"Ricardo E Henrique","song":"Vale A Pena Amar De Novo"}
+{"id":"ktt0503t13","artist":"Ricky Martin","song":"Jaleo"}
+{"id":"ktt0504t09","artist":"Ricky Martin","song":"La Bomba"}
+{"id":"ktt0511t15","artist":"Ricky Martin","song":"Que Más Da (com Amerie & Fat Joe)"}
+{"id":"ptk0487","artist":"Rio Grande","song":"A Fisga"}
+{"id":"ptk0809","artist":"Rio Grande","song":"Dia De Passeio"}
+{"id":"ptk0488","artist":"Rio Grande","song":"Postal Dos Correios"}
+{"id":"ktt0001t05","artist":"Rio Grande","song":"Postal Dos Correios"}
+{"id":"ktt0001t14","artist":"Rio Grande","song":"Postal Dos Correios"}
+{"id":"ptk0489","artist":"Rio Negro & Sólimões","song":"Na Sola Da Bota"}
+{"id":"ktt0511t03","artist":"Rio Negro & Solimões","song":"Na Sola Da Bota"}
+{"id":"ptk0490","artist":"Rita Guerra & Beto","song":"Acreditar"}
+{"id":"ktt0130t02","artist":"Rita Guerra & Beto","song":"Acreditar"}
+{"id":"ktt0142t08","artist":"Rita Guerra & Beto","song":"A Ti"}
+{"id":"ptk0491","artist":"Rita Guerra & Beto","song":"Brincando Com O Fogo"}
+{"id":"ktt0107t07","artist":"Rita Guerra & Beto","song":"Brincando Com O Fogo"}
+{"id":"ptk0492","artist":"Rita Guerra","song":"Chegar A Ti"}
+{"id":"ktt0144t04","artist":"Rita Guerra","song":"Chegar A Ti"}
+{"id":"ktt0113t11","artist":"Rita Guerra","song":"Deixa-me Sonhar"}
+{"id":"ktt0115t03","artist":"Rita Guerra & Beto","song":"Desencontros"}
+{"id":"ktt0132t03","artist":"Rita Guerra & Beto","song":"É Porque A Gente Sente"}
+{"id":"ktt0144t12","artist":"Rita Guerra & Beto","song":"Feiticeira Da Luz"}
+{"id":"ptk0810","artist":"Rita Guerra","song":"Preciso De Ti"}
+{"id":"ktt0146t06","artist":"Rita Guerra","song":"Secretamente"}
+{"id":"ptk0493","artist":"Rita Guerra","song":"Sentimento"}
+{"id":"ktt0147t13","artist":"Rita Guerra","song":"Sentimento"}
+{"id":"ktt0101t02","artist":"Rita Lee","song":"Flagra"}
+{"id":"ktt0006t09","artist":"Rita Lee","song":"Mania de Você"}
+{"id":"ktt0006t19","artist":"Rita Lee","song":"Mania de Você"}
+{"id":"ktt0150t03","artist":"Rita Redshoes","song":"Choose Love"}
+{"id":"ptk0881","artist":"Rita Redshoes","song":"Choose Love"}
+{"id":"ktt0145t03","artist":"Rita Redshoes","song":"Dream On Girl"}
+{"id":"ktt0147t05","artist":"Rita Redshoes","song":"The Beginning Song"}
+{"id":"ptk0906","artist":"Rita Redshoes","song":"The Beginning Song"}
+{"id":"ktt0108t09","artist":"Ritual Tejo","song":"Foram Cardos Foram Prosas"}
+{"id":"ktt0005t05","artist":"Ritual Tejo","song":"Nascer Outra Vez"}
+{"id":"ktt0005t15","artist":"Ritual Tejo","song":"Nascer Outra Vez"}
+{"id":"ptk0494","artist":"Roberta Miranda","song":"Champagne"}
+{"id":"ktt0508t04","artist":"Roberta Miranda","song":"Faz Amor Comigo"}
+{"id":"ktt0106t04","artist":"Roberta Miranda","song":"São Tantas Coisas"}
+{"id":"ktt0112t03","artist":"Roberta Miranda","song":"Vá Com Deus"}
+{"id":"ktt0512t12","artist":"Roberto Carlos","song":"Amada Amante"}
+{"id":"ktt0509t02","artist":"Roberto Carlos","song":"Amigo"}
+{"id":"ptk0495","artist":"Roberto Carlos","song":"Amor Sem Limite"}
+{"id":"ptk0496","artist":"Roberto Carlos","song":"Arrasta Uma Cadeira"}
+{"id":"ptk0497","artist":"Roberto Carlos","song":"As Baleias"}
+{"id":"ktt0104t05","artist":"Roberto Carlos","song":"As Baleias"}
+{"id":"ptk0498","artist":"Roberto Carlos","song":"Cadillac"}
+{"id":"ptk0499","artist":"Roberto Carlos","song":"Calhambeque"}
+{"id":"ktt0110t06","artist":"Roberto Carlos","song":"Calhambeque"}
+{"id":"ptk0500","artist":"Roberto Carlos","song":"Cama E Mesa"}
+{"id":"ktt0505t10","artist":"Roberto Carlos","song":"Cama E Mesa"}
+{"id":"ptk0501","artist":"Roberto Carlos","song":"Cavalgada"}
+{"id":"ptk0502","artist":"Roberto Carlos","song":"Coisa Bonita"}
+{"id":"ktt0112t10","artist":"Roberto Carlos","song":"Emoções"}
+{"id":"ptk0503","artist":"Roberto Carlos","song":"Fera Ferida"}
+{"id":"ptk0504","artist":"Roberto Carlos","song":"Ilegal, Imoral Ou Engorda"}
+{"id":"ptk0505","artist":"Roberto Carlos","song":"Lady Laura"}
+{"id":"ptk0506","artist":"Roberto Carlos","song":"Meu Querido, Meu Velho"}
+{"id":"ptk0507","artist":"Roberto Carlos","song":"Mulher De 40"}
+{"id":"ktt0110t02","artist":"Roberto Carlos","song":"Mulher de 40"}
+{"id":"ptk0508","artist":"Roberto Carlos","song":"Mulher Pequena"}
+{"id":"ktt0504t07","artist":"Roberto Carlos","song":"Mulher Pequena"}
+{"id":"ptk0509","artist":"Roberto Carlos","song":"Namoradinha De Um Amigo Meu"}
+{"id":"ktt0503t09","artist":"Roberto Carlos","song":"Namoradinha de um Amigo Meu"}
+{"id":"ptk0510","artist":"Roberto Carlos","song":"O Baile Da Fazenda"}
+{"id":"ktt0510t07","artist":"Roberto Carlos","song":"O Baile Da Fazenda"}
+{"id":"ptk0511","artist":"Roberto Carlos","song":"O Caminhoneiro"}
+{"id":"ptk0512","artist":"Roberto Carlos","song":"O Terço"}
+{"id":"ptk0513","artist":"Roberto Carlos","song":"O Velho Caminhoneiro"}
+{"id":"ptk0514","artist":"Roberto Carlos","song":"Por Ela"}
+{"id":"ptk0515","artist":"Roberto Carlos","song":"Quando"}
+{"id":"ktt0509t10","artist":"Roberto Carlos","song":"Quando"}
+{"id":"ptk0516","artist":"Roberto Carlos","song":"Quero Que Tudo Vá p'ró Inferno"}
+{"id":"ktt0006t10","artist":"Roberto Carlos","song":"Quero que Vá Tudo p'ro Inferno"}
+{"id":"ktt0006t20","artist":"Roberto Carlos","song":"Quero que Vá Tudo p'ro Inferno"}
+{"id":"ptk0517","artist":"Roberto Carlos","song":"Se O Amor Se Vai"}
+{"id":"ptk0518","artist":"Roberto Carlos","song":"Todas As Manhãs"}
+{"id":"ptk0519","artist":"Roberto Carlos","song":"Tudo Pára"}
+{"id":"ptk0520","artist":"Roberto Leal","song":"Bate O Pé"}
+{"id":"ktt0140t06","artist":"Roberto Leal","song":"Bate O Pé"}
+{"id":"oth0021","artist":"Roberto Leal","song":"Casa Portuguesa"}
+{"id":"ptk0521","artist":"Roberto Leal","song":"Carimbó Português"}
+{"id":"oth0022","artist":"Roberto Leal","song":"Chora Carolina"}
+{"id":"ktt0115t05","artist":"Roberto Leal","song":"Dá Cá Um Beijo"}
+{"id":"ptk0522","artist":"Roberto Leal","song":"De Amado A Pessoa"}
+{"id":"ptk0523","artist":"Roberto Leal","song":"Fado Da Tia Mari'benta"}
+{"id":"ptk0811","artist":"Roberto Leal","song":"Moreninha Linda"}
+{"id":"ptk0524","artist":"Roberto Leal","song":"Português Brasileiro"}
+{"id":"ptk0525","artist":"Roberto Leal","song":"Que Bela Vida"}
+{"id":"oth0023","artist":"Roberto Leal","song":"Verde Vinho"}
+{"id":"ptk0526","artist":"Rodrigo","song":"Se Tu Existes"}
+{"id":"ptk0527","artist":"Romana","song":"Assim É Que Tu Me Levas"}
+{"id":"ptk0528","artist":"Romana","song":"Já Não Sou Bébé"}
+{"id":"ktt0110t05","artist":"Romana","song":"Já Não Sou Bebé"}
+{"id":"ktt0008t04","artist":"Romana","song":"Não és Homem Para Mim"}
+{"id":"ktt0008t14","artist":"Romana","song":"Não és Homem Para Mim"}
+{"id":"ktt0504t04","artist":"Rosana","song":"A Fuego Lento"}
+{"id":"ktt0512t10","artist":"Rosana","song":"Aquel Corazón"}
+{"id":"ptk0529","artist":"Rosinha","song":"Levity"}
+{"id":"ktt0509t11","artist":"Roupa Nova","song":"Chuva De Prata"}
+{"id":"ktt0105t13","artist":"Roupa Nova","song":"Dona"}
+{"id":"ktt0116t01","artist":"Roupa Nova","song":"Linda De Mais"}
+{"id":"ktt0510t15","artist":"Roupa Nova","song":"Seguindo No Trem Azul"}
+{"id":"ktt0505t11","artist":"Roupa Nova","song":"Volta Pr’a Mim"}
+{"id":"ktt0006t01","artist":"Roupa Nova","song":"Whisky à Go Go"}
+{"id":"ktt0006t11","artist":"Roupa Nova","song":"Whisky à Go Go"}
+{"id":"ptk0530","artist":"Rouxinol Faduncho","song":"Cães De Loiça"}
+{"id":"ptk0531","artist":"Rouxinol Faduncho","song":"Fado Beat"}
+{"id":"ptk0532","artist":"Rouxinol Faduncho","song":"Fado Das Barracas"}
+{"id":"ptk0533","artist":"Rouxinol Faduncho","song":"Mulher Maluca"}
+{"id":"ptk0534","artist":"Rui Bandeira","song":"Como Tudo Começou"}
+{"id":"ptk0535","artist":"Rui Bandeira","song":"Coração Bandido"}
+{"id":"ptk0536","artist":"Rui Bandeira","song":"Deus Abençoou O Nosso Amor"}
+{"id":"ktt0128t15","artist":"Rui Bandeira","song":"Eu Quero Mais De Ti"}
+{"id":"ptk0853","artist":"Rui Bandeira","song":"Sei Que Não Vais Esquecer"}
+{"id":"ptk0537","artist":"Rui Bandeira","song":"Vou Embora Mas Vou Feliz"}
+{"id":"ktt0111t04","artist":"Rui de Mascarenhas","song":"Pauliteiros Do Douro"}
+{"id":"ktt0137t07","artist":"Rui Veloso","song":"A Gente Não Lê"}
+{"id":"ktt0126t10","artist":"Rui Veloso","song":"A Ilha"}
+{"id":"ktt0144t08","artist":"Rui Veloso","song":"A Invenção Do Canto"}
+{"id":"ktt0138t07","artist":"Rui Veloso","song":"A Origem do Mal"}
+{"id":"ptk0538","artist":"Rui Veloso","song":"A Paixão"}
+{"id":"ktt0101t06","artist":"Rui Veloso","song":"A Paixão"}
+{"id":"ktt0143t08","artist":"Rui Veloso","song":"A Veia Do Poeta"}
+{"id":"ktt0136t08","artist":"Rui Veloso","song":"Amiga É Um Termo Dúbio"}
+{"id":"ktt0127t14","artist":"Rui Veloso","song":"As Regras Da Sensatez"}
+{"id":"ptk0539","artist":"Rui Veloso","song":"Baile Da Paródia"}
+{"id":"ktt0123t03","artist":"Rui Veloso","song":"Bairro do Oriente"}
+{"id":"ptk0540","artist":"Rui Veloso","song":"Beirã"}
+{"id":"ktt0128t05","artist":"Rui Veloso","song":"Beirã"}
+{"id":"ptk0541","artist":"Rui Veloso","song":"Brilho Dental"}
+{"id":"ktt0140t10","artist":"Rui Veloso","song":"Brilho Dental"}
+{"id":"ptk0542","artist":"Rui Veloso","song":"Canção de Alterne"}
+{"id":"ktt0131t01","artist":"Rui Veloso","song":"Canção de Alterne"}
+{"id":"ktt0137t15","artist":"Rui Veloso","song":"Cancao de Nova York"}
+{"id":"ktt0120t05","artist":"Rui Veloso","song":"Cavaleiro Andante"}
+{"id":"ptk0882","artist":"Rui Veloso","song":"Cavaleiro Andante"}
+{"id":"ktt0138t03","artist":"Rui Veloso","song":"Champanhe"}
+{"id":"ptk0543","artist":"Rui Veloso","song":"Chico Fininho"}
+{"id":"ktt0107t06","artist":"Rui Veloso","song":"Chico Fininho"}
+{"id":"ktt0134t10","artist":"Rui Veloso","song":"Dia De Passeio"}
+{"id":"ktt0129t04","artist":"Rui Veloso","song":"Estrela Do Rock N Roll"}
+{"id":"ktt0121t09","artist":"Rui Veloso","song":"Fado Do Ladrão Enamorado"}
+{"id":"ktt0141t08","artist":"Rui Veloso","song":"Golden Days"}
+{"id":"ktt0151t07","artist":"Rui Veloso","song":"História Sem Moral"}
+{"id":"ktt0124t09","artist":"Rui Veloso","song":"Já Não Há Canções de Amor"}
+{"id":"ptk0812","artist":"Rui Veloso","song":"Já Não Há Canções De Amor"}
+{"id":"ktt0118t01","artist":"Rui Veloso","song":"Jura"}
+{"id":"ptk0544","artist":"Rui Veloso","song":"Lado Lunar"}
+{"id":"ktt0106t11","artist":"Rui Veloso","song":"Lado Lunar"}
+{"id":"ktt0130t03","artist":"Rui Veloso","song":"Limpa Corações"}
+{"id":"ktt0147t07","artist":"Rui Veloso","song":"Logo Que Passe a Monção"}
+{"id":"ptk0545","artist":"Rui Veloso","song":"Máquina Zero"}
+{"id":"ptk0834","artist":"Rui Veloso","song":"Não Queiras Saber de Mim"}
+{"id":"ktt0148t06","artist":"Rui Veloso","song":"Não Queiras Saber de Mim"}
+{"id":"ptk0546","artist":"Rui Veloso","song":"Nunca Me Esqueci De Ti"}
+{"id":"ktt0117t04","artist":"Rui Veloso","song":"Nunca Me Esqueci De Ti"}
+{"id":"ptk0547","artist":"Rui Veloso","song":"Não Há Estrelas No Céu"}
+{"id":"ktt0105t06","artist":"Rui Veloso","song":"Não Há Estrelas No Céu"}
+{"id":"ktt0134t09","artist":"Rui Veloso","song":"Nao Ivoquem O Amor Em Vão"}
+{"id":"ptk0548","artist":"Rui Veloso","song":"Não Me Mintas"}
+{"id":"ktt0139t09","artist":"Rui Veloso","song":"Não Percas o teu Misterio"}
+{"id":"ptk0549","artist":"Rui Veloso","song":"O Prometido é Devido"}
+{"id":"ktt0110t11","artist":"Rui Veloso","song":"O Prometido é Devido"}
+{"id":"ktt0140t12","artist":"Rui Veloso","song":"O Trolha d´areosa"}
+{"id":"ktt0133t04","artist":"Rui Veloso","song":"Os Velhos Do Jardim"}
+{"id":"ktt0113t05","artist":"Rui Veloso","song":"Os Loucos De Lisboa (com Ala Dos Namorados)"}
+{"id":"ptk0550","artist":"Rui Veloso","song":"Porto Côvo"}
+{"id":"ktt0102t01","artist":"Rui Veloso","song":"Porto Côvo"}
+{"id":"ptk0551","artist":"Rui Veloso","song":"Porto Sentido"}
+{"id":"ktt0110t07","artist":"Rui Veloso","song":"Porto Sentido"}
+{"id":"ptk0837","artist":"Rui Veloso","song":"Saiu Para A Rua"}
+{"id":"ktt0122t06","artist":"Rui Veloso","song":"Sei De Uma Camponesa"}
+{"id":"ktt0135t02","artist":"Rui Veloso","song":"Serpente No Jardim"}
+{"id":"ptk0552","artist":"Rui Veloso","song":"Todo O Tempo Do Mundo"}
+{"id":"ktt0005t02","artist":"Rui Veloso","song":"Todo O Tempo Do Mundo"}
+{"id":"ktt0005t12","artist":"Rui Veloso","song":"Todo O Tempo Do Mundo"}
+{"id":"ktt0125t08","artist":"Rui Veloso","song":"Um Café e um Bagaço"}
+{"id":"ptk0553","artist":"Ruth Marlene","song":"A Moda Do Pisca Pisca"}
+{"id":"ktt0008t05","artist":"Ruth Marlene","song":"A Moda do Pisca Pisca"}
+{"id":"ktt0008t15","artist":"Ruth Marlene","song":"A Moda do Pisca Pisca"}
+{"id":"ptk0554","artist":"Ruth Marlene","song":"Bora Bora"}
+{"id":"ptk0555","artist":"Ruth Marlene","song":"Coisinha Sexy"}
+{"id":"ktt0130t10","artist":"Ruth Marlene","song":"Coisinha Sexy"}
+{"id":"ktt0002t09","artist":"Ruth Marlene","song":"Cola Cola"}
+{"id":"ktt0002t19","artist":"Ruth Marlene","song":"Cola Cola"}
+{"id":"ptk0160","artist":"Ruth Marlene","song":"Encosta Que É Bom"}
+{"id":"ptk0556","artist":"Ruth Marlene","song":"Mexe Mexe Que Eu Gosto"}
+{"id":"ktt0125t10","artist":"Ruth Marlene","song":"Mexe Mexe Que Eu Gosto"}
+{"id":"ptk0557","artist":"Ruth Marlene","song":"Quanto Mais Melhor"}
+{"id":"ptk0558","artist":"Ruth Marlene","song":"Queres É Festa"}
+{"id":"ptk0559","artist":"Ruth Marlene","song":"Show De Bola"}
+{"id":"ptk0560","artist":"Ruth Marlene","song":"Sms Do Amor"}
+{"id":"ptk0561","artist":"Ruth Marlene","song":"Sr. Doutor, Por Favor"}
+{"id":"ptk0564","artist":"Sabrina","song":"Dança Comigo"}
+{"id":"ktt0124t05","artist":"Sandy","song":"Nunca mais Digo Adeus"}
+{"id":"ptk0565","artist":"Santamaria","song":"A Voar"}
+{"id":"ptk0566","artist":"Santamaria","song":"Boogie Woogie"}
+{"id":"ptk0567","artist":"Santamaria","song":"Castelos Na Areia"}
+{"id":"ptk0568","artist":"Santamaria","song":"Dalay Lama"}
+{"id":"ktt0151t13","artist":"Santamaria","song":"Dalay Lama"}
+{"id":"ptk0569","artist":"Santamaria","song":"Desejo Azul"}
+{"id":"ktt0128t13","artist":"Santamaria","song":"És Demais"}
+{"id":"ptk0570","artist":"Santamaria","song":"Eu Quero Saber"}
+{"id":"ktt0126t08","artist":"Santamaria","song":"Eu Sei Tu És"}
+{"id":"ptk0571","artist":"Santamaria","song":"Eu Sem Ti"}
+{"id":"ptk0572","artist":"Santamaria","song":"Falésia do Amor"}
+{"id":"ktt0007t03","artist":"Santamaria","song":"Falésia do Amor"}
+{"id":"ktt0007t12","artist":"Santamaria","song":"Falésia do Amor"}
+{"id":"ptk0573","artist":"Santamaria","song":"Foste Mesmo Só Tu"}
+{"id":"ktt0133t02","artist":"Santamaria","song":"Gosto de Amar"}
+{"id":"ptk0574","artist":"Santamaria","song":"Já Não Dá P'ra Esperar"}
+{"id":"ptk0575","artist":"Santamaria","song":"Já Não Tens Nada a Ver"}
+{"id":"ktt0141t09","artist":"Santamaria","song":"Já Não Tens Nada a Ver"}
+{"id":"ptk0813","artist":"Santamaria","song":"Let's Go To Afrika"}
+{"id":"ptk0576","artist":"Santamaria","song":"Não Dá Pra Viver Sem Ti"}
+{"id":"ktt0131t08","artist":"Santamaria","song":"Não Dá Pra Viver Sem Ti"}
+{"id":"ptk0577","artist":"Santamaria","song":"O Coração Não Chora"}
+{"id":"ktt0130t08","artist":"Santamaria","song":"Quando O Amor Chega"}
+{"id":"ptk0578","artist":"Santamaria","song":"Quero Ser"}
+{"id":"ptk0579","artist":"Santamaria","song":"Quero Te Mais"}
+{"id":"ptk0580","artist":"Santamaria","song":"Quero Tudo E Muito Mais"}
+{"id":"ptk0840","artist":"Santamaria","song":"Ritmo Da Magia"}
+{"id":"ptk0581","artist":"Santamaria","song":"Sinto No Ar O Teu Olhar"}
+{"id":"ptk0582","artist":"Santamaria","song":"Só Eu Te Quero"}
+{"id":"ptk0583","artist":"Santamaria","song":"Tropicália"}
+{"id":"ptk0584","artist":"Santamaria","song":"Tu Es O Que Eu Mais Quero"}
+{"id":"ptk0814","artist":"Santamaria","song":"Tudo De Mim Para Ti"}
+{"id":"ptk0585","artist":"Santamaria","song":"Tudo Pra Te Amar"}
+{"id":"ktt0102t03","artist":"Santamaria","song":"Tudo Pra Te Amar"}
+{"id":"ptk0586","artist":"Santamaria","song":"Vou Entrar No Teu Olhar"}
+{"id":"ktt0147t10","artist":"Santamaria","song":"Vou Nas Asas Do Vento"}
+{"id":"ktt0139t07","artist":"Santos & Pecadores","song":"A Dois Minutos de Ti"}
+{"id":"ktt0128t04","artist":"Santos & Pecadores","song":"A Banda Cantou"}
+{"id":"ktt0151t05","artist":"Santos & Pecadores","song":"A Caixa dos Segredos"}
+{"id":"ptk0587","artist":"Santos & Pecadores","song":"Fala Me De Amor"}
+{"id":"ktt0001t08","artist":"Santos & Pecadores","song":"Fala-me De Amor"}
+{"id":"ktt0001t17","artist":"Santos & Pecadores","song":"Fala-me De Amor"}
+{"id":"ktt0138t01","artist":"Santos & Pecadores","song":"Miss Solidão"}
+{"id":"ktt0105t07","artist":"Santos & Pecadores","song":"Momento Final"}
+{"id":"ktt0101t10","artist":"Santos & Pecadores","song":"Não Voltarei A Ser Fiel"}
+{"id":"ktt0130t07","artist":"Santos & Pecadores","song":"Para Além Do Céu"}
+{"id":"ktt0146t15","artist":"Santos & Pecadores","song":"Silêncio da Noite"}
+{"id":"ptk0588","artist":"Sara Tavares","song":"Chamar A Musica"}
+{"id":"ktt0102t10","artist":"Sara Tavares","song":"Chamar A Musica"}
+{"id":"ptk0589","artist":"Sara Tavares","song":"Escolhas"}
+{"id":"ptk0590","artist":"Sara Tavares","song":"Eu Sei"}
+{"id":"ktt0111t05","artist":"Sara Tavares","song":"Eu Sei"}
+{"id":"ptk0591","artist":"Sara Tavares","song":"Longe Do Mundo"}
+{"id":"ktt0135t06","artist":"Sara Tavares","song":"Nha Cretcheu"}
+{"id":"ptk0873","artist":"Sara Tavares","song":"Ponto de Luz"}
+{"id":"ktt0131t10","artist":"Sara Tavares","song":"Voa Borboleta"}
+{"id":"ktt0117t15","artist":"Sara Tavares","song":"Wanoaiami"}
+{"id":"ptk0592","artist":"Saúl","song":"O Bacalhau Quer Alho"}
+{"id":"ktt0152t11","artist":"Sérgio Borges","song":"Onde Vais Rio Que Eu Canto"}
+{"id":"ptk0602","artist":"Sérgio Dalma","song":"Bailar Pegados"}
+{"id":"ktt0114t03","artist":"Sérgio Godinho","song":"A Noite Passada"}
+{"id":"ptk0603","artist":"Sérgio Godinho","song":"Com Um Brilhozinho Nos Olhos"}
+{"id":"ktt0110t09","artist":"Sérgio Godinho","song":"Com Um Brilhozinho Nos Olhos"}
+{"id":"ktt0114t14","artist":"Sérgio Godinho","song":"E O Porto Aqui Tão Perto"}
+{"id":"ktt0139t15","artist":"Sérgio Godinho","song":"Espectaculo"}
+{"id":"ktt0116t15","artist":"Sérgio Godinho","song":"Lisboa Que Amanhece (com Caetano Veloso)"}
+{"id":"ktt0134t04","artist":"Sérgio Godinho","song":"O Namoro"}
+{"id":"ptk0593","artist":"Sérgio Godinho","song":"Primeiro Dia"}
+{"id":"ktt0123t13","artist":"Sérgio Rossi","song":"Amanha (Vai Ser Tarde Demais)"}
+{"id":"ktt0155t04","artist":"Sérgio Rossi","song":"Devolve-Me A Vida"}
+{"id":"ktt0128t07","artist":"Sérgio Rossi","song":"Eu Dava Tudo Na Vida (Pra Te Ter Aqui)"}
+{"id":"ktt0116t13","artist":"Sétima Legião","song":"Sete Mares"}
+{"id":"ktt0115t07","artist":"Sexto Sentido","song":"Anjos Caidos"}
+{"id":"ktt0506t05","artist":"Shakira","song":"Estoy Aquí"}
+{"id":"ktt0510t09","artist":"Shakira","song":"La Tortura (com Alejandro Sanz)"}
+{"id":"ktt0126t11","artist":"Sheiks","song":"Missing You"}
+{"id":"ktt0001t04","artist":"Silence 4","song":"Borrow"}
+{"id":"ktt0001t13","artist":"Silence 4","song":"Borrow"}
+{"id":"ktt0106t12","artist":"Silence 4","song":"Little Respect"}
+{"id":"ktt0104t12","artist":"Silence 4","song":"To Give"}
+{"id":"ktt0106t15","artist":"Simone de Oliveira","song":"Desfolhada Portuguesa"}
+{"id":"ktt0107t14","artist":"Simone de Oliveira","song":"Sol De Inverno"}
+{"id":"ktt0130t11","artist":"Sitiados","song":"Vida De Marinheiro"}
+{"id":"ktt0106t09","artist":"Só Pra Contrariar","song":"Depois do Prazer"}
+{"id":"ktt0503t07","artist":"Só Pra Contrariar","song":"Essa Tal Liberdade"}
+{"id":"ktt0513t13","artist":"Só Pra Contrariar","song":"Quando e Amor"}
+{"id":"ktt0507t03","artist":"Só Pra Contrariar","song":"Teu Olhar"}
+{"id":"ktt0503t15","artist":"Son by Four","song":"A Puro Dolor"}
+{"id":"ptk0604","artist":"Sónia & Selena","song":"Yo Quiero Bailar"}
+{"id":"ktt0512t14","artist":"Soraya Arnelas","song":"Mi Mundo Sin Tí"}
+{"id":"ptk0595","artist":"Super Teen","song":"Coração De Papelão"}
+{"id":"ptk0596","artist":"Susana Félix","song":"Amanhecer"}
+{"id":"ptk0597","artist":"Susana Félix","song":"Bem Na Minha Mão"}
+{"id":"ktt0144t06","artist":"Susana Félix","song":"Bem Na Minha Mão"}
+{"id":"ptk0815","artist":"Susana Félix","song":"Bem vindo"}
+{"id":"ktt0136t07","artist":"Susana Félix","song":"Flutuo"}
+{"id":"ptk0598","artist":"Susana Félix","song":"Mais Olhos Que Barriga"}
+{"id":"ktt0007t06","artist":"Susana Félix","song":"Mais Olhos Que Barriga"}
+{"id":"ktt0007t15","artist":"Susana Félix","song":"Mais Olhos Que Barriga"}
+{"id":"ptk0599","artist":"Susana Félix","song":"Um Lugar Encantado"}
+{"id":"ktt0113t02","artist":"Susana Félix","song":"Um Lugar Encantado"}
+{"id":"ptk0600","artist":"Swing Brasil","song":"Mayonesa"}
+{"id":"ptk0601","artist":"Swing Brasil","song":"Na Manteiga"}
+{"id":"ktt0141t02","artist":"Tambor","song":"A tua falta"}
+{"id":"ktt0144t05","artist":"Tambor","song":"Fado do Coração"}
+{"id":"ktt0123t12","artist":"Tambor","song":"Lisboa Pra Tras"}
+{"id":"ptk0816","artist":"Tara Perdida","song":"Nasci Hoje"}
+{"id":"ktt0127t10","artist":"Taxi","song":"Cairo"}
+{"id":"ptk0605","artist":"Taxi","song":"Chiclete"}
+{"id":"ktt0105t02","artist":"Taxi","song":"Chiclete"}
+{"id":"ptk0606","artist":"Taxi","song":"Não Sei Se Sei"}
+{"id":"ktt0151t02","artist":"Taxi","song":"Não Sei Se Sei"}
+{"id":"ktt0141t06","artist":"Taxi","song":"O Fio da Navalha"}
+{"id":"ptk0607","artist":"Tayti","song":"Cuidado Com A Fruta"}
+{"id":"ptk0608","artist":"Tayti","song":"Dá - Me Um Xôxo"}
+{"id":"ptk0609","artist":"Tayti","song":"Dá Me Choque"}
+{"id":"ptk0610","artist":"Tayti","song":"Mãos Ao Ar"}
+{"id":"ptk0611","artist":"Tayti","song":"Pula Pula Mexe Mexe"}
+{"id":"ptk0612","artist":"Tayti","song":"Põe Te A Pau"}
+{"id":"ptk0613","artist":"Tayti","song":"Que Calor"}
+{"id":"ptk0614","artist":"Tayti","song":"Quente Ou Frio"}
+{"id":"ptk0615","artist":"Tayti","song":"Teu Jogo De Cintura"}
+{"id":"ptk0374","artist":"Teodoro E Sampaio","song":"Mulher Chorona"}
+{"id":"ktt0140t01","artist":"Teresa Radamanto","song":"Ai de Quem Nunca Cantou"}
+{"id":"ktt0146t01","artist":"Teresa Radamanto","song":"Caixa de Sonhos"}
+{"id":"ktt0003t04","artist":"Terrasamba","song":"Liberar Geral"}
+{"id":"ktt0003t13","artist":"Terrasamba","song":"Liberar Geral"}
+{"id":"ktt0153t06","artist":"The Agency","song":"As coisas são"}
+{"id":"ktt0135t09","artist":"The Gift","song":"Driving You Slow"}
+{"id":"ptk0616","artist":"Tiago Bettencourt","song":"Canção Simples"}
+{"id":"ktt0143t04","artist":"Tiago Bettencourt","song":"Canção Simples"}
+{"id":"ptk0904","artist":"Tiago Bettencourt","song":"Chocamos Tu e Eu"}
+{"id":"ptk0817","artist":"Tiago Bettencourt","song":"O Jardim"}
+{"id":"ktt0154t04","artist":"Tiago Bettencourt","song":"O Jogo (com Mantha)"}
+{"id":"ptk0818","artist":"Tim","song":"Melhor Amigo"}
+{"id":"ptk0874","artist":"Tim","song":"Por Quem Não Esqueci"}
+{"id":"ktt0153t04","artist":"Tim","song":"Voar"}
+{"id":"ptk0870","artist":"Tim","song":"Voar"}
+{"id":"ptk0617","artist":"Tim E Mariza","song":"Fado Do Encontro"}
+{"id":"ktt0121t15","artist":"Tó & Junior","song":"Porque És Tu"}
+{"id":"ktt0102t07","artist":"Tom Jobim","song":"Águas de Março"}
+{"id":"ktt0506t06","artist":"Tom Jobim","song":"Eu Sei Que Vou Te Amar"}
+{"id":"ktt0006t03","artist":"Tom Jobim","song":"Garota de Ipanema"}
+{"id":"ktt0006t13","artist":"Tom Jobim","song":"Garota de Ipanema"}
+{"id":"ktt0513t03","artist":"Tom Jobim","song":"Samba de Uma Nota So"}
+{"id":"oth0024","artist":"Tonicha","song":"Malhão triste malhão"}
+{"id":"ktt0101t07","artist":"Tonicha","song":"Menina Do Alto Da Serra"}
+{"id":"ktt0134t15","artist":"Tonicha","song":"Sericoalho, Bacalhau, Azeite E Alho"}
+{"id":"ptk0618","artist":"Tonicha","song":"Zumba Na Caneca"}
+{"id":"ktt0128t11","artist":"Tonicha","song":"Zumba Na Caneca"}
+{"id":"ptk0621","artist":"Tony Carreira","song":"A Estrada E Eu"}
+{"id":"ktt0144t14","artist":"Tony Carreira","song":"A Estrada E Eu"}
+{"id":"ptk0667","artist":"Tony Carreira","song":"A Minha Guitarra"}
+{"id":"ktt0137t02","artist":"Tony Carreira","song":"A Minha Guitarra"}
+{"id":"ptk0622","artist":"Tony Carreira","song":"A Sonhar Contigo"}
+{"id":"ktt0121t05","artist":"Tony Carreira","song":"A Sonhar Contigo"}
+{"id":"ptk0623","artist":"Tony Carreira","song":"A Vida Que Eu Escolhi"}
+{"id":"ktt0140t09","artist":"Tony Carreira","song":"A Vida que eu Escolhi"}
+{"id":"ktt0149t02","artist":"Tony Carreira","song":"Adeus Amigo"}
+{"id":"ptk0624","artist":"Tony Carreira","song":"Adeus Até Um Dia"}
+{"id":"ktt0150t08","artist":"Tony Carreira","song":"Adeus Até Um Dia"}
+{"id":"ptk0625","artist":"Tony Carreira","song":"Ai Destino"}
+{"id":"ktt0134t07","artist":"Tony Carreira","song":"Ai Destino"}
+{"id":"ptk0626","artist":"Tony Carreira","song":"Boquita Linda"}
+{"id":"ptk0627","artist":"Tony Carreira","song":"Cantor De Sonhos"}
+{"id":"ktt0122t01","artist":"Tony Carreira","song":"Cantor De Sonhos"}
+{"id":"ptk0628","artist":"Tony Carreira","song":"Carinha Laroca"}
+{"id":"ktt0127t15","artist":"Tony Carreira","song":"Carinha Laroca"}
+{"id":"ptk0629","artist":"Tony Carreira","song":"Coração Perdido"}
+{"id":"ptk0630","artist":"Tony Carreira","song":"Coração Sem Dono"}
+{"id":"ktt0155t10","artist":"Tony Carreira","song":"Deixem-Me Cantar"}
+{"id":"ptk0631","artist":"Tony Carreira","song":"Depois De Ti"}
+{"id":"ktt0118t05","artist":"Tony Carreira","song":"Depois De Ti"}
+{"id":"ptk0632","artist":"Tony Carreira","song":"Dois Corações Sozinhos"}
+{"id":"ktt0132t10","artist":"Tony Carreira","song":"Dois Corações Sozinhos"}
+{"id":"ptk0666","artist":"Tony Carreira","song":"É Melhor Dizer Adeus"}
+{"id":"ktt0138t06","artist":"Tony Carreira","song":"É Melhor Dizer Adeus"}
+{"id":"ptk0819","artist":"Tony Carreira","song":"Envelhecer A Teu Lado"}
+{"id":"ptk0633","artist":"Tony Carreira","song":"Eras Tu"}
+{"id":"ptk0634","artist":"Tony Carreira","song":"Esta Falta De Ti"}
+{"id":"ktt0129t03","artist":"Tony Carreira","song":"Esta Falta De Ti"}
+{"id":"ptk0635","artist":"Tony Carreira","song":"Este Sabor A Ti"}
+{"id":"ptk0636","artist":"Tony Carreira","song":"Eterno Vagabundo"}
+{"id":"ptk0637","artist":"Tony Carreira","song":"Eu Quero Nanana"}
+{"id":"ptk0638","artist":"Tony Carreira","song":"Fala Lhe De Mim"}
+{"id":"ptk0619","artist":"Tony Carreira","song":"Filho E Pai (com Mickael Carreira)"}
+{"id":"ktt0141t10","artist":"Tony Carreira","song":"Filho E Pai (com Mickael Carreira)"}
+{"id":"ktt0120t15","artist":"Tony Carreira","song":"Mãe Querida"}
+{"id":"ptk0639","artist":"Tony Carreira","song":"Mais Que A Primeira Paixão"}
+{"id":"ptk0640","artist":"Tony Carreira","song":"Mesmo Que Seja Mentira"}
+{"id":"ktt0143t05","artist":"Tony Carreira","song":"Mesmo Que Seja Mentira"}
+{"id":"ptk0641","artist":"Tony Carreira","song":"Meu Heroi Pequeno"}
+{"id":"ptk0642","artist":"Tony Carreira","song":"Minha Velha Guitarra"}
+{"id":"ptk0643","artist":"Tony Carreira","song":"Morena Bonita"}
+{"id":"ptk0644","artist":"Tony Carreira","song":"Não Desisto De Ti"}
+{"id":"ktt0148t04","artist":"Tony Carreira","song":"Nao Desisto de Ti"}
+{"id":"ptk0645","artist":"Tony Carreira","song":"Não Há Mais Ninguém"}
+{"id":"ptk0820","artist":"Tony Carreira","song":"O Mesmo De Sempre"}
+{"id":"ptk0620","artist":"Tony Carreira","song":"O Primeiro Grande Amor (com Susana)"}
+{"id":"ptk0646","artist":"Tony Carreira","song":"O Que Eu Gosto Numa Mulher"}
+{"id":"ktt0142t05","artist":"Tony Carreira","song":"O Que Vai Ser de Mim"}
+{"id":"ptk0821","artist":"Tony Carreira","song":"Porquê"}
+{"id":"ptk0647","artist":"Tony Carreira","song":"Porque É Que Vens"}
+{"id":"ktt0147t02","artist":"Tony Carreira","song":"Porque É Que Vens"}
+{"id":"ptk0648","artist":"Tony Carreira","song":"P'ra Estar Contigo"}
+{"id":"ptk0649","artist":"Tony Carreira","song":"Quando Eras Minha"}
+{"id":"ptk0650","artist":"Tony Carreira","song":"Que Vai Ser De Mim"}
+{"id":"ptk0651","artist":"Tony Carreira","song":"Quem Era Eu Sem Ti"}
+{"id":"ptk0652","artist":"Tony Carreira","song":"Quem Esqueceu Não Chora"}
+{"id":"ktt0146t12","artist":"Tony Carreira","song":"Quem Esqueceu Não Chora"}
+{"id":"ptk0653","artist":"Tony Carreira","song":"Sabes Onde Eu Estou"}
+{"id":"ktt0123t15","artist":"Tony Carreira","song":"Sabes Onde Eu Estou"}
+{"id":"ptk0822","artist":"Tony Carreira","song":"Saudades De Ti"}
+{"id":"ptk0654","artist":"Tony Carreira","song":"Se Acordo E Tu Não Estás"}
+{"id":"ktt0119t12","artist":"Tony Carreira","song":"Se Acordo E Tu Não Estás"}
+{"id":"ptk0655","artist":"Tony Carreira","song":"Se Ela Perguntar Por Mim"}
+{"id":"ptk0656","artist":"Tony Carreira","song":"Se Me Vais Deixar"}
+{"id":"ktt0154t09","artist":"Tony Carreira","song":"Se Me Vais Deixar"}
+{"id":"ptk0657","artist":"Tony Carreira","song":"Sem Dizer Adeus"}
+{"id":"ptk0658","artist":"Tony Carreira","song":"Será Que Sou Feliz"}
+{"id":"ptk0883","artist":"Tony Carreira","song":"Sigo Só"}
+{"id":"ptk0659","artist":"Tony Carreira","song":"Sonhador,Sonhador"}
+{"id":"ktt0125t07","artist":"Tony Carreira","song":"Sonhador,Sonhador"}
+{"id":"ptk0660","artist":"Tony Carreira","song":"Sonhos De Menino"}
+{"id":"ktt0135t08","artist":"Tony Carreira","song":"Sonhos De Menino"}
+{"id":"ptk0661","artist":"Tony Carreira","song":"Trata Bem Dela"}
+{"id":"ptk0662","artist":"Tony Carreira","song":"Tu Levaste A Minha Vida"}
+{"id":"ktt0136t06","artist":"Tony Carreira","song":"Tu Levaste A Minha Vida"}
+{"id":"ptk0663","artist":"Tony Carreira","song":"Tudo Em Mim"}
+{"id":"ptk0664","artist":"Tony Carreira","song":"Tudo Por Vocês"}
+{"id":"ptk0665","artist":"Tony Carreira","song":"Vagabundo Por Amor"}
+{"id":"ktt0131t09","artist":"Tony Carreira","song":"Vagabundo Por Amor"}
+{"id":"ktt0108t02","artist":"Tony de Matos","song":"Cartas De Amor"}
+{"id":"ktt0150t14","artist":"Tony de Matos","song":"Eu Tão Só"}
+{"id":"ktt0136t15","artist":"Tony de Matos","song":"Lado A Lado"}
+{"id":"ktt0122t09","artist":"Tony de Matos","song":"O Destino Marca A Hora"}
+{"id":"ktt0135t11","artist":"Tony de Matos","song":"Romântico"}
+{"id":"ptk0668","artist":"Toranja","song":"Carta"}
+{"id":"ktt0119t01","artist":"Toranja","song":"Carta"}
+{"id":"ktt0123t01","artist":"Toranja","song":"Cenário"}
+{"id":"ktt0125t15","artist":"Toranja","song":"Dá-me Ar"}
+{"id":"ktt0131t13","artist":"Toranja","song":"Laços"}
+{"id":"ptk0670","artist":"Toto Cutugno","song":"L'italiano"}
+{"id":"ktt0506t07","artist":"Toto Cotugno","song":"L'Italiano"}
+{"id":"ktt0154t08","artist":"Toy","song":"Água Não"}
+{"id":"ptk0868","artist":"Toy","song":"Água Não"}
+{"id":"ktt0124t10","artist":"Toy","song":"A Marcha do Vitória de Setúbal"}
+{"id":"ktt0129t09","artist":"Toy","song":"Chama O António"}
+{"id":"ktt0123t05","artist":"Toy","song":"É Só Sexo"}
+{"id":"ptk0671","artist":"Toy","song":"És Tão Sensual"}
+{"id":"ktt0127t04","artist":"Toy","song":"És Tão Sensual"}
+{"id":"ktt0126t12","artist":"Toy","song":"Estupidamente Apaixonado"}
+{"id":"ktt0114t05","artist":"Toy","song":"Olhos De Agua"}
+{"id":"ktt0124t12","artist":"Toy","song":"Profunda Intimidade"}
+{"id":"ktt0117t13","artist":"Toy","song":"Quem é Que Nunca Amou"}
+{"id":"ktt0132t14","artist":"Toy","song":"Sado Masoquismo"}
+{"id":"ktt0153t07","artist":"Toy","song":"Sou Português (e tenho orgulho)"}
+{"id":"ptk0672","artist":"Trabalhadores do Comércio","song":"Chamem A Policia"}
+{"id":"ktt0144t02","artist":"Trabalhadores do Comércio","song":"Chamem A Policia"}
+{"id":"ptk0673","artist":"Tradicional Dos Andes","song":"El Humahuaqueño"}
+{"id":"ptk0674","artist":"Três Tristes Tigres","song":"O Mundo A Meus Pés"}
+{"id":"ktt0109t07","artist":"Três Tristes Tigres","song":"O Mundo A Meus Pés"}
+{"id":"ktt0131t15","artist":"Três Tristes Tigres","song":"Zap Canal"}
+{"id":"ptk0675","artist":"Tribalistas","song":"Já Sei Namorar"}
+{"id":"ktt0117t05","artist":"Tribalistas","song":"Já Sei Namorar"}
+{"id":"ptk0676","artist":"Tribalistas","song":"Velha Infância"}
+{"id":"ktt0115t11","artist":"Tribalistas","song":"Velha Infância"}
+{"id":"ktt0505t14","artist":"Trio Los Panchos","song":"Ansiedad (com Nat King Cole)"}
+{"id":"ktt0152t07","artist":"Trio Odemira","song":"Ana Maria"}
+{"id":"ptk0677","artist":"Trio Odemira","song":"Anel de Noivado"}
+{"id":"ktt0139t08","artist":"Trio Odemira","song":"Anel de Noivado"}
+{"id":"ptk0852","artist":"Trio Os Boémios","song":"Roseira Enxertada"}
+{"id":"ktt0109t01","artist":"Tristão Da Silva","song":"Nem Às Paredes Confesso"}
+{"id":"ptk0678","artist":"Tropical Band","song":"Meia Noite"}
+{"id":"ktt0113t01","artist":"Trovante","song":"125 Azul"}
+{"id":"ktt0132t06","artist":"Trovante","song":"Balada Das Sete Saias"}
+{"id":"ktt0101t05","artist":"Trovante","song":"Perdidamente"}
+{"id":"ktt0118t13","artist":"Trovante","song":"Saudade"}
+{"id":"ktt0142t06","artist":"TT","song":"Dança Este Som"}
+{"id":"ktt0147t08","artist":"TT","song":"Lady Deixa-te Levar"}
+{"id":"ktt0148t09","artist":"TT","song":"Vem Cá (com Nuno Guerreiro)"}
+{"id":"ktt0128t02","artist":"UHF","song":"Cavalos De Corrida"}
+{"id":"ptk0679","artist":"UHF","song":"Foge Comigo Maria"}
+{"id":"ktt0131t05","artist":"UHF","song":"Foge Comigo Maria"}
+{"id":"ptk0680","artist":"UHF","song":"Matas-me Com O Teu Olhar"}
+{"id":"ktt0132t11","artist":"UHF","song":"Matas-me Com O Teu Olhar"}
+{"id":"ktt0126t13","artist":"UHF","song":"Menina que Estás a Janela"}
+{"id":"ptk0823","artist":"UHF","song":"Menina Estás À Janela"}
+{"id":"ptk0912","artist":"UHF","song":"O Tempo é meu Amigo"}
+{"id":"ktt0155t12","artist":"UHF","song":"O Vento Mudou"}
+{"id":"ktt0129t07","artist":"UHF","song":"Rua Do Carmo"}
+{"id":"ptk0681","artist":"UHF","song":"Somos Benfica"}
+{"id":"ktt0130t13","artist":"UHF","song":"Uma Palavra Tua"}
+{"id":"ptk0824","artist":"UHF","song":"Viver Para Te Ver"}
+{"id":"ptk0682","artist":"Valentino","song":"És Mais Que Um Amor"}
+{"id":"ptk0687","artist":"Vânia Fernandes","song":"Senhora Do Mar"}
+{"id":"ktt0153t13","artist":"Vânia Fernandes","song":"Senhora do mar"}
+{"id":"ptk0686","artist":"Vários","song":"Mãe Querida, Mãe Querida"}
+{"id":"ktt0109t06","artist":"Vários","song":"Mãe Querida, Mãe Querida"}
+{"id":"oth0025","artist":"Vários","song":"Medley Popular"}
+{"id":"ktt0505t05","artist":"Vaya Con Dios","song":"Don’t Cry For Louie"}
+{"id":"ktt0505t12","artist":"Vaya Con Dios","song":"Forever Blue"}
+{"id":"ktt0503t03","artist":"Vaya Con Dios","song":"Johnny"}
+{"id":"ktt0504t02","artist":"Vaya Con Dios","song":"Nah Neh Nah"}
+{"id":"ktt0506t02","artist":"Vaya Con Dios","song":"Philadelphia"}
+{"id":"ktt0503t01","artist":"Vaya Con Dios","song":"Puerto Rico"}
+{"id":"ktt0506t10","artist":"Vaya Con Dios","song":"Something's Got A Hold On Me"}
+{"id":"ktt0503t05","artist":"Vaya Con Dios","song":"Whats a Woman"}
+{"id":"ktt0103t10","artist":"Vicente da Camara","song":"A Moda Das Tranças Pretas"}
+{"id":"ptk0683","artist":"Victor E Leo","song":"Locutor"}
+{"id":"ptk0684","artist":"Victor Espadinha","song":"Recordar É Viver"}
+{"id":"ktt0149t14","artist":"Victor Espadinha","song":"Recordar É Viver"}
+{"id":"ptk0729","artist":"Vitorino","song":"Alentejanas E Amorosas"}
+{"id":"ktt0105t04","artist":"Vitorino","song":"A Queda do Império"}
+{"id":"ktt0106t08","artist":"Vitorino","song":"Desde El Dia En Que Te Vi (com Septeto Habanero)"}
+{"id":"ktt0114t01","artist":"Vitorino","song":"Menina Estás à Janela"}
+{"id":"ptk0685","artist":"Viviane","song":"A Vida Não Chega"}
+{"id":"ktt0135t10","artist":"Viviane","song":"A Vida Não Chega"}
+{"id":"ptk0688","artist":"Walter","song":"Morango Do Nordeste"}
+{"id":"ptk0689","artist":"Wando","song":"Fogo E Paixão"}
+{"id":"ptk0690","artist":"Xutos & Pontapés","song":"A Minha Casinha"}
+{"id":"ktt0115t01","artist":"Xutos & Pontapés","song":"A Minha Casinha"}
+{"id":"ptk0697","artist":"Xutos & Pontapés","song":"À Minha Maneira"}
+{"id":"ktt0118t02","artist":"Xutos & Pontapés","song":"À Minha Maneira"}
+{"id":"ptk0691","artist":"Xutos & Pontapés","song":"Ai Se Ele Cai"}
+{"id":"ktt0121t01","artist":"Xutos & Pontapés","song":"Ai Se Ele Cai"}
+{"id":"ktt0128t12","artist":"Xutos & Pontapés","song":"Barcos Gregos"}
+{"id":"ptk0692","artist":"Xutos & Pontapés","song":"Chuva Dissolvente"}
+{"id":"ktt0113t15","artist":"Xutos & Pontapés","song":"Chuva Dissolvente"}
+{"id":"ktt0103t13","artist":"Xutos & Pontapés","song":"Circo de Feras"}
+{"id":"ptk0730","artist":"Xutos & Pontapés","song":"Circo De Feras"}
+{"id":"ptk0693","artist":"Xutos & Pontapés","song":"Contentores"}
+{"id":"ktt0119t07","artist":"Xutos & Pontapés","song":"Contentores"}
+{"id":"ktt0130t14","artist":"Xutos & Pontapés","song":"Dá Um Mergulho"}
+{"id":"ptk0914","artist":"Xutos & Pontapés","song":"Dia de São Receber"}
+{"id":"ptk0694","artist":"Xutos & Pontapés","song":"Fim Do Mês"}
+{"id":"ktt0121t03","artist":"Xutos & Pontapés","song":"Fim Do Mês"}
+{"id":"ptk0695","artist":"Xutos & Pontapés","song":"Homem Do Leme"}
+{"id":"ktt0104t15","artist":"Xutos & Pontapés","song":"Homem do Leme"}
+{"id":"ktt0133t15","artist":"Xutos & Pontapés","song":"Manhã Submersa"}
+{"id":"ktt0102t11","artist":"Xutos & Pontapés","song":"Não sou o unico"}
+{"id":"ktt0124t02","artist":"Xutos & Pontapés","song":"O Mundo ao Contrário"}
+{"id":"ptk0733","artist":"Xutos & Pontapés","song":"O Mundo ao Contrário"}
+{"id":"ptk0696","artist":"Xutos & Pontapés","song":"Para Ti Maria"}
+{"id":"ktt0122t02","artist":"Xutos & Pontapés","song":"Para Ti Maria"}
+{"id":"ptk0833","artist":"Xutos & Pontapés","song":"Para Sempre"}
+{"id":"ktt0126t02","artist":"Xutos & Pontapés","song":"Para Sempre"}
+{"id":"ktt0152t02","artist":"Xutos & Pontapés","song":"Perfeito Vazio"}
+{"id":"ptk0875","artist":"Xutos & Pontapés","song":"Perfeito Vazio"}
+{"id":"ptk0698","artist":"Xutos & Pontapés","song":"Quem É Quem"}
+{"id":"ktt0149t01","artist":"Xutos & Pontapés","song":"Quem É Quem"}
+{"id":"ptk0871","artist":"Xutos & Pontapés","song":"Sem Eira Nem Beira"}
+{"id":"ktt0129t13","artist":"Xutos & Pontapés","song":"Sombra Colorida"}
+{"id":"ktt0123t06","artist":"Xutos & Pontapés","song":"Vida Malvada"}
+{"id":"ptk0699","artist":"Yves Larock","song":"By Your Side"}
+{"id":"ptk0700","artist":"Yves Larock","song":"Rise Up"}
+{"id":"ptk0701","artist":"Yves Larock","song":"Say Yeah"}
+{"id":"ktt0106t13","artist":"Zeca Afonso","song":"Canção de Embalar"}
+{"id":"ptk0736","artist":"Zeca Afonso","song":"Traz Um Amigo Também"}
+{"id":"ptk0702","artist":"Zeca Afonso","song":"Venham Mais Cinco"}
+{"id":"ptk0800","artist":"Zeca Sempre","song":"O Que Faz Falta"}
+{"id":"ptk0704","artist":"Zé Cabra","song":"Deixei Tudo Por Ela"}
+{"id":"ktt0103t07","artist":"Zé Cabra","song":"Deixei Tudo Por Ela"}
+{"id":"ktt0104t09","artist":"Zé Cabra","song":"São Lágrimas, São Lágrimas"}
+{"id":"ptk0854","artist":"Zé do Pipo","song":"A Dança Do Kumole"}
+{"id":"ptk0705","artist":"Zé Praia","song":"Velha Carrinha"}
+{"id":"ptk0847","artist":"Zimbro","song":"Apita O Comboio (Versão Baile)"}
