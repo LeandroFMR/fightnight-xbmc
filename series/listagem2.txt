@@ -1,0 +1,5 @@
+﻿{"sid":" ","sname":"Info","sdesc":"None","sthumb":" ","sstatus":"[COLOR red]Descontinuado[/COLOR]"}
+
+{"epid":" ","epext":"mp4","epsea":" ","epnum":" ","epname":"Fim do addon"}
+{"epid":" ","epext":"mp4","epsea":" ","epnum":" ","epname":"Irá voltar noutros moldes"}
+{"epid":" ","epext":"mp4","epsea":" ","epnum":" ","epname":"Aguardem"}
