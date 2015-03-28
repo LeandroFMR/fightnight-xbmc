@@ -1,1 +1,0 @@
-listas={"titulo":"Oscares 2014","author":"eu mesmo","descricao":"ff","url":"http://dl.dropboxusercontent.com/u/25590678/testelista.txt"}

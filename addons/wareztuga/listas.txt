@@ -1,1 +1,0 @@
-listas={"titulo":"Banda Desenhada","author":"fightnight","descricao":"Esta lista é apenas um exemplo deste modo de listas.[CR][CR]Aqui vão estar os detalhes do tipo da lista.","url":"http://dl.dropboxusercontent.com/u/25590678/testelista.txt"}
