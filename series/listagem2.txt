@@ -1,0 +1,5 @@
+﻿{"sid":"blabla","sname":"Info","sdesc":"None","sthumb":" ","sstatus":"[COLOR red]Descontinuado[/COLOR]"}
+
+{"epid":"blabla1","epext":"mp4","epsea":" ","epnum":" ","epname":"Fim do addon"}
+{"epid":"blabla2","epext":"mp4","epsea":" ","epnum":" ","epname":"Irá voltar noutros moldes"}
+{"epid":"blabla3","epext":"mp4","epsea":" ","epnum":" ","epname":"Aguardem"}
