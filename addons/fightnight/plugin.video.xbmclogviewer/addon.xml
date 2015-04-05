@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.xbmclogviewer"
+       name="Log Viewer for Kodi (desinstalar esta versao, instalar a nova)"
+       version="0.2.01"
+       provider-name="fightnight">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/> 
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Show Kodi Log on GUI.</summary>
+        <description>Show Kodi Log on GUI.</description>
+        <platform>all</platform>
+		<broken>Desinstalar esta versao e instalar a nova disponivel no repositorio fightnight</broken>
+    </extension>
+</addon>
