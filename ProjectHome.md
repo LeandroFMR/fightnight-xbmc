@@ -1,0 +1,1 @@
+Portuguese addons for XBMC
